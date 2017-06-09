@@ -1,0 +1,1021 @@
+id,status,funded_amount,activity,country,geo_level,post,expire,loan_amount,humans,smile,gender,age
+1308233,funded,3300,Retail,Paraguay,town,2017-05-29T23:30:02Z,2017-06-28T23:30:02Z,3300,NA,NA,NA,NA
+1304532,fundraising,150,Retail,Sierra Leone,town,2017-05-29T23:20:04Z,2017-06-28T23:20:04Z,225,S,0.543,female,18.7
+1304534,fundraising,25,Farming,Nigeria,town,2017-05-29T23:20:04Z,2017-06-28T23:20:04Z,150,S,0.002,male,39
+1304538,funded,300,Grocery Store,Egypt,town,2017-05-29T23:20:04Z,2017-06-28T23:20:04Z,300,S,0.22,female,23.7
+1304411,fundraising,0,Farming,Kenya,town,2017-05-29T23:20:03Z,2017-06-28T23:20:03Z,600,S,0.275,female,67.4
+1304530,fundraising,275,Crafts,Armenia,town,2017-05-29T23:20:03Z,2017-06-28T23:20:03Z,1675,S,0.344,male,50.1
+1304531,fundraising,0,Farming,Kenya,town,2017-05-29T23:20:03Z,2017-06-28T23:20:03Z,300,S,0,female,15
+1304533,funded,500,Grocery Store,Nepal,town,2017-05-29T23:20:02Z,2017-06-28T23:20:02Z,500,S,0.057,female,34.6
+1304526,funded,275,Fish Selling,Sierra Leone,town,2017-05-29T23:10:03Z,2017-06-28T23:10:03Z,275,S,0.206,male,44.1
+1304527,funded,400,Carpentry,Egypt,town,2017-05-29T23:10:03Z,2017-06-28T23:10:03Z,400,NA,NA,NA,NA
+1304528,funded,150,Personal Medical Expenses,Tajikistan,town,2017-05-29T23:10:02Z,2017-06-28T23:10:02Z,150,S,0,male,34.6
+1304383,funded,200,Poultry,Kenya,town,2017-05-29T23:00:04Z,2017-06-28T23:00:04Z,200,NA,NA,NA,NA
+1304507,fundraising,0,Farming,Kenya,town,2017-05-29T23:00:04Z,2017-06-28T23:00:04Z,400,NA,NA,NA,NA
+1304519,funded,450,Beverages,Liberia,town,2017-05-29T23:00:04Z,2017-06-28T23:00:04Z,450,S,0.099,female,31.5
+1304524,fundraising,25,Personal Housing Expenses,Tajikistan,town,2017-05-29T23:00:03Z,2017-06-28T23:00:03Z,250,S,0.055,male,43.7
+1304508,funded,500,Butcher Shop,Nepal,town,2017-05-29T23:00:02Z,2017-06-28T23:00:02Z,500,S,0.448,male,42.3
+1304521,funded,500,Weaving,Nepal,town,2017-05-29T23:00:02Z,2017-06-28T23:00:02Z,500,S,0.136,female,43.6
+1304525,funded,400,Farming,Nepal,town,2017-05-29T23:00:02Z,2017-06-28T23:00:02Z,400,S,0.127,female,44.4
+1304504,fundraising,0,Farming,Nigeria,town,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,575,S,0,male,46.9
+1304517,fundraising,0,Farming,Nigeria,town,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,650,S,0.001,male,26.2
+1308213,fundraising,0,Home Energy,Nicaragua,country,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,700,S,0.147,male,32.1
+1308223,fundraising,75,Spare Parts,Ecuador,town,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,1075,S,0.001,female,39.9
+1304516,funded,200,Cattle,Kenya,town,2017-05-29T22:50:02Z,2017-06-28T22:50:02Z,200,NA,NA,NA,NA
+1304518,fundraising,0,Farming,Kenya,town,2017-05-29T22:50:02Z,2017-06-28T22:50:02Z,400,S,0.06,female,36.2
+1304510,fundraising,50,Cattle,Tajikistan,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,725,NA,NA,NA,NA
+1308212,fundraising,75,Home Energy,Nicaragua,country,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,525,NA,NA,NA,NA
+1308216,funded,275,Embroidery,Ecuador,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,275,S,0.008,male,40.3
+1308219,fundraising,0,General Store,El Salvador,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,1100,S,0.326,male,31.8
+1308220,funded,300,Bookstore,El Salvador,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,300,S,0.005,female,37.2
+1304364,fundraising,0,Farming,Kenya,town,2017-05-29T22:40:03Z,2017-06-28T22:40:03Z,400,S,0.003,male,9.7
+1304371,fundraising,0,Farming,Kenya,town,2017-05-29T22:40:03Z,2017-06-28T22:40:03Z,500,NA,NA,NA,NA
+1304512,funded,200,Farming,Kenya,town,2017-05-29T22:40:03Z,2017-06-28T22:40:03Z,200,NA,NA,NA,NA
+1304513,funded,950,Cloth & Dressmaking Supplies,Tajikistan,town,2017-05-29T22:40:02Z,2017-06-28T22:40:02Z,950,S,0.994,female,40.4
+1308125,funded,400,Crafts,El Salvador,town,2017-05-29T22:30:03Z,2017-06-28T22:30:03Z,400,S,0.28,male,33.5
+1308126,funded,400,Food Production/Sales,El Salvador,town,2017-05-29T22:30:03Z,2017-06-28T22:30:03Z,400,S,0.212,male,40.6
+1308127,funded,225,Farming,El Salvador,town,2017-05-29T22:30:03Z,2017-06-28T22:30:03Z,225,S,0.144,male,57.1
+1304503,funded,400,Food Market,Liberia,town,2017-05-29T22:30:02Z,2017-06-28T22:30:02Z,400,S,0,male,37.5
+1308111,fundraising,250,Clothing Sales,Peru,town,2017-05-29T22:20:05Z,2017-06-28T22:20:05Z,475,S,0.036,female,67.3
+1302004,funded,1025,Clothing,Burkina Faso,town,2017-05-29T22:20:04Z,2017-06-28T22:20:04Z,1025,NA,NA,NA,NA
+1304336,fundraising,50,Fruits & Vegetables,Kenya,town,2017-05-29T22:20:04Z,2017-06-28T22:20:03Z,300,S,0.962,female,14.7
+1304344,fundraising,0,Farming,Kenya,town,2017-05-29T22:20:04Z,2017-06-28T22:20:04Z,500,NA,NA,NA,NA
+1308077,fundraising,0,Mobile Phones,Colombia,town,2017-05-29T22:20:04Z,2017-06-28T22:20:04Z,1150,S,0.001,male,48.3
+1304502,funded,375,Sewing,Tajikistan,town,2017-05-29T22:20:02Z,2017-06-28T22:20:02Z,375,S,0,female,59.8
+1304494,funded,2525,Renewable Energy Products,Kenya,town,2017-05-29T22:10:04Z,2017-06-28T22:10:04Z,2525,S,0.027,male,28.8
+1304334,funded,200,Poultry,Kenya,town,2017-05-29T22:10:03Z,2017-06-28T22:10:03Z,200,NA,NA,NA,NA
+1304498,fundraising,0,Farming,Kenya,town,2017-05-29T22:10:03Z,2017-06-28T22:10:03Z,600,S,0.963,male,27.7
+1304501,fundraising,75,Farming,Kenya,town,2017-05-29T22:10:03Z,2017-06-28T22:10:03Z,300,S,0.061,female,25.3
+1304499,funded,250,Higher education costs,Tajikistan,town,2017-05-29T22:10:02Z,2017-06-28T22:10:02Z,250,S,0.336,male,22
+1304479,funded,150,Farming,Nigeria,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,150,S,0.075,male,34
+1304492,funded,1250,Retail,Ghana,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,1250,M,NA,NA,NA
+1304493,funded,125,Farming,Nigeria,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,125,S,0.169,male,32.5
+1304495,funded,800,Grocery Store,Yemen,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,800,S,0.706,male,43.7
+1304496,fundraising,50,Farming,Nigeria,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,200,S,0.219,male,37.2
+1304497,funded,500,Grocery Store,Nepal,town,2017-05-29T22:00:02Z,2017-06-28T22:00:02Z,500,S,0.097,female,41
+1301998,funded,250,Butcher Shop,Madagascar,town,2017-05-29T21:50:06Z,2017-06-28T21:50:06Z,250,S,0.045,female,32.6
+1304482,funded,400,Dairy,Pakistan,town,2017-05-29T21:50:06Z,2017-06-28T21:50:06Z,400,S,0.104,female,58.3
+1304485,fundraising,25,Sporting Good Sales,Pakistan,town,2017-05-29T21:50:06Z,2017-06-28T21:50:06Z,350,S,0.008,female,64.5
+1304302,funded,1000,Cattle,Cambodia,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,1000,M,NA,NA,NA
+1304483,fundraising,50,Cattle,Armenia,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,1050,S,1,female,47.7
+1304484,fundraising,50,Farming,Nigeria,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,375,S,0.004,male,34.9
+1304489,fundraising,0,Cattle,Tajikistan,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,825,S,0,male,34.1
+1304323,fundraising,0,Farming,Kenya,town,2017-05-29T21:50:04Z,2017-06-28T21:50:04Z,500,NA,NA,NA,NA
+1304486,fundraising,50,Fruits & Vegetables,Kenya,town,2017-05-29T21:50:04Z,2017-06-28T21:50:04Z,250,NA,NA,NA,NA
+1304488,funded,500,Retail,Kenya,town,2017-05-29T21:50:04Z,2017-06-28T21:50:04Z,500,S,0.359,male,30.5
+1304316,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T21:50:03Z,2017-06-28T21:50:03Z,225,S,0.011,male,56.1
+1304487,fundraising,0,Agriculture,Tajikistan,town,2017-05-29T21:50:02Z,2017-06-28T21:50:02Z,2950,S,0,male,34.6
+1304491,fundraising,0,Grocery Store,Tajikistan,town,2017-05-29T21:50:02Z,2017-06-28T21:50:02Z,600,S,0.555,female,64.4
+1301993,funded,225,Textiles,Madagascar,town,2017-05-29T21:40:05Z,2017-06-28T21:40:05Z,225,S,0.999,male,33.8
+1304481,fundraising,0,Tailoring,Pakistan,town,2017-05-29T21:40:05Z,2017-06-28T21:40:05Z,350,S,0.348,female,36.9
+1304292,fundraising,0,Livestock,Cambodia,town,2017-05-29T21:40:04Z,2017-06-28T21:40:04Z,625,S,0,male,38.8
+1304301,fundraising,150,Clothing Sales,Kenya,town,2017-05-29T21:40:04Z,2017-06-28T21:40:04Z,400,NA,NA,NA,NA
+1304478,funded,2500,Higher education costs,Armenia,town,2017-05-29T21:40:04Z,2017-06-28T21:40:04Z,2500,S,0.43,female,27.4
+1304480,funded,425,Personal Medical Expenses,Tajikistan,town,2017-05-29T21:40:03Z,2017-06-28T21:40:03Z,425,S,0.001,female,47.7
+1304476,funded,350,Manufacturing,Pakistan,town,2017-05-29T21:30:04Z,2017-06-28T21:30:03Z,350,S,0.024,female,26.9
+1304477,funded,350,Embroidery,Pakistan,town,2017-05-29T21:30:04Z,2017-06-28T21:30:04Z,350,S,0,female,29.7
+1304285,funded,700,Farming,Cambodia,town,2017-05-29T21:30:03Z,2017-06-28T21:30:03Z,700,M,NA,NA,NA
+1308069,fundraising,100,Agriculture,El Salvador,town,2017-05-29T21:30:03Z,2017-06-28T21:30:03Z,500,S,1,male,34.9
+1304287,fundraising,0,Farming,Kenya,town,2017-05-29T21:30:02Z,2017-06-28T21:30:02Z,400,S,0.001,male,35.4
+1301981,funded,200,Farming,Cameroon,country,2017-05-29T21:20:03Z,2017-06-28T21:20:02Z,200,NA,NA,NA,NA
+1304475,fundraising,25,Tailoring,Pakistan,town,2017-05-29T21:20:03Z,2017-06-28T21:20:03Z,350,S,0,female,32.9
+1308119,fundraising,150,General Store,El Salvador,town,2017-05-29T21:20:02Z,2017-06-28T21:20:02Z,500,S,0.872,female,41.7
+1304473,funded,300,Dairy,Pakistan,town,2017-05-29T21:10:06Z,2017-06-28T21:10:06Z,300,S,0.816,female,29.4
+1308115,funded,475,Food,Peru,town,2017-05-29T21:10:06Z,2017-06-28T21:10:06Z,475,S,0.056,female,32.3
+1308122,fundraising,25,Agriculture,El Salvador,town,2017-05-29T21:10:06Z,2017-06-28T21:10:05Z,800,NA,NA,NA,NA
+1304472,funded,200,Weaving,Philippines,town,2017-05-29T21:10:05Z,2017-06-28T21:10:04Z,200,S,0.022,male,50.9
+1308116,fundraising,100,Pigs,El Salvador,town,2017-05-29T21:10:05Z,2017-06-28T21:10:05Z,1000,NA,NA,NA,NA
+1308117,funded,300,Pigs,El Salvador,town,2017-05-29T21:10:05Z,2017-06-28T21:10:05Z,300,NA,NA,NA,NA
+1304467,funded,350,Dairy,Pakistan,town,2017-05-29T21:00:07Z,2017-06-28T21:00:07Z,350,NA,NA,NA,NA
+1304471,fundraising,50,Tailoring,Pakistan,town,2017-05-29T21:00:07Z,2017-06-28T21:00:07Z,300,S,0.866,female,29
+1304463,funded,500,Embroidery,Pakistan,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,500,S,0.008,male,41.9
+1304465,funded,125,Personal Housing Expenses,India,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,125,S,0.028,male,37.3
+1304470,fundraising,0,Farming,Nigeria,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,200,NA,NA,NA,NA
+1307980,fundraising,25,Personal Medical Expenses,Mexico,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,650,S,0.308,male,46.2
+1308102,fundraising,100,Personal Medical Expenses,Mexico,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,1300,S,0.033,male,37.8
+1308109,fundraising,125,Personal Medical Expenses,Mexico,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,1300,S,0.671,female,30.3
+1301960,fundraising,0,Agriculture,Cameroon,country,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,675,NA,NA,NA,NA
+1304464,fundraising,150,Agriculture,Armenia,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,3000,S,0.033,female,39.2
+1308113,fundraising,125,Farming,El Salvador,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,225,S,0.009,male,75.5
+1308120,funded,1000,Utilities,El Salvador,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,1000,NA,NA,NA,NA
+1308121,funded,500,Crafts,El Salvador,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,500,S,0.026,male,30.9
+1304466,funded,250,Pigs,Philippines,town,2017-05-29T21:00:04Z,2017-06-28T21:00:04Z,250,S,0.071,female,46.8
+1304453,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:50:07Z,2017-06-28T20:50:06Z,300,S,0.314,male,86.9
+1304456,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:50:07Z,2017-06-28T20:50:07Z,300,S,0.131,female,35
+1304457,funded,300,Embroidery,Pakistan,town,2017-05-29T20:50:07Z,2017-06-28T20:50:07Z,300,S,0,female,12
+1304437,funded,350,Tailoring,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,350,S,0.085,female,27.1
+1304445,fundraising,75,Tailoring,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,300,S,0.162,male,44.6
+1304450,fundraising,0,Tailoring,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,350,S,0.018,male,28.6
+1304458,funded,200,Textiles,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,200,S,0.128,female,41.1
+1307962,funded,400,Personal Medical Expenses,Mexico,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,400,S,0.204,male,32.4
+1307974,fundraising,75,Personal Medical Expenses,Mexico,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,1200,S,0,male,41.3
+1304459,funded,225,Cereals,Philippines,town,2017-05-29T20:50:05Z,2017-06-28T20:50:05Z,225,S,0.009,female,40.3
+1308118,funded,450,Agriculture,El Salvador,town,2017-05-29T20:50:05Z,2017-06-28T20:50:05Z,450,S,0.625,female,31.4
+1304309,funded,225,General Store,Philippines,town,2017-05-29T20:50:03Z,2017-06-28T20:50:03Z,225,S,0.773,male,38.4
+1304308,funded,1200,Farming,Cambodia,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,1200,NA,NA,NA,NA
+1304438,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,350,S,0.014,female,44.1
+1304440,funded,125,Personal Housing Expenses,India,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,125,S,0.587,male,51.1
+1304441,funded,200,Retail,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,200,S,0.002,female,31.2
+1304444,fundraising,50,Tailoring,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,300,S,0.032,male,41.8
+1304446,fundraising,50,Tailoring,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,350,S,0.422,female,29.3
+1308110,fundraising,0,General Store,El Salvador,town,2017-05-29T20:40:06Z,2017-06-28T20:40:06Z,800,S,0.002,female,51.9
+1308112,funded,800,Pigs,El Salvador,town,2017-05-29T20:40:06Z,2017-06-28T20:40:06Z,800,NA,NA,NA,NA
+1304443,funded,175,Pigs,Philippines,town,2017-05-29T20:40:05Z,2017-06-28T20:40:05Z,175,S,0.173,female,50
+1304447,funded,750,Grocery Store,Jordan,town,2017-05-29T20:40:05Z,2017-06-28T20:40:05Z,750,S,0.551,female,41.9
+1304448,funded,200,Pigs,Philippines,town,2017-05-29T20:40:05Z,2017-06-28T20:40:05Z,200,S,0.251,female,35.3
+1304262,funded,225,General Store,Philippines,town,2017-05-29T20:40:03Z,2017-06-28T20:40:03Z,225,S,0.101,male,30.4
+1304423,fundraising,0,Livestock,Tajikistan,town,2017-05-29T20:40:02Z,2017-06-28T20:40:02Z,825,S,0.579,female,46.6
+1308106,funded,625,Food Stall,Peru,town,2017-05-29T20:30:06Z,2017-06-28T20:30:06Z,625,NA,NA,NA,NA
+1304429,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350,S,0.024,female,23.1
+1304433,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350,S,0.212,female,32.4
+1304434,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350,S,0.042,female,41.6
+1304435,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350,S,0.024,male,36.6
+1308107,fundraising,175,Cattle,El Salvador,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,250,NA,NA,NA,NA
+1304405,funded,125,Farming,Kenya,town,2017-05-29T20:30:04Z,2017-06-28T20:30:04Z,125,NA,NA,NA,NA
+1304439,funded,1175,Manufacturing,Jordan,town,2017-05-29T20:30:04Z,2017-06-28T20:30:04Z,1175,S,0.366,male,34.5
+1308108,funded,850,Agriculture,Costa Rica,town,2017-05-29T20:30:04Z,2017-06-28T20:30:03Z,850,S,0.019,male,25.4
+1304286,funded,225,Food Production/Sales,Philippines,town,2017-05-29T20:30:03Z,2017-06-28T20:30:03Z,225,S,0.126,female,28.4
+1304431,fundraising,200,Home Appliances,Tajikistan,town,2017-05-29T20:30:03Z,2017-06-28T20:30:03Z,600,S,0.18,female,25.7
+1304303,funded,475,Higher education costs,Tajikistan,town,2017-05-29T20:30:02Z,2017-06-28T20:30:02Z,475,S,0.008,female,59.4
+1304420,funded,175,Personal Housing Expenses,India,town,2017-05-29T20:20:06Z,2017-06-28T20:20:06Z,175,S,0.753,female,21.5
+1304424,funded,125,Personal Housing Expenses,India,town,2017-05-29T20:20:06Z,2017-06-28T20:20:06Z,125,S,0.023,female,27.9
+1304428,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:20:06Z,2017-06-28T20:20:06Z,350,S,0.03,female,28.9
+1308104,fundraising,100,Personal Housing Expenses,Mexico,town,2017-05-29T20:20:05Z,2017-06-28T20:20:05Z,450,S,0.662,female,25.9
+1308105,fundraising,150,Perfumes,El Salvador,town,2017-05-29T20:20:05Z,2017-06-28T20:20:05Z,375,S,0.194,female,46.6
+1304404,funded,2075,Event Planning,Armenia,town,2017-05-29T20:20:04Z,2017-06-28T20:20:04Z,2075,S,0.213,female,37.2
+1304417,funded,325,Construction,Philippines,town,2017-05-29T20:20:04Z,2017-06-28T20:20:04Z,325,NA,NA,NA,NA
+1304422,fundraising,75,Agriculture,Armenia,town,2017-05-29T20:20:04Z,2017-06-28T20:20:04Z,2075,S,0.167,female,33.8
+1308101,funded,775,Higher education costs,Peru,town,2017-05-29T20:20:03Z,2017-06-28T20:20:03Z,775,S,0.144,male,37.2
+1304413,funded,175,Personal Housing Expenses,India,town,2017-05-29T20:10:06Z,2017-06-28T20:10:06Z,175,S,0.39,female,26.3
+1304416,funded,175,Personal Housing Expenses,India,town,2017-05-29T20:10:06Z,2017-06-28T20:10:06Z,175,S,0.107,male,35.2
+1304393,funded,225,Home Appliances,Cambodia,town,2017-05-29T20:10:05Z,2017-06-28T20:10:05Z,225,NA,NA,NA,NA
+1304408,funded,175,Home Appliances,Cambodia,town,2017-05-29T20:10:05Z,2017-06-28T20:10:05Z,175,M,NA,NA,NA
+1308103,funded,500,Agriculture,El Salvador,town,2017-05-29T20:10:05Z,2017-06-28T20:10:05Z,500,NA,NA,NA,NA
+1304325,funded,225,Water Distribution,Philippines,town,2017-05-29T20:10:04Z,2017-06-28T20:10:04Z,225,S,0.002,female,70.5
+1304410,funded,200,Farming,Kenya,town,2017-05-29T20:10:04Z,2017-06-28T20:10:04Z,200,S,0.027,male,78.7
+1304419,fundraising,100,Agriculture,Tajikistan,town,2017-05-29T20:10:03Z,2017-06-28T20:10:03Z,1200,S,0.255,male,41.5
+1304412,fundraising,500,Motorcycle Repair,Lebanon,town,2017-05-29T20:10:02Z,2017-06-28T20:10:02Z,2500,S,0,male,30.9
+1304402,funded,225,Home Appliances,Cambodia,town,2017-05-29T20:00:05Z,2017-06-28T20:00:05Z,225,NA,NA,NA,NA
+1301845,fundraising,0,Farming,Cameroon,country,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,375,S,0.291,male,44
+1304365,fundraising,25,Fruits & Vegetables,Tajikistan,town,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,250,S,0.006,male,26.3
+1304400,fundraising,100,Farming,Cambodia,town,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,975,M,NA,NA,NA
+1304403,funded,850,Mobile Transactions,Malawi,town,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,850,S,0.996,female,21.4
+1301770,funded,3400,Tailoring,Congo (Dem. Rep.),country,2017-05-29T20:00:03Z,2017-06-28T20:00:03Z,3400,M,NA,NA,NA
+1304382,fundraising,0,Cereals,Kenya,town,2017-05-29T20:00:03Z,2017-06-28T20:00:03Z,700,S,0.323,female,40
+1304406,funded,725,Higher education costs,Jordan,town,2017-05-29T20:00:03Z,2017-06-28T20:00:03Z,725,S,0.007,female,24.1
+1304398,fundraising,25,Sewing,Tajikistan,town,2017-05-29T20:00:02Z,2017-06-28T20:00:02Z,600,S,0.379,female,43.9
+1304392,funded,400,Furniture Making,India,town,2017-05-29T19:50:07Z,2017-06-28T19:50:07Z,400,S,0.059,female,49.7
+1304389,funded,1300,Decorations Sales,Jordan,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,1300,S,0.706,female,47.8
+1304395,fundraising,0,Farming,Kenya,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,400,S,0.24,female,8.6
+1308093,funded,275,Home Energy,Honduras,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,275,S,0.071,female,60.7
+1308094,funded,2900,Higher education costs,Peru,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,2900,S,1,female,36.1
+1304054,funded,225,General Store,Philippines,town,2017-05-29T19:50:05Z,2017-06-28T19:50:05Z,225,S,0.341,male,46.2
+1304359,funded,225,General Store,Philippines,town,2017-05-29T19:50:05Z,2017-06-28T19:50:05Z,225,S,0.041,male,35.6
+1304384,fundraising,0,Food Stall,Kenya,town,2017-05-29T19:50:03Z,2017-06-28T19:50:03Z,500,S,0.011,female,50.2
+1304394,funded,200,Retail,Kenya,town,2017-05-29T19:50:03Z,2017-06-28T19:50:03Z,200,S,0.003,male,24.2
+1304397,fundraising,0,General Store,Kenya,town,2017-05-29T19:50:03Z,2017-06-28T19:50:03Z,600,S,0.343,male,40.9
+1308100,funded,775,Higher education costs,Peru,town,2017-05-29T19:50:02Z,2017-06-28T19:50:02Z,775,S,0.028,female,24.7
+1304376,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,225,S,0,male,45.9
+1304379,funded,125,Home Appliances,Cambodia,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,125,M,NA,NA,NA
+1304381,fundraising,0,Farming,Kenya,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,350,NA,NA,NA,NA
+1304385,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,225,NA,NA,NA,NA
+1308092,funded,925,Agriculture,Peru,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,925,NA,NA,NA,NA
+1308099,fundraising,225,Clothing Sales,Peru,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,925,S,0.058,female,33.9
+1304377,funded,225,Construction,Philippines,town,2017-05-29T19:40:04Z,2017-06-28T19:40:04Z,225,S,0.181,male,28.4
+1303479,funded,750,Cosmetics Sales,Lebanon,country,2017-05-29T19:40:03Z,2017-06-28T19:40:03Z,750,S,0.066,female,41.6
+1304372,funded,1000,Farming,Cambodia,town,2017-05-29T19:40:03Z,2017-06-28T19:40:03Z,1000,S,0.126,female,43.3
+1304375,funded,600,Farming,Tajikistan,town,2017-05-29T19:40:03Z,2017-06-28T19:40:03Z,600,NA,NA,NA,NA
+1304369,funded,200,Grocery Store,Kenya,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,200,NA,NA,NA,NA
+1304373,funded,100,Home Appliances,Cambodia,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,100,S,0.846,female,43.5
+1304374,funded,200,Used Clothing,Kenya,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,200,S,0.001,male,42.2
+1308090,funded,875,Agriculture,Honduras,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,875,NA,NA,NA,NA
+1304367,funded,500,Beauty Salon,Lebanon,town,2017-05-29T19:30:03Z,2017-06-28T19:30:02Z,500,S,0,female,25.3
+1308098,fundraising,225,Personal Housing Expenses,Costa Rica,town,2017-05-29T19:30:03Z,2017-06-28T19:30:03Z,1700,S,0.117,female,35
+1304342,fundraising,675,Dental,Lebanon,town,2017-05-29T19:30:02Z,2017-06-28T19:30:02Z,2500,M,NA,NA,NA
+1304370,funded,250,Higher education costs,Tajikistan,town,2017-05-29T19:30:02Z,2017-06-28T19:30:02Z,250,S,0.527,male,33.1
+1301764,funded,175,Cosmetics Sales,Madagascar,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,175,S,0.006,male,29.1
+1304268,funded,400,Weaving,India,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,400,S,0.003,female,24.5
+1304360,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,225,S,0.467,male,51.5
+1304363,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,225,NA,NA,NA,NA
+1308087,fundraising,1300,Higher education costs,Peru,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,4200,NA,NA,NA,NA
+1308096,funded,475,Poultry,Peru,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,475,S,0.87,female,41
+1308097,funded,625,Farming,Peru,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,625,NA,NA,NA,NA
+1304267,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,225,NA,NA,NA,NA
+1304274,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,225,M,NA,NA,NA
+1304338,funded,175,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,175,NA,NA,NA,NA
+1304355,fundraising,75,Personal Housing Expenses,Kosovo,country,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,1150,S,0.109,female,75.7
+1304357,funded,175,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,175,NA,NA,NA,NA
+1304358,funded,175,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,175,NA,NA,NA,NA
+1304349,fundraising,250,Farming,Cambodia,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,625,M,NA,NA,NA
+1304354,fundraising,0,Farming,Kenya,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,400,S,0.913,female,55.6
+1304366,fundraising,300,Farming,Cambodia,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,875,M,NA,NA,NA
+1308091,fundraising,50,Farming,El Salvador,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,500,NA,NA,NA,NA
+1304269,funded,250,Food,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,250,S,0.999,female,39.6
+1304347,funded,425,Food Production/Sales,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,425,S,0.995,female,43.9
+1304348,funded,250,Fishing,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,250,S,0.002,male,27
+1304356,funded,275,Pigs,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,275,NA,NA,NA,NA
+1308086,fundraising,1375,Cattle,Costa Rica,town,2017-05-29T19:20:03Z,2017-06-28T19:20:03Z,2550,S,0.266,female,40.7
+1304362,fundraising,0,Cattle,Tajikistan,town,2017-05-29T19:20:02Z,2017-06-28T19:20:02Z,375,S,0.777,female,24.1
+1304335,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,225,S,0.251,female,9.8
+1304350,fundraising,100,Personal Housing Expenses,Kosovo,country,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,575,NA,NA,NA,NA
+1304352,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,225,NA,NA,NA,NA
+1308089,funded,425,Pigs,El Salvador,town,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,425,NA,NA,NA,NA
+1304340,funded,625,General Store,Philippines,town,2017-05-29T19:10:07Z,2017-06-28T19:10:07Z,625,NA,NA,NA,NA
+1304343,funded,325,Fishing,Philippines,town,2017-05-29T19:10:07Z,2017-06-28T19:10:07Z,325,S,0.643,female,11.7
+1304353,funded,325,Fishing,Philippines,town,2017-05-29T19:10:07Z,2017-06-28T19:10:07Z,325,S,0.035,female,44
+1304264,funded,200,Liquor Store / Off-License,Kenya,town,2017-05-29T19:10:05Z,2017-06-28T19:10:05Z,200,S,0.064,male,55.6
+1304333,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T19:10:04Z,2017-06-28T19:10:04Z,125,NA,NA,NA,NA
+1304346,funded,625,Pigs,Philippines,town,2017-05-29T19:10:04Z,2017-06-28T19:10:04Z,625,S,0.621,female,47.7
+1304341,funded,2000,Higher education costs,Lebanon,town,2017-05-29T19:10:02Z,2017-06-28T19:10:02Z,2000,S,0.026,female,39.5
+1304351,funded,475,Higher education costs,Tajikistan,town,2017-05-29T19:10:02Z,2017-06-28T19:10:02Z,475,NA,NA,NA,NA
+1301743,funded,400,Used Clothing,Madagascar,town,2017-05-29T19:00:06Z,2017-06-28T19:00:05Z,400,S,0.995,male,17.8
+1301753,funded,1700,Beauty Salon,Congo (Dem. Rep.),country,2017-05-29T19:00:05Z,2017-06-28T19:00:05Z,1700,S,0.023,male,27.1
+1308082,funded,250,Farming,El Salvador,town,2017-05-29T19:00:05Z,2017-06-28T19:00:05Z,250,S,0.011,male,42.7
+1308085,fundraising,150,Personal Housing Expenses,Peru,town,2017-05-29T19:00:05Z,2017-06-28T19:00:05Z,1550,S,0.996,female,38
+1304322,funded,325,Fish Selling,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,325,S,0.215,female,81.2
+1304327,funded,325,Fishing,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,325,S,0.09,female,35
+1304331,funded,225,Fishing,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,225,S,0.862,female,29.8
+1304339,funded,625,Pigs,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,625,S,0.026,female,41.5
+1304332,fundraising,0,Fruits & Vegetables,Tajikistan,town,2017-05-29T19:00:02Z,2017-06-28T19:00:02Z,375,S,0.11,female,33.1
+1304288,fundraising,0,Farming,Cambodia,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,1000,NA,NA,NA,NA
+1304306,fundraising,100,Fish Selling,Kenya,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,500,S,0.057,male,37.2
+1304318,funded,125,Home Appliances,Cambodia,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,125,NA,NA,NA,NA
+1304329,funded,125,Home Appliances,Cambodia,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,125,NA,NA,NA,NA
+1308063,funded,700,Food,Colombia,town,2017-05-29T18:50:06Z,2017-06-28T18:50:06Z,700,NA,NA,NA,NA
+1308081,funded,600,Farming,El Salvador,town,2017-05-29T18:50:06Z,2017-06-28T18:50:06Z,600,M,NA,NA,NA
+1308084,fundraising,25,Food Production/Sales,El Salvador,town,2017-05-29T18:50:06Z,2017-06-28T18:50:06Z,500,NA,NA,NA,NA
+1301733,funded,3925,Food Stall,Congo (Dem. Rep.),country,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,3925,NA,NA,NA,NA
+1304313,funded,425,Food,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,425,S,0.887,male,39.5
+1304317,funded,225,Fruits & Vegetables,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,225,S,0,male,35.7
+1304324,funded,425,Pigs,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,425,S,0,female,37.6
+1304328,funded,475,Farming,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,475,NA,NA,NA,NA
+1304294,fundraising,275,Agriculture,Vietnam,town,2017-05-29T18:50:03Z,2017-06-28T18:50:03Z,1325,S,0.033,female,25.5
+1304330,funded,250,Personal Medical Expenses,Tajikistan,town,2017-05-29T18:50:02Z,2017-06-28T18:50:02Z,250,S,0,female,31.2
+1303914,funded,400,Weaving,India,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,400,S,0.369,female,12
+1304319,funded,425,Manufacturing,Philippines,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,425,NA,NA,NA,NA
+1304320,funded,125,Home Appliances,Cambodia,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,125,M,NA,NA,NA
+1308079,funded,300,Food Production/Sales,El Salvador,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,300,S,1,female,53.6
+1304291,funded,2075,Agriculture,Armenia,town,2017-05-29T18:40:07Z,2017-06-28T18:40:07Z,2075,S,0.993,female,45.7
+1304307,funded,325,General Store,Philippines,town,2017-05-29T18:40:07Z,2017-06-28T18:40:07Z,325,S,0.034,male,36.6
+1304314,funded,775,Pharmacy,Kenya,town,2017-05-29T18:40:05Z,2017-06-28T18:40:04Z,775,S,0.157,male,36.5
+1304315,funded,125,Arts,Philippines,town,2017-05-29T18:40:04Z,2017-06-28T18:40:04Z,125,S,0.029,female,34.3
+1308080,funded,1800,Furniture Making,Costa Rica,town,2017-05-29T18:40:04Z,2017-06-28T18:40:04Z,1800,S,0.194,female,29.2
+1304304,fundraising,25,Clothing Sales,Tajikistan,town,2017-05-29T18:40:03Z,2017-06-28T18:40:02Z,1775,M,NA,NA,NA
+1304311,funded,675,Agriculture,Vietnam,town,2017-05-29T18:40:03Z,2017-06-28T18:40:03Z,675,S,0.073,male,53.3
+1304290,funded,325,Poultry,India,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,325,S,0.158,female,29
+1304297,funded,225,Home Appliances,Cambodia,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,225,M,NA,NA,NA
+1304305,funded,100,Home Appliances,Cambodia,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,100,M,NA,NA,NA
+1308074,funded,3000,Home Energy,Honduras,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,3000,S,0.482,female,42.3
+1308071,funded,200,Agriculture,El Salvador,town,2017-05-29T18:30:07Z,2017-06-28T18:30:07Z,200,S,0.954,male,88.7
+1308075,funded,200,Farming,El Salvador,town,2017-05-29T18:30:07Z,2017-06-28T18:30:07Z,200,S,0.026,female,35.4
+1304299,funded,225,Pigs,Philippines,town,2017-05-29T18:30:06Z,2017-06-28T18:30:06Z,225,S,0.894,female,38.9
+1304312,funded,225,General Store,Philippines,town,2017-05-29T18:30:06Z,2017-06-28T18:30:06Z,225,S,0.407,female,36.2
+1308076,funded,400,Livestock,Nicaragua,town,2017-05-29T18:30:06Z,2017-06-28T18:30:06Z,400,NA,NA,NA,NA
+1304088,funded,425,General Store,Philippines,town,2017-05-29T18:30:04Z,2017-06-28T18:30:04Z,425,S,1,female,23.6
+1304298,funded,225,Personal Expenses,Philippines,town,2017-05-29T18:30:04Z,2017-06-28T18:30:04Z,225,S,0.436,female,22.1
+1304300,funded,250,Fruits & Vegetables,Tajikistan,town,2017-05-29T18:30:03Z,2017-06-28T18:30:03Z,250,NA,NA,NA,NA
+1304225,funded,575,Phone Accessories,Egypt,town,2017-05-29T18:20:09Z,2017-06-28T18:20:09Z,575,S,0.033,female,31.9
+1304293,funded,575,Cattle,Egypt,town,2017-05-29T18:20:09Z,2017-06-28T18:20:09Z,575,S,0.106,female,21.2
+1304222,fundraising,125,Personal Housing Expenses,Cambodia,town,2017-05-29T18:20:08Z,2017-06-28T18:20:08Z,500,M,NA,NA,NA
+1304289,fundraising,0,Farming,Cambodia,town,2017-05-29T18:20:08Z,2017-06-28T18:20:08Z,500,S,0.107,male,35.7
+1304296,funded,225,Home Appliances,Cambodia,town,2017-05-29T18:20:08Z,2017-06-28T18:20:08Z,225,NA,NA,NA,NA
+1308068,fundraising,0,Food Stall,Colombia,town,2017-05-29T18:20:07Z,2017-06-28T18:20:07Z,525,NA,NA,NA,NA
+1308073,fundraising,0,General Store,El Salvador,town,2017-05-29T18:20:07Z,2017-06-28T18:20:07Z,900,S,1,male,76.3
+1304224,funded,225,Crafts,Philippines,town,2017-05-29T18:20:06Z,2017-06-28T18:20:06Z,225,S,0.01,female,44.5
+1304284,funded,100,Personal Expenses,Philippines,town,2017-05-29T18:20:04Z,2017-06-28T18:20:04Z,100,S,0.998,female,76.3
+1304223,funded,500,Beauty Salon,Lebanon,town,2017-05-29T18:20:03Z,2017-06-28T18:20:02Z,500,S,0.049,female,25.5
+1307958,funded,1050,Restaurant,Peru,town,2017-05-29T18:20:03Z,2017-06-28T18:20:03Z,1050,S,0.049,female,44.8
+1301726,funded,250,Beauty Salon,Madagascar,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,250,S,0.329,male,34.9
+1304266,fundraising,0,Motorcycle Transport,Kenya,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,600,S,0.333,male,16
+1304276,funded,325,Plastics Sales,Philippines,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,325,S,0.016,female,28.3
+1308065,funded,525,Retail,Colombia,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,525,S,0.022,female,28.6
+1308066,funded,275,Auto Repair,Ecuador,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,275,NA,NA,NA,NA
+1304221,funded,175,Retail,Philippines,town,2017-05-29T18:10:03Z,2017-06-28T18:10:03Z,175,S,0.096,female,45.2
+1304283,funded,625,General Store,Philippines,town,2017-05-29T18:10:03Z,2017-06-28T18:10:03Z,625,NA,NA,NA,NA
+1304270,fundraising,0,Vehicle,Cambodia,town,2017-05-29T18:10:02Z,2017-06-28T18:10:02Z,1500,S,1,female,61.1
+1305753,funded,525,General Store,Mozambique,town,2017-05-29T18:10:02Z,2017-06-28T18:10:02Z,525,NA,NA,NA,NA
+1303910,funded,400,Metal Shop,India,town,2017-05-29T18:00:05Z,2017-06-28T18:00:05Z,400,S,0.257,female,42.4
+1304280,funded,225,Home Appliances,Cambodia,town,2017-05-29T18:00:05Z,2017-06-28T18:00:05Z,225,NA,NA,NA,NA
+1304281,funded,100,Home Appliances,Cambodia,town,2017-05-29T18:00:05Z,2017-06-28T18:00:05Z,100,M,NA,NA,NA
+1299849,funded,3000,Higher education costs,Tajikistan,town,2017-05-29T18:00:04Z,2017-06-28T18:00:04Z,3000,S,0.012,female,42.5
+1304275,fundraising,0,Vehicle,Cambodia,town,2017-05-29T18:00:03Z,2017-06-28T18:00:03Z,1250,NA,NA,NA,NA
+1304279,fundraising,0,Farming,Cambodia,town,2017-05-29T18:00:03Z,2017-06-28T18:00:03Z,750,S,0.205,female,28
+1299867,fundraising,25,Sewing,Tajikistan,town,2017-05-29T18:00:02Z,2017-06-28T18:00:02Z,375,S,0.68,female,63.8
+1304261,funded,175,Home Appliances,Cambodia,town,2017-05-29T17:50:05Z,2017-06-28T17:50:05Z,175,NA,NA,NA,NA
+1308062,fundraising,475,Agriculture,Colombia,town,2017-05-29T17:50:04Z,2017-06-28T17:50:04Z,700,NA,NA,NA,NA
+1299733,fundraising,0,Farming,Tajikistan,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,475,S,0.013,female,31.6
+1304263,funded,1500,Beauty Salon,Lebanon,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,1500,S,0.402,female,27.5
+1304272,funded,250,Retail,Tajikistan,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,250,NA,NA,NA,NA
+1304278,funded,100,Personal Medical Expenses,Tajikistan,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,100,S,0.115,male,27.3
+1299570,funded,575,Agriculture,Ukraine,town,2017-05-29T17:50:02Z,2017-06-28T17:50:02Z,575,NA,NA,NA,NA
+1304257,fundraising,0,Farming,Cambodia,town,2017-05-29T17:40:06Z,2017-06-28T17:40:06Z,1250,S,0.009,male,37.2
+1304260,funded,575,Manufacturing,Egypt,town,2017-05-29T17:40:06Z,2017-06-28T17:40:06Z,575,S,0.005,male,41.3
+1304256,funded,525,General Store,Philippines,town,2017-05-29T17:40:05Z,2017-06-28T17:40:05Z,525,S,0.091,male,38.6
+1304258,funded,225,General Store,Philippines,town,2017-05-29T17:40:05Z,2017-06-28T17:40:05Z,225,S,0.016,female,69.2
+1304220,funded,250,Poultry,Kenya,town,2017-05-29T17:40:03Z,2017-06-28T17:40:03Z,250,NA,NA,NA,NA
+1304255,fundraising,25,Clothing Sales,Kenya,town,2017-05-29T17:40:03Z,2017-06-28T17:40:03Z,875,S,0.129,male,26.2
+1304259,fundraising,0,Clothing Sales,Kenya,town,2017-05-29T17:40:03Z,2017-06-28T17:40:03Z,600,NA,NA,NA,NA
+1308064,fundraising,100,Construction,Colombia,town,2017-05-29T17:30:07Z,2017-06-28T17:30:07Z,700,S,0.095,male,43
+1304218,funded,425,Recycled Materials,Philippines,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,425,S,0.008,female,46.4
+1304243,funded,475,General Store,Philippines,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,475,S,0.106,female,62.2
+1304252,funded,350,General Store,Philippines,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,350,NA,NA,NA,NA
+1304254,funded,175,Primary/secondary school costs,Kenya,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,175,S,0.286,female,47.7
+1304251,funded,200,Farming,Kenya,town,2017-05-29T17:30:03Z,2017-06-28T17:30:03Z,200,S,0.32,female,28.1
+1304253,fundraising,75,Fruits & Vegetables,Kenya,town,2017-05-29T17:30:03Z,2017-06-28T17:30:03Z,300,S,0.323,male,33.9
+1304219,funded,1500,Personal Medical Expenses,Lebanon,town,2017-05-29T17:30:02Z,2017-06-28T17:30:02Z,1500,M,NA,NA,NA
+1304248,fundraising,425,Cosmetics Sales,Cambodia,town,2017-05-29T17:30:02Z,2017-06-28T17:30:02Z,1500,S,0.088,female,24.2
+1304250,funded,1000,Agriculture,Cambodia,town,2017-05-29T17:30:02Z,2017-06-28T17:30:02Z,1000,S,0.578,female,25.2
+1304239,funded,300,Grocery Store,Egypt,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,300,S,0.383,female,44.4
+1304246,funded,225,Home Appliances,Cambodia,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,225,S,0.004,female,45.2
+1304247,funded,175,Home Appliances,Cambodia,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,175,NA,NA,NA,NA
+1308060,fundraising,75,Agriculture,El Salvador,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,400,S,1,male,41.8
+1308025,funded,300,General Store,El Salvador,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,300,S,0.022,female,10.5
+1308048,funded,700,Agriculture,Colombia,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,700,S,0.082,female,40.7
+1308057,funded,525,Beauty Salon,Colombia,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,525,S,0.324,female,45.6
+1308059,fundraising,225,Sewing,Colombia,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,875,S,1,male,48.3
+1304120,funded,250,Pigs,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,250,S,0.998,female,31.1
+1304213,funded,425,Transportation,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,425,S,0.424,female,37
+1304214,funded,250,General Store,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,250,S,0.008,male,59.4
+1304240,funded,600,General Store,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,600,S,0.909,female,77
+1304245,funded,250,General Store,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,250,S,0.05,female,35
+1304242,fundraising,50,Food,Kenya,town,2017-05-29T17:20:02Z,2017-06-28T17:20:02Z,500,S,0.129,female,28.4
+1304244,fundraising,0,Charcoal Sales,Kenya,town,2017-05-29T17:20:02Z,2017-06-28T17:20:02Z,500,S,0.644,male,35.3
+1304249,fundraising,0,Retail,Kenya,town,2017-05-29T17:20:02Z,2017-06-28T17:20:02Z,350,S,0.012,female,50.4
+1301730,funded,200,Grocery Store,Madagascar,town,2017-05-29T17:10:09Z,2017-06-28T17:10:09Z,200,S,0.157,male,28.9
+1304232,funded,175,Home Appliances,Cambodia,town,2017-05-29T17:10:09Z,2017-06-28T17:10:09Z,175,NA,NA,NA,NA
+1304235,funded,400,Grocery Store,India,town,2017-05-29T17:10:09Z,2017-06-28T17:10:09Z,400,S,0,female,31.3
+1301698,funded,2275,Food Stall,Congo (Dem. Rep.),country,2017-05-29T17:10:08Z,2017-06-28T17:10:08Z,2275,M,NA,NA,NA
+1301715,funded,2500,Pharmacy,Congo (Dem. Rep.),country,2017-05-29T17:10:08Z,2017-06-28T17:10:08Z,2500,M,NA,NA,NA
+1304216,fundraising,500,Grocery Store,Cambodia,town,2017-05-29T17:10:08Z,2017-06-28T17:10:08Z,1050,M,NA,NA,NA
+1304119,funded,325,Food Production/Sales,Philippines,town,2017-05-29T17:10:07Z,2017-06-28T17:10:07Z,325,S,1,female,55.1
+1304237,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T17:10:07Z,2017-06-28T17:10:07Z,225,S,0.969,female,48.4
+1304241,funded,250,Primary/secondary school costs,Kenya,town,2017-05-29T17:10:07Z,2017-06-28T17:10:07Z,250,S,0.131,male,44.5
+1304231,funded,100,Barber Shop,Philippines,town,2017-05-29T17:10:04Z,2017-06-28T17:10:04Z,100,S,0.007,male,35.3
+1304233,fundraising,0,Motorcycle Transport,Kenya,town,2017-05-29T17:10:04Z,2017-06-28T17:10:04Z,400,S,0.132,male,31.3
+1304236,funded,500,Primary/secondary school costs,Lebanon,town,2017-05-29T17:10:03Z,2017-06-28T17:10:03Z,500,M,NA,NA,NA
+1304238,funded,600,Farming,Cambodia,town,2017-05-29T17:10:03Z,2017-06-28T17:10:03Z,600,S,0.057,male,40.6
+1304234,funded,500,Farming,Cambodia,town,2017-05-29T17:10:02Z,2017-06-28T17:10:02Z,500,S,0.321,male,34.5
+1304147,funded,100,Home Appliances,Cambodia,town,2017-05-29T17:00:08Z,2017-06-28T17:00:08Z,100,M,NA,NA,NA
+1304230,funded,675,Embroidery,Pakistan,town,2017-05-29T17:00:08Z,2017-06-28T17:00:08Z,675,M,NA,NA,NA
+1303857,fundraising,350,Farming,Cambodia,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,1000,M,NA,NA,NA
+1304148,fundraising,225,Farming,Cambodia,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,1000,M,NA,NA,NA
+1304226,funded,1000,Farming,Cambodia,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,1000,M,NA,NA,NA
+1308019,funded,400,Cheese Making,El Salvador,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,400,S,0.218,female,52.5
+1301677,funded,4700,Food Stall,Congo (Dem. Rep.),country,2017-05-29T17:00:06Z,2017-06-28T17:00:05Z,4700,NA,NA,NA,NA
+1308053,fundraising,100,Cafe,Colombia,town,2017-05-29T17:00:06Z,2017-06-28T17:00:06Z,700,NA,NA,NA,NA
+1308056,fundraising,0,Pigs,Colombia,town,2017-05-29T17:00:06Z,2017-06-28T17:00:06Z,525,NA,NA,NA,NA
+1301644,funded,4650,Pharmacy,Congo (Dem. Rep.),country,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,4650,NA,NA,NA,NA
+1303855,funded,225,Fishing,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,225,S,0.002,female,52.2
+1303856,funded,350,Food,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,350,S,0.005,female,34.1
+1303859,funded,175,Fish Selling,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,175,S,0.026,female,71
+1304229,funded,250,Fish Selling,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,250,S,0.007,female,78.2
+1301253,fundraising,125,Cloth & Dressmaking Supplies,Senegal,country,2017-05-29T17:00:02Z,2017-06-28T17:00:02Z,875,M,NA,NA,NA
+1301639,fundraising,275,Food Stall,Madagascar,town,2017-05-29T16:50:07Z,2017-06-28T16:50:07Z,750,S,0.483,male,33.4
+1304117,fundraising,0,Farming,Cambodia,town,2017-05-29T16:50:07Z,2017-06-28T16:50:07Z,1000,S,0,female,47.2
+1304118,funded,225,Farming,Philippines,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,225,S,0.002,male,62.4
+1304228,funded,325,Food Production/Sales,Philippines,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,325,S,0.012,female,40
+1308013,funded,300,Farming,El Salvador,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,300,S,1,male,39
+1308051,fundraising,75,Agriculture,El Salvador,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,300,S,0.665,male,65.9
+1303854,funded,375,Pigs,Philippines,town,2017-05-29T16:50:05Z,2017-06-28T16:50:05Z,375,S,0.006,female,24.4
+1304215,fundraising,0,Cereals,Kenya,town,2017-05-29T16:50:03Z,2017-06-28T16:50:03Z,975,NA,NA,NA,NA
+1308045,fundraising,525,Agriculture,Costa Rica,town,2017-05-29T16:50:03Z,2017-06-28T16:50:03Z,1700,S,0.276,male,49.6
+1304211,funded,175,Home Appliances,Cambodia,town,2017-05-29T16:40:06Z,2017-06-28T16:40:06Z,175,S,0.007,male,41
+1308042,fundraising,125,Farming,El Salvador,town,2017-05-29T16:40:06Z,2017-06-28T16:40:06Z,300,S,0.557,male,79.8
+1308047,funded,275,Taxi,Ecuador,town,2017-05-29T16:40:06Z,2017-06-28T16:40:06Z,275,NA,NA,NA,NA
+1304217,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T16:40:05Z,2017-06-28T16:40:05Z,125,S,0.303,female,53.5
+1308038,fundraising,0,Cafe,Colombia,town,2017-05-29T16:40:05Z,2017-06-28T16:40:05Z,700,S,0.579,female,56.7
+1304212,funded,400,Tailoring,Kenya,town,2017-05-29T16:40:03Z,2017-06-28T16:40:03Z,400,S,0.289,male,27.3
+1308005,fundraising,3900,Farming,Bolivia,town,2017-05-29T16:40:02Z,2017-06-28T16:40:02Z,5775,NA,NA,NA,NA
+1304201,fundraising,175,General Store,Pakistan,town,2017-05-29T16:30:08Z,2017-06-28T16:30:07Z,975,M,NA,NA,NA
+1304207,fundraising,0,Agriculture,Cambodia,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,1625,M,NA,NA,NA
+1307999,fundraising,125,Farming,El Salvador,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,400,S,0.138,male,50.4
+1308032,fundraising,100,Farming,El Salvador,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,350,S,1,male,34.5
+1308037,funded,200,Farming,El Salvador,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,200,S,0.999,male,74.4
+1304210,funded,200,Primary/secondary school costs,Kenya,town,2017-05-29T16:30:06Z,2017-06-28T16:30:05Z,200,NA,NA,NA,NA
+1307979,fundraising,25,Barber Shop,El Salvador,town,2017-05-29T16:30:06Z,2017-06-28T16:30:06Z,1500,S,0.508,male,29.7
+1307994,fundraising,25,Agriculture,El Salvador,town,2017-05-29T16:30:06Z,2017-06-28T16:30:06Z,500,S,0.435,male,30.6
+1304204,funded,325,Manufacturing,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,325,S,0,female,86.3
+1304206,funded,325,General Store,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,325,S,1,female,30.9
+1304208,funded,225,General Store,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,225,S,0.184,male,69.8
+1304209,funded,350,General Store,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,350,S,0.163,male,48.2
+1304108,funded,150,Personal Housing Expenses,Philippines,town,2017-05-29T16:30:04Z,2017-06-28T16:30:04Z,150,S,0.003,female,67
+1304205,funded,1500,Personal Medical Expenses,Lebanon,town,2017-05-29T16:30:02Z,2017-06-28T16:30:02Z,1500,S,0.067,male,55.5
+1301246,funded,700,Cereals,Togo,town,2017-05-29T16:20:06Z,2017-06-28T16:20:06Z,700,S,0.994,male,32.4
+1301249,funded,250,Restaurant,Togo,town,2017-05-29T16:20:06Z,2017-06-28T16:20:06Z,250,S,0.645,male,30.4
+1304106,fundraising,0,Farming,Cambodia,town,2017-05-29T16:20:06Z,2017-06-28T16:20:06Z,1000,S,0.003,male,78.8
+1304107,funded,425,General Store,Philippines,town,2017-05-29T16:20:05Z,2017-06-28T16:20:05Z,425,S,0.42,female,48.8
+1305743,fundraising,0,Personal Housing Expenses,Mozambique,town,2017-05-29T16:20:02Z,2017-06-28T16:20:02Z,525,S,0.064,male,27.1
+1301243,funded,350,Shoe Sales,Togo,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,350,S,0.009,female,29.4
+1307982,fundraising,0,Agriculture,El Salvador,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,1000,S,0.08,male,37.8
+1307985,fundraising,100,Clothing Sales,El Salvador,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,600,S,0.027,female,49.4
+1307989,fundraising,50,Farming,El Salvador,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,400,S,0.456,male,29.7
+1307977,funded,500,Farming,El Salvador,town,2017-05-29T16:10:06Z,2017-06-28T16:10:06Z,500,NA,NA,NA,NA
+1307978,funded,275,Farming,El Salvador,town,2017-05-29T16:10:06Z,2017-06-28T16:10:06Z,275,NA,NA,NA,NA
+1304105,funded,425,General Store,Philippines,town,2017-05-29T16:10:05Z,2017-06-28T16:10:05Z,425,S,0.043,female,87.9
+1301240,fundraising,25,Retail,Senegal,country,2017-05-29T16:10:03Z,2017-06-28T16:10:02Z,875,M,NA,NA,NA
+1304203,funded,625,Farming,Cambodia,town,2017-05-29T16:00:06Z,2017-06-28T16:00:06Z,625,S,0,male,58.7
+1304202,funded,425,Farming,Philippines,town,2017-05-29T16:00:05Z,2017-06-28T16:00:05Z,425,S,0.001,female,83
+1307973,funded,450,Farming,Honduras,town,2017-05-29T16:00:05Z,2017-06-28T16:00:05Z,450,S,0.041,male,42.2
+1307976,fundraising,0,Clothing Sales,El Salvador,town,2017-05-29T16:00:05Z,2017-06-28T16:00:05Z,1000,S,1,male,48
+1301231,fundraising,50,Retail,Senegal,country,2017-05-29T16:00:02Z,2017-06-28T16:00:02Z,875,M,NA,NA,NA
+1307972,fundraising,0,Agriculture,Honduras,town,2017-05-29T15:50:03Z,2017-06-28T15:50:03Z,1375,S,0.231,male,43.5
+1307981,fundraising,25,General Store,El Salvador,town,2017-05-29T15:50:03Z,2017-06-28T15:50:03Z,1500,S,0.009,female,50.8
+1307970,funded,1500,General Store,El Salvador,town,2017-05-29T15:50:02Z,2017-06-28T15:50:02Z,1500,NA,NA,NA,NA
+1304200,fundraising,175,Farming,Cambodia,town,2017-05-29T15:40:03Z,2017-06-28T15:40:03Z,1500,S,0.236,female,24.3
+1307968,funded,500,Food Production/Sales,El Salvador,town,2017-05-29T15:40:03Z,2017-06-28T15:40:03Z,500,NA,NA,NA,NA
+1307967,fundraising,75,Agriculture,El Salvador,town,2017-05-29T15:30:04Z,2017-06-28T15:30:04Z,425,NA,NA,NA,NA
+1307965,fundraising,150,Utilities,El Salvador,town,2017-05-29T15:30:03Z,2017-06-28T15:30:03Z,1000,NA,NA,NA,NA
+1305721,fundraising,0,Personal Housing Expenses,Mozambique,town,2017-05-29T15:30:02Z,2017-06-28T15:30:02Z,525,S,0.098,male,34
+1304086,funded,50,Home Energy,Kenya,town,2017-05-29T15:20:06Z,2017-06-28T15:20:06Z,50,NA,NA,NA,NA
+1307961,funded,600,Bricks,El Salvador,town,2017-05-29T15:20:06Z,2017-06-28T15:20:06Z,600,NA,NA,NA,NA
+1304085,funded,175,Personal Products Sales,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,175,S,0.058,female,31.8
+1304087,funded,250,Food,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,250,S,0.104,male,28.6
+1304197,funded,425,Personal Products Sales,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,425,S,0.794,female,36.5
+1304198,funded,725,General Store,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,725,S,0.879,female,58
+1304199,fundraising,350,General Store,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,1025,S,0.01,male,87.4
+1305311,fundraising,25,Personal Expenses,Mozambique,town,2017-05-29T15:20:02Z,2017-06-28T15:20:02Z,525,S,0.234,male,28.2
+1304194,fundraising,25,Cereals,Kenya,town,2017-05-29T15:10:07Z,2017-06-28T15:10:07Z,500,S,0.11,male,35.3
+1304081,funded,175,Personal Housing Expenses,Philippines,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,175,S,0.331,female,43.9
+1304084,funded,200,Personal Housing Expenses,Philippines,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,200,S,0.379,female,40.2
+1304189,fundraising,150,Tailoring,Pakistan,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,675,M,NA,NA,NA
+1307959,fundraising,0,Agriculture,El Salvador,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,1200,S,0.172,male,69.7
+1304083,funded,225,Computers,Philippines,town,2017-05-29T15:10:04Z,2017-06-28T15:10:04Z,225,NA,NA,NA,NA
+1304082,funded,175,Fishing,Philippines,town,2017-05-29T15:10:03Z,2017-06-28T15:10:03Z,175,S,0.085,female,43.9
+1304186,funded,125,General Store,Philippines,town,2017-05-29T15:10:03Z,2017-06-28T15:10:03Z,125,S,0.009,female,29.7
+1304182,funded,100,Home Appliances,Cambodia,town,2017-05-29T15:00:05Z,2017-06-28T15:00:05Z,100,M,NA,NA,NA
+1304195,fundraising,0,Farming,Cambodia,town,2017-05-29T15:00:05Z,2017-06-28T15:00:05Z,500,S,0.482,female,63.6
+1304183,funded,275,Pigs,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,275,NA,NA,NA,NA
+1304184,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,125,S,0.113,female,56.8
+1304185,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,125,S,0.301,female,55.1
+1304193,funded,175,Personal Housing Expenses,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,175,S,0.115,female,52
+1304192,funded,100,Home Appliances,Cambodia,town,2017-05-29T14:50:07Z,2017-06-28T14:50:07Z,100,M,NA,NA,NA
+1304175,funded,975,Education provider,Pakistan,town,2017-05-29T14:50:06Z,2017-06-28T14:50:06Z,975,S,0.008,female,30.5
+1304190,funded,375,General Store,Philippines,town,2017-05-29T14:50:06Z,2017-06-28T14:50:05Z,375,S,0,female,53.5
+1304191,funded,325,General Store,Philippines,town,2017-05-29T14:50:06Z,2017-06-28T14:50:06Z,325,S,0.012,female,39
+1307956,fundraising,25,Retail,Colombia,town,2017-05-29T14:50:06Z,2017-06-28T14:50:06Z,700,S,0.009,female,29.3
+1304180,funded,425,Food Production/Sales,Philippines,town,2017-05-29T14:50:05Z,2017-06-28T14:50:05Z,425,S,0.408,female,46.1
+1304187,funded,225,General Store,Philippines,town,2017-05-29T14:50:05Z,2017-06-28T14:50:05Z,225,S,0.623,female,39.7
+1304181,funded,225,General Store,Philippines,town,2017-05-29T14:50:03Z,2017-06-28T14:50:03Z,225,NA,NA,NA,NA
+1304174,funded,1175,Farm Supplies,Cambodia,town,2017-05-29T14:50:02Z,2017-06-28T14:50:02Z,1175,S,0.364,male,28
+1304188,funded,2000,Personal Medical Expenses,Lebanon,town,2017-05-29T14:50:02Z,2017-06-28T14:50:02Z,2000,S,0.222,female,33.9
+1304171,funded,100,Home Appliances,Cambodia,town,2017-05-29T14:40:05Z,2017-06-28T14:40:04Z,100,M,NA,NA,NA
+1304179,funded,975,Education provider,Pakistan,town,2017-05-29T14:40:04Z,2017-06-28T14:40:04Z,975,S,0.022,female,31.4
+1304170,fundraising,0,Farming,Kenya,town,2017-05-29T14:40:03Z,2017-06-28T14:40:02Z,500,S,0.053,female,34
+1307954,funded,250,Food Production/Sales,Colombia,town,2017-05-29T14:40:03Z,2017-06-28T14:40:03Z,250,NA,NA,NA,NA
+1307955,fundraising,25,Cattle,El Salvador,town,2017-05-29T14:40:03Z,2017-06-28T14:40:03Z,1350,NA,NA,NA,NA
+1304172,funded,1500,Personal Medical Expenses,Lebanon,town,2017-05-29T14:40:02Z,2017-06-28T14:40:02Z,1500,S,0.027,female,36.8
+1304165,funded,225,Home Appliances,Cambodia,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,225,NA,NA,NA,NA
+1304167,funded,975,Education provider,Pakistan,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,975,S,0.001,female,37.6
+1304169,funded,975,Education provider,Pakistan,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,975,S,0,male,32.4
+1304177,funded,775,Education provider,Pakistan,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,775,S,0,female,32.4
+1304166,funded,150,Food Production/Sales,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,150,S,0.037,female,23.1
+1304168,funded,325,General Store,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,325,S,0.003,male,61.6
+1304176,funded,425,Farming,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,425,S,0,female,85.2
+1304178,funded,125,Personal Expenses,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,125,S,0.349,male,73.9
+1307918,funded,350,Pigs,El Salvador,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,350,S,0.171,female,41.2
+1304163,funded,125,Food Production/Sales,Philippines,town,2017-05-29T14:30:03Z,2017-06-28T14:30:03Z,125,S,0.058,female,27
+1304160,funded,175,Home Appliances,Cambodia,town,2017-05-29T14:20:06Z,2017-06-28T14:20:06Z,175,NA,NA,NA,NA
+1304161,funded,200,Primary/secondary school costs,Kenya,town,2017-05-29T14:20:06Z,2017-06-28T14:20:05Z,200,S,0.042,female,16
+1304150,funded,225,Transportation,Philippines,town,2017-05-29T14:20:05Z,2017-06-28T14:20:05Z,225,S,0.001,female,77.3
+1304162,funded,325,General Store,Philippines,town,2017-05-29T14:20:05Z,2017-06-28T14:20:05Z,325,S,0.005,female,77
+1304164,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T14:20:05Z,2017-06-28T14:20:05Z,125,S,0.52,female,56.8
+1304159,funded,325,Clothing Sales,Philippines,town,2017-05-29T14:10:05Z,2017-06-28T14:10:05Z,325,S,0.001,female,39.1
+1304158,funded,125,Home Appliances,Philippines,town,2017-05-29T14:10:04Z,2017-06-28T14:10:04Z,125,S,0.01,female,45.6
+1304157,funded,750,Fruits & Vegetables,Cambodia,town,2017-05-29T14:10:02Z,2017-06-28T14:10:02Z,750,M,NA,NA,NA
+1304156,funded,1450,Education provider,Pakistan,town,2017-05-29T14:00:06Z,2017-06-28T14:00:06Z,1450,M,NA,NA,NA
+1307953,fundraising,425,Phone Accessories,Colombia,town,2017-05-29T14:00:06Z,2017-06-28T14:00:06Z,700,NA,NA,NA,NA
+1304152,funded,125,Personal Expenses,Philippines,town,2017-05-29T14:00:05Z,2017-06-28T14:00:05Z,125,S,0.385,male,31.8
+1304153,funded,125,Personal Expenses,Philippines,town,2017-05-29T14:00:05Z,2017-06-28T14:00:05Z,125,S,0.202,female,25
+1304154,funded,225,Transportation,Philippines,town,2017-05-29T14:00:05Z,2017-06-28T14:00:05Z,225,S,0.029,female,66.6
+1304144,funded,175,Farming,Philippines,town,2017-05-29T14:00:03Z,2017-06-28T14:00:03Z,175,S,0,male,30.8
+1304151,fundraising,175,Motorcycle Transport,Cambodia,town,2017-05-29T14:00:02Z,2017-06-28T14:00:02Z,1975,NA,NA,NA,NA
+1304155,fundraising,75,Motorcycle Transport,Cambodia,town,2017-05-29T14:00:02Z,2017-06-28T14:00:02Z,1500,S,0.049,female,45
+1304143,fundraising,0,General Store,Kenya,town,2017-05-29T13:50:07Z,2017-06-28T13:50:07Z,500,S,0.333,male,33.7
+1304131,funded,975,Education provider,Pakistan,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,975,S,0.116,male,47.4
+1304136,funded,575,Education provider,Pakistan,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,575,S,0.035,female,53.7
+1304140,funded,975,Education provider,Pakistan,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,975,S,0.004,female,31.1
+1304141,funded,175,Home Appliances,Cambodia,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,175,S,0.006,female,24.6
+1307952,fundraising,25,Fishing,Colombia,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,700,NA,NA,NA,NA
+1304145,funded,250,Primary/secondary school costs,Kenya,town,2017-05-29T13:50:05Z,2017-06-28T13:50:05Z,250,NA,NA,NA,NA
+1304149,funded,125,Personal Expenses,Philippines,town,2017-05-29T13:50:05Z,2017-06-28T13:50:05Z,125,S,0.065,male,58.9
+1307951,fundraising,50,Farming,Colombia,town,2017-05-29T13:50:05Z,2017-06-28T13:50:05Z,1050,S,0.036,male,25
+1304127,funded,225,General Store,Philippines,town,2017-05-29T13:50:04Z,2017-06-28T13:50:04Z,225,S,0,female,33.9
+1304142,funded,125,Personal Expenses,Philippines,town,2017-05-29T13:50:04Z,2017-06-28T13:50:04Z,125,NA,NA,NA,NA
+1304146,funded,625,General Store,Philippines,town,2017-05-29T13:50:04Z,2017-06-28T13:50:04Z,625,S,0.101,female,56.1
+1304126,funded,1925,Education provider,Pakistan,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,1925,S,0.001,male,48.7
+1304128,funded,125,Home Appliances,Cambodia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,125,M,NA,NA,NA
+1304129,funded,225,Home Appliances,Cambodia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,225,S,0.098,female,16.8
+1307946,fundraising,50,Agriculture,Colombia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,425,S,0.369,male,32.3
+1307950,funded,350,Agriculture,Colombia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,350,S,0.001,male,24.7
+1304124,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,125,S,0.062,female,34.5
+1304130,funded,225,Pigs,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225,S,0.632,female,27
+1304132,funded,125,Personal Expenses,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,125,S,0.172,female,36.1
+1304133,funded,225,Transportation,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225,S,0.004,female,69.6
+1304135,funded,225,Pigs,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225,S,0.001,female,56.1
+1304138,funded,175,Pigs,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,175,S,0.007,female,30.1
+1304139,funded,225,General Store,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225,S,0.118,male,46.5
+1304134,fundraising,75,Farming,Philippines,town,2017-05-29T13:40:03Z,2017-06-28T13:40:02Z,375,NA,NA,NA,NA
+1304137,funded,1775,Computer,Palestine,town,2017-05-29T13:40:02Z,2017-06-28T13:40:02Z,1775,S,0.17,female,23.3
+1304114,funded,225,Home Appliances,Cambodia,town,2017-05-29T13:30:07Z,2017-06-28T13:30:07Z,225,NA,NA,NA,NA
+1304116,funded,100,Used Clothing,Kenya,town,2017-05-29T13:30:07Z,2017-06-28T13:30:07Z,100,S,0,male,37.1
+1304115,funded,200,Primary/secondary school costs,Kenya,town,2017-05-29T13:30:06Z,2017-06-28T13:30:06Z,200,NA,NA,NA,NA
+1304121,funded,975,Education provider,Pakistan,town,2017-05-29T13:30:06Z,2017-06-28T13:30:06Z,975,S,0,male,44
+1304123,fundraising,200,Farming,Cambodia,town,2017-05-29T13:30:06Z,2017-06-28T13:30:06Z,750,S,0.104,female,29.2
+1304122,funded,375,General Store,Philippines,town,2017-05-29T13:30:05Z,2017-06-28T13:30:05Z,375,S,0.247,female,52.8
+1304113,funded,225,Pigs,Philippines,town,2017-05-29T13:30:03Z,2017-06-28T13:30:03Z,225,S,0.049,male,46.7
+1307948,fundraising,25,Food Production/Sales,El Salvador,town,2017-05-29T13:20:03Z,2017-06-28T13:20:03Z,1200,NA,NA,NA,NA
+1307947,funded,725,Retail,Peru,town,2017-05-29T13:20:02Z,2017-06-28T13:20:02Z,725,M,NA,NA,NA
+1303900,funded,400,Blacksmith,Pakistan,town,2017-05-29T13:10:05Z,2017-06-28T13:10:05Z,400,M,NA,NA,NA
+1304111,funded,525,Tailoring,Philippines,town,2017-05-29T13:10:05Z,2017-06-28T13:10:05Z,525,S,0.005,female,28
+1304112,funded,825,Farming,Philippines,town,2017-05-29T13:10:03Z,2017-06-28T13:10:03Z,825,NA,NA,NA,NA
+1304110,funded,375,Wedding Expenses,Tajikistan,town,2017-05-29T13:10:02Z,2017-06-28T13:10:02Z,375,S,0.208,female,44.4
+1304109,funded,100,Home Appliances,Cambodia,town,2017-05-29T13:00:03Z,2017-06-28T13:00:03Z,100,M,NA,NA,NA
+1303412,funded,500,Crafts,Pakistan,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,500,S,0.083,female,34.7
+1304078,funded,225,Fish Selling,Philippines,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,225,S,0.016,female,34.7
+1304079,funded,225,Pigs,Philippines,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,225,S,0.002,female,48.4
+1304080,fundraising,0,Farming,Cambodia,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,625,S,0.007,male,43.5
+1304076,funded,225,Home Appliances,Cambodia,town,2017-05-29T12:40:06Z,2017-06-28T12:40:06Z,225,S,0.18,female,61.6
+1307945,funded,350,Poultry,Colombia,town,2017-05-29T12:40:06Z,2017-06-28T12:40:06Z,350,NA,NA,NA,NA
+1304071,funded,50,Personal Expenses,Philippines,town,2017-05-29T12:40:05Z,2017-06-28T12:40:05Z,50,S,0.317,male,32.2
+1304072,funded,225,Pigs,Philippines,town,2017-05-29T12:40:05Z,2017-06-28T12:40:05Z,225,S,0.001,female,58
+1304073,funded,300,General Store,Philippines,town,2017-05-29T12:40:03Z,2017-06-28T12:40:03Z,300,S,0.103,female,45.8
+1304074,fundraising,225,Internet Cafe,Philippines,town,2017-05-29T12:40:02Z,2017-06-28T12:40:02Z,1025,NA,NA,NA,NA
+1307943,fundraising,25,Pigs,El Salvador,town,2017-05-29T12:30:06Z,2017-06-28T12:30:06Z,1000,NA,NA,NA,NA
+1307944,fundraising,600,Restaurant,Colombia,town,2017-05-29T12:30:06Z,2017-06-28T12:30:06Z,950,NA,NA,NA,NA
+1304058,funded,250,Cattle,Philippines,town,2017-05-29T12:30:05Z,2017-06-28T12:30:05Z,250,S,0,female,69.4
+1304056,funded,425,Motorcycle Transport,Philippines,town,2017-05-29T12:30:03Z,2017-06-28T12:30:03Z,425,S,0.014,male,53.1
+1304059,funded,575,Personal Housing Expenses,Philippines,town,2017-05-29T12:30:03Z,2017-06-28T12:30:03Z,575,S,0.183,female,37.9
+1304103,funded,100,Home Appliances,Cambodia,town,2017-05-29T12:20:07Z,2017-06-28T12:20:07Z,100,S,0.237,female,38.8
+1304093,funded,225,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:05Z,225,S,0.991,female,47.5
+1304097,funded,250,Food,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,250,S,0,male,41.7
+1304098,funded,325,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,325,S,0.019,male,41.3
+1304100,funded,225,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,225,S,0.021,female,26.6
+1304102,funded,225,Fish Selling,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,225,S,0.673,female,51.9
+1304104,funded,250,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,250,S,0.993,female,50.2
+1304091,funded,300,General Store,Philippines,town,2017-05-29T12:20:03Z,2017-06-28T12:20:03Z,300,S,0.003,male,37.5
+1304101,funded,325,Pigs,Philippines,town,2017-05-29T12:20:03Z,2017-06-28T12:20:03Z,325,NA,NA,NA,NA
+1304096,funded,1500,Electronics Repair,Palestine,town,2017-05-29T12:20:02Z,2017-06-28T12:20:02Z,1500,S,0.007,male,29.2
+1304068,fundraising,375,Farming,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,750,S,0.503,male,46.2
+1304090,fundraising,200,Farming,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,1000,S,0.002,male,47.7
+1304094,funded,100,Home Appliances,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,100,M,NA,NA,NA
+1304095,funded,125,Home Appliances,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,125,NA,NA,NA,NA
+1304070,funded,225,Fish Selling,Philippines,town,2017-05-29T12:10:05Z,2017-06-28T12:10:05Z,225,S,0.145,female,53.4
+1304092,funded,225,Weaving,Philippines,town,2017-05-29T12:10:05Z,2017-06-28T12:10:05Z,225,S,0.009,female,40.3
+1304053,funded,375,Personal Medical Expenses,Tajikistan,town,2017-05-29T12:10:03Z,2017-06-28T12:10:03Z,375,S,0.799,female,31.2
+1307920,funded,4000,Furniture Making,Peru,town,2017-05-29T12:10:02Z,2017-06-28T12:10:02Z,4000,NA,NA,NA,NA
+1304060,funded,175,Home Appliances,Cambodia,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,175,NA,NA,NA,NA
+1304069,funded,125,Home Appliances,Cambodia,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,125,NA,NA,NA,NA
+1304089,funded,225,Home Appliances,Cambodia,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,225,NA,NA,NA,NA
+1307934,funded,300,Cereals,El Salvador,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,300,S,0.108,male,39
+1307935,funded,1025,Motorcycle Repair,Honduras,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,1025,NA,NA,NA,NA
+1307937,funded,200,Pigs,El Salvador,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,200,NA,NA,NA,NA
+1304066,funded,250,Farming,Philippines,town,2017-05-29T12:00:04Z,2017-06-28T12:00:04Z,250,S,0.001,female,25.7
+1304067,funded,525,Pigs,Philippines,town,2017-05-29T12:00:04Z,2017-06-28T12:00:04Z,525,S,1,male,41
+1307933,fundraising,0,Food,Honduras,town,2017-05-29T11:50:07Z,2017-06-28T11:50:07Z,650,S,0.159,male,58.2
+1307930,funded,225,General Store,El Salvador,town,2017-05-29T11:50:06Z,2017-06-28T11:50:06Z,225,S,0.103,male,72.5
+1304057,fundraising,0,Farming,Kenya,town,2017-05-29T11:50:05Z,2017-06-28T11:50:05Z,300,S,0.464,male,35.5
+1304062,fundraising,0,Farming,Kenya,town,2017-05-29T11:50:05Z,2017-06-28T11:50:05Z,400,NA,NA,NA,NA
+1304065,funded,225,Food Production/Sales,Philippines,town,2017-05-29T11:50:05Z,2017-06-28T11:50:05Z,225,S,0.049,female,50.5
+1304064,funded,325,Personal Housing Expenses,Philippines,town,2017-05-29T11:50:02Z,2017-06-28T11:50:02Z,325,S,0.416,female,37.9
+1303945,funded,1150,General Store,Malawi,town,2017-05-29T11:40:04Z,2017-06-28T11:40:04Z,1150,NA,NA,NA,NA
+1307928,fundraising,100,Grocery Store,Honduras,town,2017-05-29T11:40:04Z,2017-06-28T11:40:04Z,1500,S,0.007,male,49.3
+1307939,fundraising,50,Farm Supplies,Honduras,town,2017-05-29T11:40:04Z,2017-06-28T11:40:04Z,875,S,0.053,male,49.1
+1304061,funded,200,Farming,Kenya,town,2017-05-29T11:40:03Z,2017-06-28T11:40:03Z,200,NA,NA,NA,NA
+1307922,funded,800,Farm Supplies,El Salvador,town,2017-05-29T11:40:03Z,2017-06-28T11:40:03Z,800,S,0.006,female,28.4
+1307926,funded,800,Restaurant,El Salvador,town,2017-05-29T11:40:03Z,2017-06-28T11:40:03Z,800,S,0.017,female,24.2
+1307925,fundraising,0,Property,Colombia,town,2017-05-29T11:40:02Z,2017-06-28T11:40:02Z,1050,S,0.057,male,49.1
+1307938,funded,875,Farming,Honduras,town,2017-05-29T11:30:06Z,2017-06-28T11:30:06Z,875,S,0.294,male,54.2
+1304052,funded,1450,Grocery Store,Jordan,town,2017-05-29T11:30:05Z,2017-06-28T11:30:05Z,1450,S,0.011,female,52.4
+1307919,fundraising,75,Food Production/Sales,El Salvador,town,2017-05-29T11:30:05Z,2017-06-28T11:30:05Z,500,S,0.251,male,45.1
+1307924,funded,500,General Store,El Salvador,town,2017-05-29T11:30:05Z,2017-06-28T11:30:05Z,500,S,0.558,male,59.8
+1304051,funded,150,Personal Housing Expenses,Philippines,town,2017-05-29T11:30:04Z,2017-06-28T11:30:04Z,150,S,1,female,23.9
+1304041,funded,375,Fuel/Firewood,Philippines,town,2017-05-29T11:30:02Z,2017-06-28T11:30:02Z,375,S,0.011,male,48.6
+1304045,funded,100,Home Appliances,Cambodia,town,2017-05-29T11:20:06Z,2017-06-28T11:20:06Z,100,S,0.348,female,30
+1304049,funded,175,Home Appliances,Cambodia,town,2017-05-29T11:20:06Z,2017-06-28T11:20:06Z,175,S,0.001,female,35.1
+1307917,fundraising,125,Personal Medical Expenses,Mexico,town,2017-05-29T11:20:06Z,2017-06-28T11:20:06Z,375,S,0.001,male,40.9
+1304046,funded,75,Home Energy,Kenya,town,2017-05-29T11:20:05Z,2017-06-28T11:20:05Z,75,NA,NA,NA,NA
+1304050,funded,225,Pigs,Philippines,town,2017-05-29T11:20:04Z,2017-06-28T11:20:04Z,225,S,0.001,male,37.3
+1307910,funded,400,Food Production/Sales,El Salvador,town,2017-05-29T11:10:06Z,2017-06-28T11:10:06Z,400,S,0.024,female,52.1
+1304040,funded,325,Food Production/Sales,Philippines,town,2017-05-29T11:10:05Z,2017-06-28T11:10:05Z,325,S,0.742,female,43
+1303941,funded,325,Pigs,Philippines,town,2017-05-29T11:10:04Z,2017-06-28T11:10:04Z,325,S,0.002,male,40.8
+1303927,fundraising,50,Farming,Cambodia,town,2017-05-29T11:00:06Z,2017-06-28T11:00:06Z,500,NA,NA,NA,NA
+1304029,funded,225,General Store,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,225,S,0.39,female,71.8
+1304031,funded,225,Fishing,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,225,S,0.012,female,45.5
+1304032,funded,325,Personal Housing Expenses,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,325,S,0.905,male,45.1
+1304038,funded,375,General Store,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,375,S,0.021,male,54.2
+1307915,fundraising,0,Cafe,Colombia,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,400,NA,NA,NA,NA
+1304044,funded,300,Sewing,Pakistan,town,2017-05-29T10:50:07Z,2017-06-28T10:50:07Z,300,M,NA,NA,NA
+1307914,funded,1200,Cattle,El Salvador,town,2017-05-29T10:50:07Z,2017-06-28T10:50:06Z,1200,S,0.416,female,32.3
+1304028,funded,525,Charcoal Sales,Philippines,town,2017-05-29T10:50:05Z,2017-06-28T10:50:05Z,525,S,0.624,female,30.7
+1303106,funded,1025,General Store,Philippines,town,2017-05-29T10:50:03Z,2017-06-28T10:50:03Z,1025,S,1,female,38
+1304020,funded,800,Clothing Sales,Tanzania,town,2017-05-29T10:50:02Z,2017-06-28T10:50:02Z,800,M,NA,NA,NA
+1304025,funded,225,General Store,Philippines,town,2017-05-29T10:40:05Z,2017-06-28T10:40:05Z,225,S,0.332,male,63.6
+1304026,funded,225,Personal Products Sales,Philippines,town,2017-05-29T10:40:05Z,2017-06-28T10:40:05Z,225,NA,NA,NA,NA
+1304042,funded,375,Personal Products Sales,Philippines,town,2017-05-29T10:30:04Z,2017-06-28T10:30:04Z,375,S,0.046,female,17
+1303200,funded,325,Weaving,India,town,2017-05-29T10:20:03Z,2017-06-28T10:20:03Z,325,S,0.023,female,66.6
+1304039,funded,950,Sewing,Tajikistan,town,2017-05-29T10:20:02Z,2017-06-28T10:20:02Z,950,S,0.659,female,28.3
+1303102,funded,125,Manufacturing,Philippines,town,2017-05-29T10:10:04Z,2017-06-28T10:10:04Z,125,S,0.332,female,60.9
+1304023,funded,325,Motorcycle Transport,Philippines,town,2017-05-29T10:10:04Z,2017-06-28T10:10:04Z,325,NA,NA,NA,NA
+1304033,fundraising,225,General Store,Philippines,town,2017-05-29T10:10:04Z,2017-06-28T10:10:03Z,550,S,0.101,female,56.9
+1304037,funded,175,Home Appliances,Cambodia,town,2017-05-29T10:10:04Z,2017-06-28T10:10:04Z,175,S,0.005,female,28.8
+1304035,funded,500,Higher education costs,Palestine,town,2017-05-29T10:10:03Z,2017-06-28T10:10:03Z,500,S,0.479,male,23.5
+1304024,funded,2000,Photography,Palestine,town,2017-05-29T10:00:02Z,2017-06-28T10:00:02Z,2000,S,0.066,female,47.7
+1304030,funded,3000,Home Energy,Palestine,town,2017-05-29T10:00:02Z,2017-06-28T10:00:02Z,3000,S,1,male,26.9
+1303185,fundraising,0,Farming,Kenya,town,2017-05-29T09:50:03Z,2017-06-28T09:50:03Z,650,NA,NA,NA,NA
+1304021,funded,250,General Store,Philippines,town,2017-05-29T09:50:03Z,2017-06-28T09:50:03Z,250,S,0.648,male,66.7
+1304022,funded,50,Home Energy,Kenya,town,2017-05-29T09:50:03Z,2017-06-28T09:50:03Z,50,S,0.192,male,50.5
+1304013,funded,425,Fish Selling,Philippines,town,2017-05-29T09:40:05Z,2017-06-28T09:40:05Z,425,S,0.271,female,28.8
+1304018,funded,225,Weaving,Philippines,town,2017-05-29T09:40:05Z,2017-06-28T09:40:05Z,225,S,0.139,male,50.6
+1304019,funded,225,General Store,Philippines,town,2017-05-29T09:40:05Z,2017-06-28T09:40:05Z,225,S,0.001,male,82.7
+1303980,fundraising,75,Cereals,Kenya,town,2017-05-29T09:30:05Z,2017-06-28T09:30:05Z,600,S,0.002,male,36.7
+1304015,funded,250,Pigs,Philippines,town,2017-05-29T09:30:05Z,2017-06-28T09:30:04Z,250,S,0.92,female,23.5
+1304016,funded,275,Pigs,Philippines,town,2017-05-29T09:30:05Z,2017-06-28T09:30:05Z,275,S,0.171,female,77.2
+1306975,funded,675,Personal Medical Expenses,Mexico,town,2017-05-29T09:30:05Z,2017-06-28T09:30:05Z,675,S,0.99,female,37.1
+1304017,funded,300,Pigs,Philippines,town,2017-05-29T09:30:03Z,2017-06-28T09:30:02Z,300,S,0.239,female,42.7
+1303979,fundraising,0,Cereals,Kenya,town,2017-05-29T09:20:05Z,2017-06-28T09:20:05Z,400,S,0.737,male,42.2
+1304012,funded,425,Flowers,Philippines,town,2017-05-29T09:20:04Z,2017-06-28T09:20:04Z,425,S,0.054,male,23.3
+1304014,funded,375,Services,Philippines,town,2017-05-29T09:20:04Z,2017-06-28T09:20:04Z,375,S,0.115,female,40.5
+1304011,funded,150,Home Appliances,Kenya,town,2017-05-29T09:00:03Z,2017-06-28T09:00:03Z,150,NA,NA,NA,NA
+1303898,fundraising,0,Farming,Cambodia,town,2017-05-29T08:50:03Z,2017-06-28T08:50:03Z,1000,S,0.168,female,37
+1299846,funded,250,Musical Performance,Tajikistan,town,2017-05-29T08:40:05Z,2017-06-28T08:40:05Z,250,M,NA,NA,NA
+1304010,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T08:40:05Z,2017-06-28T08:40:05Z,225,S,0.717,female,31.4
+1303897,funded,2225,Pigs,Vietnam,town,2017-05-29T08:30:03Z,2017-06-28T08:30:03Z,2225,NA,NA,NA,NA
+1299839,funded,300,Agriculture,Tajikistan,town,2017-05-29T08:30:02Z,2017-06-28T08:30:02Z,300,NA,NA,NA,NA
+1304009,funded,250,Pigs,Philippines,town,2017-05-29T08:20:04Z,2017-06-28T08:20:04Z,250,S,0.581,female,45.2
+1299815,funded,825,Personal Medical Expenses,Tajikistan,town,2017-05-29T08:00:03Z,2017-06-28T08:00:03Z,825,S,0,male,28.8
+1299820,funded,600,Sewing,Tajikistan,town,2017-05-29T08:00:02Z,2017-06-28T08:00:02Z,600,S,0.135,female,58
+1304004,funded,575,Rickshaw,Pakistan,town,2017-05-29T07:50:08Z,2017-06-28T07:50:08Z,575,M,NA,NA,NA
+1304007,fundraising,200,General Store,Pakistan,town,2017-05-29T07:50:08Z,2017-06-28T07:50:08Z,575,M,NA,NA,NA
+1299814,fundraising,0,Auto Repair,Tajikistan,town,2017-05-29T07:50:07Z,2017-06-28T07:50:07Z,300,S,0.07,male,51
+1304003,fundraising,0,Farming,Cambodia,town,2017-05-29T07:50:07Z,2017-06-28T07:50:07Z,1000,M,NA,NA,NA
+1307892,fundraising,25,Farming,El Salvador,town,2017-05-29T07:50:07Z,2017-06-28T07:50:07Z,1500,NA,NA,NA,NA
+1304000,funded,425,Food Production/Sales,Philippines,town,2017-05-29T07:50:06Z,2017-06-28T07:50:05Z,425,S,0,female,26.5
+1304005,funded,325,Cattle,Philippines,town,2017-05-29T07:50:06Z,2017-06-28T07:50:06Z,325,S,0.988,female,34.7
+1304008,funded,175,Transportation,Philippines,town,2017-05-29T07:50:03Z,2017-06-28T07:50:03Z,175,S,1,male,43.2
+1304001,fundraising,100,Motorcycle Transport,Cambodia,town,2017-05-29T07:50:02Z,2017-06-28T07:50:02Z,500,S,0.005,female,27.1
+1304006,funded,375,Personal Medical Expenses,Tajikistan,town,2017-05-29T07:50:02Z,2017-06-28T07:50:02Z,375,S,0.013,female,47.9
+1303993,funded,325,Pigs,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:19Z,325,S,0.171,female,35.1
+1303994,funded,425,General Store,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:20Z,425,S,0.052,female,26.8
+1303997,funded,250,Personal Expenses,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:20Z,250,S,0.508,female,15.9
+1303999,funded,400,Fruits & Vegetables,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:20Z,400,S,0,female,40
+1303995,funded,250,Pigs,Philippines,town,2017-05-29T07:30:07Z,2017-06-28T07:30:07Z,250,S,0.002,male,42.9
+1307886,funded,525,Food Production/Sales,Nicaragua,town,2017-05-29T07:30:05Z,2017-06-28T07:30:05Z,525,S,0.011,female,47.2
+1301235,funded,175,Food Production/Sales,Togo,town,2017-05-29T07:20:27Z,2017-06-28T07:20:27Z,175,S,0.123,female,31.8
+1301239,funded,225,Beauty Salon,Togo,town,2017-05-29T07:20:27Z,2017-06-28T07:20:27Z,225,NA,NA,NA,NA
+1299798,fundraising,0,Animal Sales,Tajikistan,town,2017-05-29T07:20:26Z,2017-06-28T07:20:26Z,550,NA,NA,NA,NA
+1299806,fundraising,275,Livestock,Tajikistan,town,2017-05-29T07:20:26Z,2017-06-28T07:20:26Z,475,S,0.41,female,37.8
+1303988,funded,200,Retail,Pakistan,town,2017-05-29T07:20:26Z,2017-06-28T07:20:26Z,200,NA,NA,NA,NA
+1301232,funded,450,Food Production/Sales,Burkina Faso,town,2017-05-29T07:20:25Z,2017-06-28T07:20:25Z,450,M,NA,NA,NA
+1303989,funded,225,Cattle,Philippines,town,2017-05-29T07:20:22Z,2017-06-28T07:20:21Z,225,S,0.288,female,42.7
+1303990,funded,425,Food Production/Sales,Philippines,town,2017-05-29T07:20:22Z,2017-06-28T07:20:22Z,425,S,0.023,male,57.9
+1303991,funded,225,Personal Expenses,Philippines,town,2017-05-29T07:20:22Z,2017-06-28T07:20:22Z,225,S,0.774,female,41.2
+1303956,funded,975,Grocery Store,Tanzania,town,2017-05-29T07:20:03Z,2017-06-28T07:20:03Z,975,M,NA,NA,NA
+1303987,funded,425,Fruits & Vegetables,Philippines,town,2017-05-29T07:00:20Z,2017-06-28T07:00:20Z,425,S,0.883,female,45.1
+1303986,funded,325,Pigs,Philippines,town,2017-05-29T07:00:19Z,2017-06-28T07:00:19Z,325,S,0.999,female,74.1
+1303984,funded,325,Grocery Store,India,town,2017-05-29T06:50:08Z,2017-06-28T06:50:07Z,325,S,0,male,26.7
+1303983,funded,225,Pigs,Philippines,town,2017-05-29T06:50:07Z,2017-06-28T06:50:07Z,225,S,0.019,female,48.6
+1303985,funded,475,General Store,Philippines,town,2017-05-29T06:50:03Z,2017-06-28T06:50:03Z,475,S,0.935,female,35.6
+1303977,fundraising,125,Farming,Kenya,town,2017-05-29T06:40:06Z,2017-06-28T06:40:06Z,600,NA,NA,NA,NA
+1303975,funded,400,Farming,Kenya,town,2017-05-29T06:40:05Z,2017-06-28T06:40:05Z,400,NA,NA,NA,NA
+1303976,funded,600,Pigs,Philippines,town,2017-05-29T06:40:05Z,2017-06-28T06:40:05Z,600,S,0.161,female,28.1
+1303913,funded,125,Home Appliances,Cambodia,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,125,NA,NA,NA,NA
+1303915,funded,500,Home Appliances,Cambodia,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,500,S,0.315,male,93.2
+1303974,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,225,S,0.955,male,16.1
+1303981,funded,125,Personal Expenses,Philippines,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,125,S,0.122,male,45.5
+1303912,funded,2475,Pigs,Vietnam,town,2017-05-29T06:20:04Z,2017-06-28T06:20:04Z,2475,M,NA,NA,NA
+1303906,funded,325,Pigs,Philippines,town,2017-05-29T06:20:03Z,2017-06-28T06:20:03Z,325,NA,NA,NA,NA
+1303909,fundraising,150,Farming,Cambodia,town,2017-05-29T06:10:02Z,2017-06-28T06:10:02Z,3475,NA,NA,NA,NA
+1303911,fundraising,175,Farming,Cambodia,town,2017-05-29T06:10:02Z,2017-06-28T06:10:02Z,1250,NA,NA,NA,NA
+1303904,fundraising,0,Farming,Cambodia,town,2017-05-29T06:00:03Z,2017-06-28T06:00:02Z,1000,M,NA,NA,NA
+1303907,fundraising,0,Farming,Cambodia,town,2017-05-29T06:00:03Z,2017-06-28T06:00:03Z,1000,M,NA,NA,NA
+1301195,funded,200,Agriculture,Cameroon,country,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,200,NA,NA,NA,NA
+1301223,funded,175,Food,Togo,town,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,175,NA,NA,NA,NA
+1303903,funded,1500,Pigs,Vietnam,town,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,1500,M,NA,NA,NA
+1303905,fundraising,325,Personal Housing Expenses,Vietnam,town,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,2650,M,NA,NA,NA
+1301222,fundraising,75,Retail,Senegal,country,2017-05-29T05:40:02Z,2017-06-28T05:40:02Z,875,M,NA,NA,NA
+1301202,funded,350,Clothing Sales,Togo,town,2017-05-29T05:30:03Z,2017-06-28T05:30:03Z,350,S,0.012,male,25.4
+1303901,funded,2425,Farming,Vietnam,town,2017-05-29T05:30:03Z,2017-06-28T05:30:03Z,2425,NA,NA,NA,NA
+1301206,funded,200,Farming,Cameroon,country,2017-05-29T05:30:02Z,2017-06-28T05:30:02Z,200,S,0.476,male,28.4
+1303902,funded,1050,Farming,Cambodia,town,2017-05-29T05:30:02Z,2017-06-28T05:30:02Z,1050,M,NA,NA,NA
+1301181,funded,250,Agriculture,Madagascar,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,250,S,0.531,male,37.8
+1301191,funded,175,Pigs,Madagascar,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,175,S,0.054,male,53.4
+1301203,funded,475,Retail,Togo,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,475,S,0.967,female,40.1
+1303899,funded,2175,Pigs,Vietnam,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,2175,M,NA,NA,NA
+1303896,fundraising,200,Farming,Cambodia,town,2017-05-29T05:10:05Z,2017-06-28T05:10:05Z,500,M,NA,NA,NA
+1303978,funded,325,Pigs,Philippines,town,2017-05-29T05:10:05Z,2017-06-28T05:10:05Z,325,S,1,female,53.2
+1303973,funded,200,Farming,Kenya,town,2017-05-29T04:50:05Z,2017-06-28T04:50:05Z,200,NA,NA,NA,NA
+1303971,funded,200,Food Production/Sales,Philippines,town,2017-05-29T04:50:04Z,2017-06-28T04:50:04Z,200,S,0.518,female,82.8
+1303972,funded,250,Flowers,Philippines,town,2017-05-29T04:50:04Z,2017-06-28T04:50:04Z,250,S,0.013,female,28.6
+1303970,funded,325,Pigs,Philippines,town,2017-05-29T04:40:05Z,2017-06-28T04:40:05Z,325,S,0.242,female,21.5
+1303969,funded,375,Pigs,Philippines,town,2017-05-29T04:40:03Z,2017-06-28T04:40:02Z,375,S,1,female,35
+1303961,funded,400,Food Production/Sales,Philippines,town,2017-05-29T04:30:05Z,2017-06-28T04:30:05Z,400,S,0.008,female,39.3
+1303963,funded,225,General Store,Philippines,town,2017-05-29T04:30:05Z,2017-06-28T04:30:05Z,225,S,0.722,male,21.7
+1303968,funded,325,General Store,Philippines,town,2017-05-29T04:30:05Z,2017-06-28T04:30:05Z,325,S,0.085,female,40.1
+1303966,funded,225,Grocery Store,Philippines,town,2017-05-29T04:30:03Z,2017-06-28T04:30:03Z,225,S,0.013,female,29
+1303967,funded,250,Bakery,Tajikistan,town,2017-05-29T04:30:02Z,2017-06-28T04:30:02Z,250,S,0.602,female,52.5
+1303958,funded,225,Food,Philippines,town,2017-05-29T04:20:06Z,2017-06-28T04:20:05Z,225,S,0.195,male,54.7
+1303959,fundraising,25,Farming,Kenya,town,2017-05-29T04:20:06Z,2017-06-28T04:20:06Z,400,S,0.102,male,26.8
+1303960,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T04:20:06Z,2017-06-28T04:20:06Z,225,S,0.116,female,35.5
+1303965,funded,200,Farming,Kenya,town,2017-05-29T04:20:06Z,2017-06-28T04:20:06Z,200,S,0.897,male,36.7
+1303964,funded,200,Barber Shop,Philippines,town,2017-05-29T04:20:03Z,2017-06-28T04:20:03Z,200,S,0.352,male,34.8
+1303953,funded,325,Fruits & Vegetables,Philippines,town,2017-05-29T04:10:04Z,2017-06-28T04:10:04Z,325,S,0.362,female,37
+1303951,funded,300,Embroidery,Pakistan,town,2017-05-29T04:00:02Z,2017-06-28T04:00:02Z,300,S,0.063,female,28.4
+1303952,funded,400,Embroidery,Pakistan,town,2017-05-29T04:00:02Z,2017-06-28T04:00:02Z,400,M,NA,NA,NA
+1303949,funded,375,Pigs,Philippines,town,2017-05-29T03:50:05Z,2017-06-28T03:50:05Z,375,S,0.001,male,42.4
+1303955,funded,550,General Store,Philippines,town,2017-05-29T03:50:05Z,2017-06-28T03:50:05Z,550,S,0.311,female,38.6
+1303957,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T03:50:05Z,2017-06-28T03:50:05Z,225,S,0.106,female,49.5
+1303947,funded,225,General Store,Philippines,town,2017-05-29T03:40:04Z,2017-06-28T03:40:04Z,225,S,0.04,male,28.1
+1303946,fundraising,0,Farming,Kenya,town,2017-05-29T03:30:03Z,2017-06-28T03:30:03Z,350,S,0.421,male,43.7
+1307873,fundraising,400,Florist,El Salvador,town,2017-05-29T03:20:02Z,2017-06-28T03:20:02Z,1500,S,0.01,male,45.8
+1307883,fundraising,225,Bakery,El Salvador,town,2017-05-29T03:20:02Z,2017-06-28T03:20:02Z,1000,NA,NA,NA,NA
+1303932,funded,175,Home Appliances,Cambodia,town,2017-05-29T03:10:06Z,2017-06-28T03:10:06Z,175,M,NA,NA,NA
+1299796,fundraising,100,Food Production/Sales,Tajikistan,town,2017-05-29T03:10:05Z,2017-06-28T03:10:05Z,600,S,0.156,male,48.7
+1303944,funded,275,Fish Selling,Philippines,town,2017-05-29T03:10:04Z,2017-06-28T03:10:04Z,275,S,0,female,30.1
+1303875,funded,225,Farming,Philippines,town,2017-05-29T03:00:05Z,2017-06-28T03:00:04Z,225,S,0,female,72.8
+1303934,fundraising,0,Farming,Cambodia,town,2017-05-29T03:00:05Z,2017-06-28T03:00:05Z,1000,M,NA,NA,NA
+1303936,fundraising,100,General Store,Pakistan,town,2017-05-29T03:00:05Z,2017-06-28T03:00:05Z,575,S,0.012,female,25.4
+1302946,funded,775,Personal Housing Expenses,Indonesia,town,2017-05-29T02:50:03Z,2017-06-28T02:50:03Z,775,S,0.158,female,27.1
+1303925,funded,125,Home Appliances,Cambodia,town,2017-05-29T02:50:03Z,2017-06-28T02:50:03Z,125,M,NA,NA,NA
+1303931,funded,250,Fruits & Vegetables,Philippines,town,2017-05-29T02:50:03Z,2017-06-28T02:50:03Z,250,NA,NA,NA,NA
+1303933,fundraising,25,Cattle,Tajikistan,town,2017-05-29T02:50:02Z,2017-06-28T02:50:02Z,1200,NA,NA,NA,NA
+1303919,funded,375,Personal Products Sales,Philippines,town,2017-05-29T02:40:06Z,2017-06-28T02:40:06Z,375,S,0.293,female,18.7
+1303928,funded,125,Home Appliances,Cambodia,town,2017-05-29T02:40:06Z,2017-06-28T02:40:06Z,125,NA,NA,NA,NA
+1303644,fundraising,775,Fuel/Firewood,Uganda,town,2017-05-29T02:40:05Z,2017-06-28T02:40:05Z,2025,NA,NA,NA,NA
+1303869,funded,175,Pigs,Philippines,town,2017-05-29T02:40:05Z,2017-06-28T02:40:05Z,175,S,0.029,female,32.6
+1303929,funded,425,Manufacturing,Philippines,town,2017-05-29T02:40:05Z,2017-06-28T02:40:05Z,425,S,0.057,male,42.4
+1303922,fundraising,25,Sewing,Tajikistan,town,2017-05-29T02:40:02Z,2017-06-28T02:40:02Z,725,S,0.385,female,43.1
+1303921,funded,125,Home Appliances,Cambodia,town,2017-05-29T02:30:04Z,2017-06-28T02:30:04Z,125,NA,NA,NA,NA
+1303655,fundraising,25,Personal Housing Expenses,Uganda,town,2017-05-29T02:30:03Z,2017-06-28T02:30:03Z,850,S,0.173,male,35.4
+1303917,fundraising,25,Tailoring,Pakistan,town,2017-05-29T02:30:03Z,2017-06-28T02:30:03Z,775,M,NA,NA,NA
+1303920,fundraising,0,Cattle,Cambodia,town,2017-05-29T02:30:03Z,2017-06-28T02:30:03Z,625,S,0.012,female,43.1
+1303924,funded,100,Farming,Kenya,town,2017-05-29T02:30:02Z,2017-06-28T02:30:02Z,100,S,0,female,24.8
+1303918,funded,225,Home Appliances,Cambodia,town,2017-05-29T02:20:04Z,2017-06-28T02:20:04Z,225,NA,NA,NA,NA
+1302937,fundraising,75,Farming,Cambodia,town,2017-05-29T02:20:03Z,2017-06-28T02:20:03Z,1000,S,0.355,female,34.7
+1303916,fundraising,0,General Store,Cambodia,town,2017-05-29T02:20:02Z,2017-06-28T02:20:02Z,1500,S,0.058,female,28.8
+1301189,fundraising,450,Clothing Sales,Madagascar,town,2017-05-29T02:10:03Z,2017-06-28T02:10:03Z,950,S,0.067,female,36
+1303908,funded,2650,Personal Housing Expenses,Vietnam,town,2017-05-29T02:10:03Z,2017-06-28T02:10:03Z,2650,M,NA,NA,NA
+1303895,funded,2225,Primary/secondary school costs,Vietnam,town,2017-05-29T02:00:02Z,2017-06-28T02:00:02Z,2225,NA,NA,NA,NA
+1306191,funded,2100,Bakery,Paraguay,town,2017-05-29T02:00:02Z,2017-06-28T02:00:02Z,2100,NA,NA,NA,NA
+1303893,funded,2000,Primary/secondary school costs,Vietnam,town,2017-05-29T01:50:02Z,2017-06-28T01:50:02Z,2000,NA,NA,NA,NA
+1307224,funded,6400,Cosmetics Sales,Paraguay,town,2017-05-29T01:50:02Z,2017-06-28T01:50:02Z,6400,NA,NA,NA,NA
+1301184,fundraising,250,Livestock,Mali,town,2017-05-29T01:40:03Z,2017-06-28T01:40:03Z,5550,NA,NA,NA,NA
+1303888,fundraising,600,Personal Housing Expenses,Vietnam,town,2017-05-29T01:40:03Z,2017-06-28T01:40:03Z,2975,NA,NA,NA,NA
+1303894,fundraising,225,Farming,Cambodia,town,2017-05-29T01:40:02Z,2017-06-28T01:40:02Z,500,S,0,female,82.7
+1303890,funded,2000,Personal Housing Expenses,Vietnam,town,2017-05-29T01:30:04Z,2017-06-28T01:30:04Z,2000,NA,NA,NA,NA
+1303891,fundraising,200,Personal Housing Expenses,Cambodia,town,2017-05-29T01:30:03Z,2017-06-28T01:30:03Z,1000,S,0,male,23.5
+1303885,funded,300,Restaurant,Pakistan,town,2017-05-29T01:20:04Z,2017-06-28T01:20:04Z,300,S,0.013,female,19.1
+1303887,funded,1200,Farming,Vietnam,town,2017-05-29T01:20:04Z,2017-06-28T01:20:04Z,1200,NA,NA,NA,NA
+1303889,funded,1775,Pigs,Vietnam,town,2017-05-29T01:20:04Z,2017-06-28T01:20:04Z,1775,NA,NA,NA,NA
+1303886,fundraising,150,Farming,Cambodia,town,2017-05-29T01:20:03Z,2017-06-28T01:20:03Z,1000,M,NA,NA,NA
+1303881,funded,1775,Farming,Vietnam,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,1775,NA,NA,NA,NA
+1303883,funded,1050,Farming,Cambodia,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,1050,M,NA,NA,NA
+1303884,funded,2000,Higher education costs,Vietnam,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,2000,NA,NA,NA,NA
+1307854,funded,775,Personal Expenses,Peru,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,775,NA,NA,NA,NA
+1307861,fundraising,375,Fruits & Vegetables,El Salvador,town,2017-05-29T01:10:06Z,2017-06-28T01:10:06Z,500,S,0.097,male,59.5
+1303882,funded,250,Fishing,Philippines,town,2017-05-29T01:10:05Z,2017-06-28T01:10:05Z,250,S,0.99,female,49.5
+1303878,funded,500,Pigs,Cambodia,town,2017-05-29T01:00:07Z,2017-06-28T01:00:07Z,500,S,0.248,female,50.4
+1303880,funded,600,Farming,Cambodia,town,2017-05-29T01:00:07Z,2017-06-28T01:00:07Z,600,M,NA,NA,NA
+1303879,funded,400,Pigs,Philippines,town,2017-05-29T01:00:06Z,2017-06-28T01:00:06Z,400,S,0.031,male,56.1
+1307204,funded,300,Higher education costs,Paraguay,town,2017-05-29T01:00:03Z,2017-06-28T01:00:03Z,300,S,0.02,female,18.2
+1305686,fundraising,75,General Store,Mozambique,town,2017-05-29T01:00:02Z,2017-06-28T01:00:02Z,2025,S,0.138,male,22
+1307849,fundraising,175,Farming,El Salvador,town,2017-05-29T00:50:06Z,2017-06-28T00:50:06Z,300,S,0.03,male,31
+1303877,funded,175,Fuel/Firewood,Philippines,town,2017-05-29T00:50:05Z,2017-06-28T00:50:05Z,175,S,0.007,female,47.9
+1305618,funded,250,General Store,Mozambique,town,2017-05-29T00:50:02Z,2017-06-28T00:50:02Z,250,S,0.625,male,50.5
+1307218,funded,200,Higher education costs,Paraguay,town,2017-05-29T00:50:02Z,2017-06-28T00:50:02Z,200,S,0.425,female,24.1
+1307219,funded,200,Agriculture,El Salvador,town,2017-05-29T00:40:03Z,2017-06-28T00:40:03Z,200,S,0.146,male,47.8
+1307838,fundraising,50,Agriculture,El Salvador,town,2017-05-29T00:40:03Z,2017-06-28T00:40:03Z,700,NA,NA,NA,NA
+1307840,fundraising,325,General Store,El Salvador,town,2017-05-29T00:40:03Z,2017-06-28T00:40:03Z,1500,S,0.069,female,23.9
+1307216,funded,200,Higher education costs,Paraguay,town,2017-05-29T00:40:02Z,2017-06-28T00:40:02Z,200,S,0.291,female,20.3
+1301168,fundraising,150,Animal Sales,Mali,town,2017-05-29T00:30:04Z,2017-06-28T00:30:04Z,5450,NA,NA,NA,NA
+1301177,fundraising,0,Agriculture,Cameroon,country,2017-05-29T00:30:04Z,2017-06-28T00:30:04Z,300,NA,NA,NA,NA
+1307180,funded,300,Agriculture,El Salvador,town,2017-05-29T00:30:04Z,2017-06-28T00:30:04Z,300,S,0.162,female,36.4
+1307199,funded,300,Higher education costs,Paraguay,town,2017-05-29T00:30:03Z,2017-06-28T00:30:03Z,300,S,0.489,male,27.7
+1307793,funded,450,Food Stall,Bolivia,town,2017-05-29T00:30:02Z,2017-06-28T00:30:02Z,450,S,0.258,female,24.1
+1307236,funded,5850,Clothing,Paraguay,town,2017-05-29T00:20:02Z,2017-06-28T00:20:02Z,5850,S,0.633,female,23.6
+1303876,funded,875,Farming,Cambodia,town,2017-05-29T00:10:04Z,2017-06-28T00:10:04Z,875,S,0.057,female,37.2
+1306907,funded,450,General Store,Honduras,town,2017-05-29T00:10:04Z,2017-06-28T00:10:04Z,450,S,0.053,female,47.7
+1307220,funded,1850,Higher education costs,Paraguay,town,2017-05-29T00:10:03Z,2017-06-28T00:10:03Z,1850,NA,NA,NA,NA
+1307232,funded,5875,Perfumes,Paraguay,town,2017-05-29T00:10:03Z,2017-06-28T00:10:03Z,5875,NA,NA,NA,NA
+1302776,funded,1000,Farming,Cambodia,town,2017-05-29T00:10:02Z,2017-06-28T00:10:02Z,1000,NA,NA,NA,NA
+1303873,funded,500,Cattle,Cambodia,town,2017-05-29T00:00:06Z,2017-06-28T00:00:05Z,500,S,0.186,female,40.7
+1303872,funded,225,Cereals,Philippines,town,2017-05-29T00:00:05Z,2017-06-28T00:00:05Z,225,S,0.089,female,46.1
+1307213,funded,300,Higher education costs,Paraguay,town,2017-05-29T00:00:03Z,2017-06-28T00:00:03Z,300,S,0.148,female,33
+1307210,funded,200,Higher education costs,Paraguay,town,2017-05-29T00:00:02Z,2017-06-28T00:00:02Z,200,S,0.151,female,44.8
+1303870,fundraising,0,Farming,Cambodia,town,2017-05-28T23:50:06Z,2017-06-27T23:50:06Z,625,S,0.284,female,31.1
+1303871,funded,275,General Store,Philippines,town,2017-05-28T23:50:05Z,2017-06-27T23:50:05Z,275,S,0.002,female,74.2
+1302778,funded,125,General Store,Philippines,town,2017-05-28T23:50:03Z,2017-06-27T23:50:03Z,125,S,0.617,female,73
+1301172,fundraising,25,Fruits & Vegetables,Senegal,country,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,875,M,NA,NA,NA
+1307192,funded,1000,Dairy,Paraguay,town,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,1000,S,0.044,female,47.5
+1307196,fundraising,50,General Store,Paraguay,town,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,825,S,0.132,female,50.4
+1307208,funded,200,Higher education costs,Paraguay,town,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,200,S,0.03,female,23.1
+1303654,funded,475,Higher education costs,Uganda,town,2017-05-28T23:40:03Z,2017-06-27T23:40:03Z,475,S,0.134,female,32.6
+1307181,fundraising,525,Services,Paraguay,town,2017-05-28T23:40:03Z,2017-06-27T23:40:02Z,1000,S,0.005,male,23.1
+1303867,funded,175,Pigs,Philippines,town,2017-05-28T23:30:06Z,2017-06-27T23:30:06Z,175,S,0.072,male,26.2
+1303868,funded,125,Home Appliances,Cambodia,town,2017-05-28T23:30:06Z,2017-06-27T23:30:06Z,125,M,NA,NA,NA
+1306076,funded,500,Personal Medical Expenses,Mexico,town,2017-05-28T23:30:06Z,2017-06-27T23:30:06Z,500,S,0.42,female,55.4
+1307178,fundraising,175,Bakery,Paraguay,town,2017-05-28T23:30:03Z,2017-06-27T23:30:03Z,825,S,0.752,female,40.4
+1307172,funded,1000,Food Stall,Paraguay,town,2017-05-28T23:30:02Z,2017-06-27T23:30:02Z,1000,NA,NA,NA,NA
+1301173,funded,275,Fruits & Vegetables,Cameroon,country,2017-05-28T23:20:03Z,2017-06-27T23:20:03Z,275,S,0,female,42.8
+1307151,funded,600,Poultry,Ecuador,town,2017-05-28T23:20:03Z,2017-06-27T23:20:03Z,600,S,0.502,female,30.3
+1303864,funded,875,Livestock,Cambodia,town,2017-05-28T23:10:06Z,2017-06-27T23:10:06Z,875,M,NA,NA,NA
+1303863,funded,150,General Store,Philippines,town,2017-05-28T23:10:05Z,2017-06-27T23:10:05Z,150,S,0.97,female,44.8
+1303865,funded,200,Fish Selling,Philippines,town,2017-05-28T23:10:05Z,2017-06-27T23:10:05Z,200,S,0.446,female,43
+1302765,funded,525,General Store,Philippines,town,2017-05-28T23:10:02Z,2017-06-27T23:10:02Z,525,S,0.718,male,51.3
+1303821,funded,225,Home Appliances,Cambodia,town,2017-05-28T23:00:09Z,2017-06-27T23:00:08Z,225,NA,NA,NA,NA
+1303784,funded,225,Home Appliances,Cambodia,town,2017-05-28T23:00:08Z,2017-06-27T23:00:08Z,225,M,NA,NA,NA
+1303853,fundraising,175,Farming,Cambodia,town,2017-05-28T23:00:08Z,2017-06-27T23:00:08Z,1350,M,NA,NA,NA
+1303846,funded,250,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:06Z,250,S,0.526,female,59.1
+1303848,funded,325,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,325,S,0.853,female,33.8
+1303850,funded,625,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,625,S,0.309,female,26.3
+1303852,funded,150,Farming,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,150,S,0.142,female,46.3
+1303860,funded,150,Farming,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,150,NA,NA,NA,NA
+1303862,funded,175,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,175,S,0.965,female,57.6
+1307149,fundraising,150,Pigs,Ecuador,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,800,NA,NA,NA,NA
+1307150,funded,800,Farming,Ecuador,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,800,S,0.002,male,47.1
+1303820,funded,175,Fishing,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,175,S,0,female,30.2
+1303823,funded,125,General Store,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,125,S,0.784,female,49.1
+1303824,funded,325,General Store,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,325,S,0.006,female,50.6
+1303826,funded,325,Fruits & Vegetables,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,325,S,0.022,female,74
+1303827,funded,275,Food Production/Sales,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,275,S,0.189,male,43.6
+1303829,funded,75,Personal Housing Expenses,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,75,S,0.033,female,15.5
+1303830,funded,225,General Store,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,225,S,0.116,female,33
+1303851,fundraising,125,General Store,Philippines,town,2017-05-28T23:00:03Z,2017-06-27T23:00:03Z,325,S,0,male,29.9
+1303861,funded,525,General Store,Philippines,town,2017-05-28T23:00:03Z,2017-06-27T23:00:03Z,525,S,0.111,male,49.1
+1303808,funded,125,Home Appliances,Cambodia,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,125,M,NA,NA,NA
+1303814,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,175,M,NA,NA,NA
+1303815,funded,175,General Store,Philippines,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,175,S,0.059,female,48.6
+1303816,funded,225,Home Appliances,Cambodia,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,225,M,NA,NA,NA
+1303840,funded,175,General Store,Philippines,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,175,S,0.018,female,49.5
+1303838,funded,200,Pigs,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:05Z,200,S,0.468,female,53.5
+1303839,funded,325,Personal Products Sales,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,325,S,0.009,female,47.7
+1303841,funded,225,Tailoring,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,225,S,0.004,female,34.2
+1303842,funded,275,Fishing,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,275,S,0.084,male,45.9
+1303843,funded,225,Food Production/Sales,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,225,NA,NA,NA,NA
+1303844,funded,225,Clothing Sales,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,225,S,0.966,female,50.3
+1303845,funded,250,Fish Selling,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,250,NA,NA,NA,NA
+1303783,funded,225,Beauty Salon,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,225,S,0.004,female,43.8
+1303817,funded,225,Fishing,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,225,S,0.109,female,90.4
+1303835,funded,425,Fishing,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,425,NA,NA,NA,NA
+1303837,funded,250,Fishing,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,250,S,0.003,female,35.1
+1303781,fundraising,50,General Store,Philippines,town,2017-05-28T22:50:03Z,2017-06-27T22:50:02Z,525,NA,NA,NA,NA
+1303818,funded,225,Recycling,Philippines,town,2017-05-28T22:50:03Z,2017-06-27T22:50:03Z,225,NA,NA,NA,NA
+1303759,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:40:06Z,2017-06-27T22:40:06Z,175,M,NA,NA,NA
+1303833,funded,125,Poultry,Philippines,town,2017-05-28T22:40:06Z,2017-06-27T22:40:06Z,125,S,0.469,female,53.3
+1303834,funded,200,Fishing,Philippines,town,2017-05-28T22:40:06Z,2017-06-27T22:40:06Z,200,S,0.819,female,41.8
+1303757,funded,250,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:04Z,250,S,0.152,female,39.3
+1303758,funded,175,Pigs,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,175,S,0.515,female,44
+1303760,funded,250,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,250,S,0.161,female,68.5
+1303806,funded,225,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,225,S,0.991,female,26.4
+1303807,funded,250,Pigs,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,250,S,0.556,female,43.3
+1303809,funded,150,Beauty Salon,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,150,S,0.11,female,39.3
+1303813,funded,425,Fruits & Vegetables,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,425,S,0.017,male,78.8
+1303828,funded,225,Farming,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,225,S,0.166,female,44.3
+1303832,funded,150,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,150,S,0.007,male,51.1
+1303756,funded,325,Food Production/Sales,Philippines,town,2017-05-28T22:40:04Z,2017-06-27T22:40:04Z,325,S,0.951,male,67.1
+1299792,fundraising,0,Livestock,Tajikistan,town,2017-05-28T22:30:05Z,2017-06-27T22:30:05Z,1200,NA,NA,NA,NA
+1303517,funded,200,Farming,Kenya,town,2017-05-28T22:30:05Z,2017-06-27T22:30:05Z,200,NA,NA,NA,NA
+1303805,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:30:05Z,2017-06-27T22:30:05Z,175,NA,NA,NA,NA
+1303810,funded,225,General Store,Philippines,town,2017-05-28T22:30:04Z,2017-06-27T22:30:04Z,225,S,0.014,female,41.8
+1303804,funded,825,Transportation,Philippines,town,2017-05-28T22:30:02Z,2017-06-27T22:30:02Z,825,NA,NA,NA,NA
+1303802,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:20:06Z,2017-06-27T22:20:06Z,175,M,NA,NA,NA
+1307146,funded,1000,Pigs,Ecuador,town,2017-05-28T22:20:06Z,2017-06-27T22:20:05Z,1000,NA,NA,NA,NA
+1303803,funded,225,Fishing,Philippines,town,2017-05-28T22:20:05Z,2017-06-27T22:20:05Z,225,S,0.029,male,78.6
+1307094,funded,250,Home Products Sales,Colombia,town,2017-05-28T22:20:05Z,2017-06-27T22:20:05Z,250,S,0.022,female,20.3
+1303515,fundraising,0,Cattle,Armenia,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,2075,S,0,female,38
+1303800,funded,225,General Store,Philippines,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,225,S,0.278,female,89
+1307139,funded,350,Blacksmith,Colombia,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,350,S,0.001,male,63.2
+1307148,fundraising,500,General Store,Nicaragua,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,1025,S,0.355,male,36.4
+1303801,fundraising,25,Land Rental,Cambodia,town,2017-05-28T22:10:03Z,2017-06-27T22:10:03Z,1000,S,0.052,male,27.4
+1307145,funded,2550,Clothing Sales,Peru,town,2017-05-28T22:10:02Z,2017-06-27T22:10:02Z,2550,NA,NA,NA,NA
+1303512,fundraising,100,Electrical Goods,Egypt,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,575,S,0.007,male,28.3
+1303514,fundraising,475,Mobile Transactions,Zambia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,650,NA,NA,NA,NA
+1303793,funded,225,Home Appliances,Cambodia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,225,S,0,male,44.4
+1303794,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,175,S,0.216,male,40.5
+1303797,funded,125,Home Appliances,Cambodia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,125,M,NA,NA,NA
+1303511,funded,100,Cereals,Kenya,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,100,S,0.039,male,32.5
+1303796,funded,325,General Store,Philippines,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,325,NA,NA,NA,NA
+1303799,funded,200,Fishing,Philippines,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,200,S,0,female,46.3
+1307144,funded,500,Farming,Ecuador,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,500,NA,NA,NA,NA
+1303795,funded,225,General Store,Philippines,town,2017-05-28T22:00:04Z,2017-06-27T22:00:04Z,225,S,0.314,female,42.2
+1303789,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:50:06Z,2017-06-27T21:50:05Z,175,S,0,male,38.2
+1307141,fundraising,175,Beauty Salon,Colombia,town,2017-05-28T21:50:06Z,2017-06-27T21:50:06Z,700,S,0.281,female,32.6
+1303510,funded,600,Food Market,Liberia,town,2017-05-28T21:50:05Z,2017-06-27T21:50:05Z,600,S,0.001,male,32.4
+1303791,funded,275,Pigs,Philippines,town,2017-05-28T21:50:05Z,2017-06-27T21:50:05Z,275,S,1,male,17.5
+1303792,funded,225,Pigs,Philippines,town,2017-05-28T21:50:05Z,2017-06-27T21:50:05Z,225,S,0.698,male,33.1
+1301171,funded,500,Used Clothing,Madagascar,town,2017-05-28T21:40:05Z,2017-06-27T21:40:05Z,500,S,0.001,male,30.3
+1303786,funded,125,Pigs,Philippines,town,2017-05-28T21:40:04Z,2017-06-27T21:40:04Z,125,S,0,female,62.6
+1303787,funded,250,General Store,Philippines,town,2017-05-28T21:40:04Z,2017-06-27T21:40:04Z,250,S,0.21,male,45.2
+1307142,funded,350,Farming,Honduras,town,2017-05-28T21:40:04Z,2017-06-27T21:40:04Z,350,NA,NA,NA,NA
+1301165,funded,200,Livestock,Madagascar,town,2017-05-28T21:30:06Z,2017-06-27T21:30:06Z,200,NA,NA,NA,NA
+1303774,funded,225,Pigs,Philippines,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,225,S,0.002,male,49
+1303777,funded,175,Tailoring,Philippines,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,175,S,0.885,male,35.8
+1303779,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,125,M,NA,NA,NA
+1303782,funded,275,General Store,Philippines,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,275,S,0.933,female,34.6
+1303785,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,125,M,NA,NA,NA
+1303770,funded,225,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,225,M,NA,NA,NA
+1303771,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,175,M,NA,NA,NA
+1303772,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,175,S,0.008,male,26.5
+1303775,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,125,M,NA,NA,NA
+1303767,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,125,M,NA,NA,NA
+1303769,funded,200,General Store,Philippines,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,200,NA,NA,NA,NA
+1303773,funded,125,Pigs,Philippines,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,125,S,0.072,female,47
+1303778,funded,300,Personal Expenses,Philippines,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,300,S,0,female,23.9
+1303765,funded,125,Retail,Philippines,town,2017-05-28T21:20:03Z,2017-06-27T21:20:03Z,125,S,0.956,female,46.1
+1303762,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:10:06Z,2017-06-27T21:10:06Z,175,S,0.012,female,25.1
+1303763,funded,225,Home Appliances,Cambodia,town,2017-05-28T21:10:06Z,2017-06-27T21:10:06Z,225,S,0.002,male,57.6
+1303766,funded,225,Home Appliances,Cambodia,town,2017-05-28T21:10:06Z,2017-06-27T21:10:06Z,225,S,0,male,33.2
+1303754,funded,125,Pigs,Philippines,town,2017-05-28T21:10:05Z,2017-06-27T21:10:05Z,125,S,0.08,female,21.8
+1303764,funded,325,General Store,Philippines,town,2017-05-28T21:10:05Z,2017-06-27T21:10:05Z,325,S,0.33,female,36.8
+1307138,funded,1075,Retail,Peru,town,2017-05-28T21:10:02Z,2017-06-27T21:10:02Z,1075,NA,NA,NA,NA
+1303761,funded,425,Bakery,Philippines,town,2017-05-28T21:00:04Z,2017-06-27T21:00:04Z,425,S,0.01,male,46.6
+1303755,funded,200,Fishing,Philippines,town,2017-05-28T20:50:05Z,2017-06-27T20:50:05Z,200,S,0.006,female,51
+1303180,funded,525,General Store,Philippines,town,2017-05-28T20:50:03Z,2017-06-27T20:50:03Z,525,S,0,female,61.7
+1303751,fundraising,675,Retail,Vietnam,town,2017-05-28T20:50:03Z,2017-06-27T20:50:02Z,1325,S,0.327,female,78.4
+1303752,funded,125,Food Production/Sales,Philippines,town,2017-05-28T20:40:07Z,2017-06-27T20:40:06Z,125,S,0.036,female,34.6
+1303745,funded,275,Jewelry,Philippines,town,2017-05-28T20:40:06Z,2017-06-27T20:40:06Z,275,S,0.101,male,33
+1303747,funded,225,Pigs,Philippines,town,2017-05-28T20:40:06Z,2017-06-27T20:40:06Z,225,NA,NA,NA,NA
+1303174,funded,125,Fishing,Philippines,town,2017-05-28T20:40:04Z,2017-06-27T20:40:04Z,125,S,0.146,male,59.1
+1303176,funded,425,General Store,Philippines,town,2017-05-28T20:40:04Z,2017-06-27T20:40:04Z,425,S,0.796,female,34.6
+1303749,funded,275,Retail,Philippines,town,2017-05-28T20:40:04Z,2017-06-27T20:40:04Z,275,S,0,female,30.3
+1303743,funded,900,Personal Housing Expenses,Vietnam,town,2017-05-28T20:40:03Z,2017-06-27T20:40:03Z,900,S,0.003,female,39.3
+1303748,fundraising,300,General Store,Samoa,town,2017-05-28T20:40:03Z,2017-06-27T20:40:02Z,600,S,0.982,female,32.9
+1303750,fundraising,600,Beauty Salon,Vietnam,town,2017-05-28T20:40:03Z,2017-06-27T20:40:03Z,1325,S,0.312,female,36
+1303742,funded,1375,Textiles,Samoa,town,2017-05-28T20:40:02Z,2017-06-27T20:40:02Z,1375,S,0.01,male,43.1
+1303744,funded,225,Fruits & Vegetables,Philippines,town,2017-05-28T20:30:06Z,2017-06-27T20:30:05Z,225,S,0.014,female,36.6
+1303175,funded,225,General Store,Philippines,town,2017-05-28T20:30:05Z,2017-06-27T20:30:05Z,225,NA,NA,NA,NA
+1303739,funded,325,Pigs,Philippines,town,2017-05-28T20:30:05Z,2017-06-27T20:30:05Z,325,S,0,female,21
+1303740,funded,300,Pigs,Philippines,town,2017-05-28T20:30:05Z,2017-06-27T20:30:05Z,300,S,1,female,67.3
+1303738,funded,450,Personal Housing Expenses,Vietnam,town,2017-05-28T20:30:03Z,2017-06-27T20:30:03Z,450,S,0.07,female,46
+1303741,fundraising,425,Cattle,Cambodia,town,2017-05-28T20:30:02Z,2017-06-27T20:30:02Z,1000,M,NA,NA,NA
+1303733,funded,225,Fish Selling,Philippines,town,2017-05-28T20:20:06Z,2017-06-27T20:20:06Z,225,NA,NA,NA,NA
+1303735,funded,325,Food Production/Sales,Philippines,town,2017-05-28T20:20:06Z,2017-06-27T20:20:06Z,325,NA,NA,NA,NA
+1303737,funded,225,Food,Philippines,town,2017-05-28T20:20:06Z,2017-06-27T20:20:06Z,225,S,0.956,female,41.1
+1303731,funded,225,Pigs,Philippines,town,2017-05-28T20:20:05Z,2017-06-27T20:20:05Z,225,S,0.702,female,31.1
+1303734,funded,175,Food,Philippines,town,2017-05-28T20:20:03Z,2017-06-27T20:20:03Z,175,S,0.004,female,43.9
+1303732,funded,400,Agriculture,Samoa,town,2017-05-28T20:20:02Z,2017-06-27T20:20:02Z,400,NA,NA,NA,NA
+1303736,funded,400,Agriculture,Samoa,town,2017-05-28T20:20:02Z,2017-06-27T20:20:02Z,400,S,0.75,male,33.5
+1303687,funded,800,Grocery Store,Yemen,town,2017-05-28T20:10:07Z,2017-06-27T20:10:07Z,800,S,0.073,male,41.5
+1303720,funded,325,General Store,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,325,S,0.002,male,89.3
+1303724,funded,225,General Store,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,225,S,0.518,female,44.7
+1303727,funded,225,Fishing,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,225,S,0.191,male,70.2
+1303728,funded,200,Farming,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,200,S,0.015,female,81.5
+1303729,funded,375,General Store,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,375,S,0.01,female,53.9
+1303723,funded,600,Food Production/Sales,Samoa,town,2017-05-28T20:10:03Z,2017-06-27T20:10:02Z,600,S,0.997,female,23.9
+1303726,funded,400,Agriculture,Samoa,town,2017-05-28T20:10:03Z,2017-06-27T20:10:03Z,400,S,1,female,24.8
+1303730,funded,600,Sewing,Samoa,town,2017-05-28T20:10:03Z,2017-06-27T20:10:03Z,600,S,0.11,male,56.3
+1303667,funded,275,Home Energy,Mexico,town,2017-05-28T20:00:06Z,2017-06-27T20:00:05Z,275,S,0.156,female,63
+1303719,funded,325,General Store,Philippines,town,2017-05-28T20:00:05Z,2017-06-27T20:00:05Z,325,NA,NA,NA,NA
+1303721,funded,175,Personal Products Sales,Philippines,town,2017-05-28T20:00:05Z,2017-06-27T20:00:05Z,175,S,0.005,female,32.4
+1303722,funded,175,Pigs,Philippines,town,2017-05-28T20:00:05Z,2017-06-27T20:00:05Z,175,S,0.021,male,76.2
+1303716,funded,400,Farming,Samoa,town,2017-05-28T20:00:03Z,2017-06-27T20:00:03Z,400,S,0.284,male,38.1
+1303715,funded,600,Bakery,Samoa,town,2017-05-28T20:00:02Z,2017-06-27T20:00:02Z,600,S,0.462,female,36.9
+1303669,funded,550,Home Energy,Mexico,town,2017-05-28T19:50:04Z,2017-06-27T19:50:03Z,550,S,0.294,male,81.2
+1303684,funded,450,Home Energy,Mexico,town,2017-05-28T19:50:04Z,2017-06-27T19:50:04Z,450,S,0.006,male,71.1
+1303682,funded,1200,Grocery Store,Yemen,town,2017-05-28T19:50:03Z,2017-06-27T19:50:03Z,1200,S,0,male,43.4
+1303711,funded,800,Farming,Samoa,town,2017-05-28T19:50:03Z,2017-06-27T19:50:02Z,800,S,0.509,female,59.7
+1303714,fundraising,50,Food,Samoa,town,2017-05-28T19:50:03Z,2017-06-27T19:50:03Z,400,S,0.052,female,41.1
+1305482,funded,525,Retail,Mozambique,town,2017-05-28T19:50:03Z,2017-06-27T19:50:03Z,525,S,0.013,male,23.9
+1305344,funded,850,Personal Housing Expenses,Mozambique,town,2017-05-28T19:40:02Z,2017-06-27T19:40:02Z,850,S,0.017,female,31.1
+1303657,funded,225,Home Energy,Mexico,town,2017-05-28T19:30:03Z,2017-06-27T19:30:03Z,225,S,0.163,male,54.5
+1303660,funded,900,Home Energy,Mexico,town,2017-05-28T19:30:03Z,2017-06-27T19:30:03Z,900,NA,NA,NA,NA
+1303664,funded,225,Home Energy,Mexico,town,2017-05-28T19:30:03Z,2017-06-27T19:30:03Z,225,S,0.008,female,60
+1307124,funded,200,Agriculture,El Salvador,town,2017-05-28T19:30:02Z,2017-06-27T19:30:02Z,200,S,0.062,male,40.7
+1307137,funded,1100,Agriculture,Ecuador,town,2017-05-28T19:30:02Z,2017-06-27T19:30:02Z,1100,NA,NA,NA,NA
+1303117,funded,200,Farming,Kenya,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,200,S,0.937,female,52.9
+1303650,funded,1100,Education provider,Uganda,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,1100,NA,NA,NA,NA
+1303651,fundraising,50,Personal Housing Expenses,Uganda,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,575,S,0.022,male,32.9
+1303652,fundraising,25,Personal Expenses,Uganda,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,575,S,0.058,male,29.8
+1307136,fundraising,175,Farming,Ecuador,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,800,NA,NA,NA,NA
+1303173,funded,250,Clothing Sales,Philippines,town,2017-05-28T19:10:03Z,2017-06-27T19:10:03Z,250,S,0.294,female,26.1
+1299772,funded,375,Higher education costs,Tajikistan,town,2017-05-28T19:10:02Z,2017-06-27T19:10:02Z,375,NA,NA,NA,NA
+1299779,fundraising,0,Cattle,Tajikistan,town,2017-05-28T19:10:02Z,2017-06-27T19:10:02Z,475,S,0.693,female,34.3
+1307132,funded,5800,Agriculture,Bolivia,town,2017-05-28T19:10:02Z,2017-06-27T19:10:02Z,5800,NA,NA,NA,NA
+1303179,funded,175,Home Appliances,Cambodia,town,2017-05-28T19:00:06Z,2017-06-27T19:00:06Z,175,S,0.023,male,73.1
+1303649,funded,575,Farming,Uganda,town,2017-05-28T19:00:06Z,2017-06-27T19:00:05Z,575,NA,NA,NA,NA
+1303641,funded,700,Primary/secondary school costs,Uganda,town,2017-05-28T19:00:05Z,2017-06-27T19:00:05Z,700,S,0,male,28.9
+1303643,fundraising,275,Personal Housing Expenses,Uganda,town,2017-05-28T19:00:05Z,2017-06-27T19:00:05Z,725,NA,NA,NA,NA
+1307135,fundraising,50,Electronics Repair,Colombia,town,2017-05-28T19:00:05Z,2017-06-27T19:00:05Z,700,S,0.006,male,38
+1303182,funded,325,Food Production/Sales,Philippines,town,2017-05-28T19:00:04Z,2017-06-27T19:00:04Z,325,NA,NA,NA,NA
+1303171,funded,650,Personal Housing Expenses,Indonesia,town,2017-05-28T18:50:04Z,2017-06-27T18:50:04Z,650,S,0.1,female,23.8
+1303492,fundraising,25,General Store,Kenya,town,2017-05-28T18:50:04Z,2017-06-27T18:50:04Z,500,S,0.135,female,37.5
+1303172,funded,225,Home Appliances,Cambodia,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,225,NA,NA,NA,NA
+1303181,funded,225,Home Appliances,Cambodia,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,225,NA,NA,NA,NA
+1303579,fundraising,100,Farming,Nigeria,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,300,S,0.281,male,62.3
+1303647,fundraising,525,Personal Housing Expenses,Uganda,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,575,NA,NA,NA,NA
+1303486,funded,550,Manufacturing,Lebanon,country,2017-05-28T18:50:02Z,2017-06-27T18:50:02Z,550,S,0.008,female,32.2
+1307134,funded,925,Higher education costs,Peru,town,2017-05-28T18:50:02Z,2017-06-27T18:50:02Z,925,S,1,female,26.6
+1303482,funded,75,Farming,Nigeria,town,2017-05-28T18:40:05Z,2017-06-27T18:40:05Z,75,NA,NA,NA,NA
+1303488,fundraising,1000,Recycled Materials,Cambodia,town,2017-05-28T18:40:05Z,2017-06-27T18:40:05Z,2000,NA,NA,NA,NA
+1303489,fundraising,0,Farming,Nigeria,town,2017-05-28T18:40:05Z,2017-06-27T18:40:05Z,375,S,0.157,male,44.8
+1302764,funded,1025,Food Stall,Philippines,town,2017-05-28T18:40:04Z,2017-06-27T18:40:04Z,1025,S,0.998,female,47.7
+1303490,fundraising,0,Dairy,Armenia,town,2017-05-28T18:40:04Z,2017-06-27T18:40:04Z,3000,S,0.021,female,47
+1303576,funded,900,Cereals,Tanzania,town,2017-05-28T18:40:02Z,2017-06-27T18:40:02Z,900,M,NA,NA,NA
+1307133,funded,1400,Higher education costs,Peru,town,2017-05-28T18:40:02Z,2017-06-27T18:40:02Z,1400,S,0,male,29.2
+1303508,fundraising,250,Food Market,Armenia,town,2017-05-28T18:30:03Z,2017-06-27T18:30:02Z,2075,S,0.722,female,53.7
+1303562,fundraising,0,Farming,Nigeria,town,2017-05-28T18:20:03Z,2017-06-27T18:20:03Z,225,S,0.094,male,39.4
+1307129,funded,200,Agriculture,El Salvador,country,2017-05-28T18:20:03Z,2017-06-27T18:20:03Z,200,S,0.506,male,7.6
+1307130,fundraising,0,Property,Colombia,town,2017-05-28T18:20:03Z,2017-06-27T18:20:02Z,1725,NA,NA,NA,NA
+1303531,funded,125,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,125,S,0,male,28.9
+1303557,fundraising,0,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,200,S,0.23,male,30.8
+1303571,funded,75,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,75,NA,NA,NA,NA
+1303575,funded,150,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,150,NA,NA,NA,NA

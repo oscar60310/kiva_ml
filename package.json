@@ -1,0 +1,11 @@
+{
+  "name": "kiva_ml",
+  "version": "1.0.0",
+  "description": "machine learning final project",
+  "main": "getdata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goofy",
+  "license": "ISC"
+}

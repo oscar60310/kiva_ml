@@ -1,0 +1,1021 @@
+id,status,funded_amount,activity,country,geo_level,post,expire,loan_amount
+1308233,funded,3300,Retail,Paraguay,town,2017-05-29T23:30:02Z,2017-06-28T23:30:02Z,3300
+1304532,fundraising,150,Retail,Sierra Leone,town,2017-05-29T23:20:04Z,2017-06-28T23:20:04Z,225
+1304534,fundraising,25,Farming,Nigeria,town,2017-05-29T23:20:04Z,2017-06-28T23:20:04Z,150
+1304538,funded,300,Grocery Store,Egypt,town,2017-05-29T23:20:04Z,2017-06-28T23:20:04Z,300
+1304411,fundraising,0,Farming,Kenya,town,2017-05-29T23:20:03Z,2017-06-28T23:20:03Z,600
+1304530,fundraising,275,Crafts,Armenia,town,2017-05-29T23:20:03Z,2017-06-28T23:20:03Z,1675
+1304531,fundraising,0,Farming,Kenya,town,2017-05-29T23:20:03Z,2017-06-28T23:20:03Z,300
+1304533,funded,500,Grocery Store,Nepal,town,2017-05-29T23:20:02Z,2017-06-28T23:20:02Z,500
+1304526,funded,275,Fish Selling,Sierra Leone,town,2017-05-29T23:10:03Z,2017-06-28T23:10:03Z,275
+1304527,funded,400,Carpentry,Egypt,town,2017-05-29T23:10:03Z,2017-06-28T23:10:03Z,400
+1304528,funded,150,Personal Medical Expenses,Tajikistan,town,2017-05-29T23:10:02Z,2017-06-28T23:10:02Z,150
+1304383,funded,200,Poultry,Kenya,town,2017-05-29T23:00:04Z,2017-06-28T23:00:04Z,200
+1304507,fundraising,0,Farming,Kenya,town,2017-05-29T23:00:04Z,2017-06-28T23:00:04Z,400
+1304519,funded,450,Beverages,Liberia,town,2017-05-29T23:00:04Z,2017-06-28T23:00:04Z,450
+1304524,fundraising,25,Personal Housing Expenses,Tajikistan,town,2017-05-29T23:00:03Z,2017-06-28T23:00:03Z,250
+1304508,funded,500,Butcher Shop,Nepal,town,2017-05-29T23:00:02Z,2017-06-28T23:00:02Z,500
+1304521,funded,500,Weaving,Nepal,town,2017-05-29T23:00:02Z,2017-06-28T23:00:02Z,500
+1304525,funded,400,Farming,Nepal,town,2017-05-29T23:00:02Z,2017-06-28T23:00:02Z,400
+1304504,fundraising,0,Farming,Nigeria,town,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,575
+1304517,fundraising,0,Farming,Nigeria,town,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,650
+1308213,fundraising,0,Home Energy,Nicaragua,country,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,700
+1308223,fundraising,75,Spare Parts,Ecuador,town,2017-05-29T22:50:03Z,2017-06-28T22:50:03Z,1075
+1304516,funded,200,Cattle,Kenya,town,2017-05-29T22:50:02Z,2017-06-28T22:50:02Z,200
+1304518,fundraising,0,Farming,Kenya,town,2017-05-29T22:50:02Z,2017-06-28T22:50:02Z,400
+1304510,fundraising,50,Cattle,Tajikistan,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,725
+1308212,fundraising,75,Home Energy,Nicaragua,country,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,525
+1308216,funded,275,Embroidery,Ecuador,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,275
+1308219,fundraising,0,General Store,El Salvador,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,1100
+1308220,funded,300,Bookstore,El Salvador,town,2017-05-29T22:40:04Z,2017-06-28T22:40:04Z,300
+1304364,fundraising,0,Farming,Kenya,town,2017-05-29T22:40:03Z,2017-06-28T22:40:03Z,400
+1304371,fundraising,0,Farming,Kenya,town,2017-05-29T22:40:03Z,2017-06-28T22:40:03Z,500
+1304512,funded,200,Farming,Kenya,town,2017-05-29T22:40:03Z,2017-06-28T22:40:03Z,200
+1304513,funded,950,Cloth & Dressmaking Supplies,Tajikistan,town,2017-05-29T22:40:02Z,2017-06-28T22:40:02Z,950
+1308125,funded,400,Crafts,El Salvador,town,2017-05-29T22:30:03Z,2017-06-28T22:30:03Z,400
+1308126,funded,400,Food Production/Sales,El Salvador,town,2017-05-29T22:30:03Z,2017-06-28T22:30:03Z,400
+1308127,funded,225,Farming,El Salvador,town,2017-05-29T22:30:03Z,2017-06-28T22:30:03Z,225
+1304503,funded,400,Food Market,Liberia,town,2017-05-29T22:30:02Z,2017-06-28T22:30:02Z,400
+1308111,fundraising,250,Clothing Sales,Peru,town,2017-05-29T22:20:05Z,2017-06-28T22:20:05Z,475
+1302004,funded,1025,Clothing,Burkina Faso,town,2017-05-29T22:20:04Z,2017-06-28T22:20:04Z,1025
+1304336,fundraising,50,Fruits & Vegetables,Kenya,town,2017-05-29T22:20:04Z,2017-06-28T22:20:03Z,300
+1304344,fundraising,0,Farming,Kenya,town,2017-05-29T22:20:04Z,2017-06-28T22:20:04Z,500
+1308077,fundraising,0,Mobile Phones,Colombia,town,2017-05-29T22:20:04Z,2017-06-28T22:20:04Z,1150
+1304502,funded,375,Sewing,Tajikistan,town,2017-05-29T22:20:02Z,2017-06-28T22:20:02Z,375
+1304494,funded,2525,Renewable Energy Products,Kenya,town,2017-05-29T22:10:04Z,2017-06-28T22:10:04Z,2525
+1304334,funded,200,Poultry,Kenya,town,2017-05-29T22:10:03Z,2017-06-28T22:10:03Z,200
+1304498,fundraising,0,Farming,Kenya,town,2017-05-29T22:10:03Z,2017-06-28T22:10:03Z,600
+1304501,fundraising,75,Farming,Kenya,town,2017-05-29T22:10:03Z,2017-06-28T22:10:03Z,300
+1304499,funded,250,Higher education costs,Tajikistan,town,2017-05-29T22:10:02Z,2017-06-28T22:10:02Z,250
+1304479,funded,150,Farming,Nigeria,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,150
+1304492,funded,1250,Retail,Ghana,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,1250
+1304493,funded,125,Farming,Nigeria,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,125
+1304495,funded,800,Grocery Store,Yemen,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,800
+1304496,fundraising,50,Farming,Nigeria,town,2017-05-29T22:00:03Z,2017-06-28T22:00:03Z,200
+1304497,funded,500,Grocery Store,Nepal,town,2017-05-29T22:00:02Z,2017-06-28T22:00:02Z,500
+1301998,funded,250,Butcher Shop,Madagascar,town,2017-05-29T21:50:06Z,2017-06-28T21:50:06Z,250
+1304482,funded,400,Dairy,Pakistan,town,2017-05-29T21:50:06Z,2017-06-28T21:50:06Z,400
+1304485,fundraising,25,Sporting Good Sales,Pakistan,town,2017-05-29T21:50:06Z,2017-06-28T21:50:06Z,350
+1304302,funded,1000,Cattle,Cambodia,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,1000
+1304483,fundraising,50,Cattle,Armenia,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,1050
+1304484,fundraising,50,Farming,Nigeria,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,375
+1304489,fundraising,0,Cattle,Tajikistan,town,2017-05-29T21:50:05Z,2017-06-28T21:50:05Z,825
+1304323,fundraising,0,Farming,Kenya,town,2017-05-29T21:50:04Z,2017-06-28T21:50:04Z,500
+1304486,fundraising,50,Fruits & Vegetables,Kenya,town,2017-05-29T21:50:04Z,2017-06-28T21:50:04Z,250
+1304488,funded,500,Retail,Kenya,town,2017-05-29T21:50:04Z,2017-06-28T21:50:04Z,500
+1304316,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T21:50:03Z,2017-06-28T21:50:03Z,225
+1304487,fundraising,0,Agriculture,Tajikistan,town,2017-05-29T21:50:02Z,2017-06-28T21:50:02Z,2950
+1304491,fundraising,0,Grocery Store,Tajikistan,town,2017-05-29T21:50:02Z,2017-06-28T21:50:02Z,600
+1301993,funded,225,Textiles,Madagascar,town,2017-05-29T21:40:05Z,2017-06-28T21:40:05Z,225
+1304481,fundraising,0,Tailoring,Pakistan,town,2017-05-29T21:40:05Z,2017-06-28T21:40:05Z,350
+1304292,fundraising,0,Livestock,Cambodia,town,2017-05-29T21:40:04Z,2017-06-28T21:40:04Z,625
+1304301,fundraising,150,Clothing Sales,Kenya,town,2017-05-29T21:40:04Z,2017-06-28T21:40:04Z,400
+1304478,funded,2500,Higher education costs,Armenia,town,2017-05-29T21:40:04Z,2017-06-28T21:40:04Z,2500
+1304480,funded,425,Personal Medical Expenses,Tajikistan,town,2017-05-29T21:40:03Z,2017-06-28T21:40:03Z,425
+1304476,funded,350,Manufacturing,Pakistan,town,2017-05-29T21:30:04Z,2017-06-28T21:30:03Z,350
+1304477,funded,350,Embroidery,Pakistan,town,2017-05-29T21:30:04Z,2017-06-28T21:30:04Z,350
+1304285,funded,700,Farming,Cambodia,town,2017-05-29T21:30:03Z,2017-06-28T21:30:03Z,700
+1308069,fundraising,100,Agriculture,El Salvador,town,2017-05-29T21:30:03Z,2017-06-28T21:30:03Z,500
+1304287,fundraising,0,Farming,Kenya,town,2017-05-29T21:30:02Z,2017-06-28T21:30:02Z,400
+1301981,funded,200,Farming,Cameroon,country,2017-05-29T21:20:03Z,2017-06-28T21:20:02Z,200
+1304475,fundraising,25,Tailoring,Pakistan,town,2017-05-29T21:20:03Z,2017-06-28T21:20:03Z,350
+1308119,fundraising,150,General Store,El Salvador,town,2017-05-29T21:20:02Z,2017-06-28T21:20:02Z,500
+1304473,funded,300,Dairy,Pakistan,town,2017-05-29T21:10:06Z,2017-06-28T21:10:06Z,300
+1308115,funded,475,Food,Peru,town,2017-05-29T21:10:06Z,2017-06-28T21:10:06Z,475
+1308122,fundraising,25,Agriculture,El Salvador,town,2017-05-29T21:10:06Z,2017-06-28T21:10:05Z,800
+1304472,funded,200,Weaving,Philippines,town,2017-05-29T21:10:05Z,2017-06-28T21:10:04Z,200
+1308116,fundraising,100,Pigs,El Salvador,town,2017-05-29T21:10:05Z,2017-06-28T21:10:05Z,1000
+1308117,funded,300,Pigs,El Salvador,town,2017-05-29T21:10:05Z,2017-06-28T21:10:05Z,300
+1304467,funded,350,Dairy,Pakistan,town,2017-05-29T21:00:07Z,2017-06-28T21:00:07Z,350
+1304471,fundraising,50,Tailoring,Pakistan,town,2017-05-29T21:00:07Z,2017-06-28T21:00:07Z,300
+1304463,funded,500,Embroidery,Pakistan,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,500
+1304465,funded,125,Personal Housing Expenses,India,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,125
+1304470,fundraising,0,Farming,Nigeria,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,200
+1307980,fundraising,25,Personal Medical Expenses,Mexico,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,650
+1308102,fundraising,100,Personal Medical Expenses,Mexico,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,1300
+1308109,fundraising,125,Personal Medical Expenses,Mexico,town,2017-05-29T21:00:06Z,2017-06-28T21:00:06Z,1300
+1301960,fundraising,0,Agriculture,Cameroon,country,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,675
+1304464,fundraising,150,Agriculture,Armenia,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,3000
+1308113,fundraising,125,Farming,El Salvador,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,225
+1308120,funded,1000,Utilities,El Salvador,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,1000
+1308121,funded,500,Crafts,El Salvador,town,2017-05-29T21:00:05Z,2017-06-28T21:00:05Z,500
+1304466,funded,250,Pigs,Philippines,town,2017-05-29T21:00:04Z,2017-06-28T21:00:04Z,250
+1304453,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:50:07Z,2017-06-28T20:50:06Z,300
+1304456,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:50:07Z,2017-06-28T20:50:07Z,300
+1304457,funded,300,Embroidery,Pakistan,town,2017-05-29T20:50:07Z,2017-06-28T20:50:07Z,300
+1304437,funded,350,Tailoring,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,350
+1304445,fundraising,75,Tailoring,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,300
+1304450,fundraising,0,Tailoring,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,350
+1304458,funded,200,Textiles,Pakistan,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,200
+1307962,funded,400,Personal Medical Expenses,Mexico,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,400
+1307974,fundraising,75,Personal Medical Expenses,Mexico,town,2017-05-29T20:50:06Z,2017-06-28T20:50:06Z,1200
+1304459,funded,225,Cereals,Philippines,town,2017-05-29T20:50:05Z,2017-06-28T20:50:05Z,225
+1308118,funded,450,Agriculture,El Salvador,town,2017-05-29T20:50:05Z,2017-06-28T20:50:05Z,450
+1304309,funded,225,General Store,Philippines,town,2017-05-29T20:50:03Z,2017-06-28T20:50:03Z,225
+1304308,funded,1200,Farming,Cambodia,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,1200
+1304438,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,350
+1304440,funded,125,Personal Housing Expenses,India,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,125
+1304441,funded,200,Retail,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,200
+1304444,fundraising,50,Tailoring,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,300
+1304446,fundraising,50,Tailoring,Pakistan,town,2017-05-29T20:40:07Z,2017-06-28T20:40:07Z,350
+1308110,fundraising,0,General Store,El Salvador,town,2017-05-29T20:40:06Z,2017-06-28T20:40:06Z,800
+1308112,funded,800,Pigs,El Salvador,town,2017-05-29T20:40:06Z,2017-06-28T20:40:06Z,800
+1304443,funded,175,Pigs,Philippines,town,2017-05-29T20:40:05Z,2017-06-28T20:40:05Z,175
+1304447,funded,750,Grocery Store,Jordan,town,2017-05-29T20:40:05Z,2017-06-28T20:40:05Z,750
+1304448,funded,200,Pigs,Philippines,town,2017-05-29T20:40:05Z,2017-06-28T20:40:05Z,200
+1304262,funded,225,General Store,Philippines,town,2017-05-29T20:40:03Z,2017-06-28T20:40:03Z,225
+1304423,fundraising,0,Livestock,Tajikistan,town,2017-05-29T20:40:02Z,2017-06-28T20:40:02Z,825
+1308106,funded,625,Food Stall,Peru,town,2017-05-29T20:30:06Z,2017-06-28T20:30:06Z,625
+1304429,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350
+1304433,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350
+1304434,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350
+1304435,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,350
+1308107,fundraising,175,Cattle,El Salvador,town,2017-05-29T20:30:05Z,2017-06-28T20:30:05Z,250
+1304405,funded,125,Farming,Kenya,town,2017-05-29T20:30:04Z,2017-06-28T20:30:04Z,125
+1304439,funded,1175,Manufacturing,Jordan,town,2017-05-29T20:30:04Z,2017-06-28T20:30:04Z,1175
+1308108,funded,850,Agriculture,Costa Rica,town,2017-05-29T20:30:04Z,2017-06-28T20:30:03Z,850
+1304286,funded,225,Food Production/Sales,Philippines,town,2017-05-29T20:30:03Z,2017-06-28T20:30:03Z,225
+1304431,fundraising,200,Home Appliances,Tajikistan,town,2017-05-29T20:30:03Z,2017-06-28T20:30:03Z,600
+1304303,funded,475,Higher education costs,Tajikistan,town,2017-05-29T20:30:02Z,2017-06-28T20:30:02Z,475
+1304420,funded,175,Personal Housing Expenses,India,town,2017-05-29T20:20:06Z,2017-06-28T20:20:06Z,175
+1304424,funded,125,Personal Housing Expenses,India,town,2017-05-29T20:20:06Z,2017-06-28T20:20:06Z,125
+1304428,fundraising,25,Tailoring,Pakistan,town,2017-05-29T20:20:06Z,2017-06-28T20:20:06Z,350
+1308104,fundraising,100,Personal Housing Expenses,Mexico,town,2017-05-29T20:20:05Z,2017-06-28T20:20:05Z,450
+1308105,fundraising,150,Perfumes,El Salvador,town,2017-05-29T20:20:05Z,2017-06-28T20:20:05Z,375
+1304404,funded,2075,Event Planning,Armenia,town,2017-05-29T20:20:04Z,2017-06-28T20:20:04Z,2075
+1304417,funded,325,Construction,Philippines,town,2017-05-29T20:20:04Z,2017-06-28T20:20:04Z,325
+1304422,fundraising,75,Agriculture,Armenia,town,2017-05-29T20:20:04Z,2017-06-28T20:20:04Z,2075
+1308101,funded,775,Higher education costs,Peru,town,2017-05-29T20:20:03Z,2017-06-28T20:20:03Z,775
+1304413,funded,175,Personal Housing Expenses,India,town,2017-05-29T20:10:06Z,2017-06-28T20:10:06Z,175
+1304416,funded,175,Personal Housing Expenses,India,town,2017-05-29T20:10:06Z,2017-06-28T20:10:06Z,175
+1304393,funded,225,Home Appliances,Cambodia,town,2017-05-29T20:10:05Z,2017-06-28T20:10:05Z,225
+1304408,funded,175,Home Appliances,Cambodia,town,2017-05-29T20:10:05Z,2017-06-28T20:10:05Z,175
+1308103,funded,500,Agriculture,El Salvador,town,2017-05-29T20:10:05Z,2017-06-28T20:10:05Z,500
+1304325,funded,225,Water Distribution,Philippines,town,2017-05-29T20:10:04Z,2017-06-28T20:10:04Z,225
+1304410,funded,200,Farming,Kenya,town,2017-05-29T20:10:04Z,2017-06-28T20:10:04Z,200
+1304419,fundraising,100,Agriculture,Tajikistan,town,2017-05-29T20:10:03Z,2017-06-28T20:10:03Z,1200
+1304412,fundraising,500,Motorcycle Repair,Lebanon,town,2017-05-29T20:10:02Z,2017-06-28T20:10:02Z,2500
+1304402,funded,225,Home Appliances,Cambodia,town,2017-05-29T20:00:05Z,2017-06-28T20:00:05Z,225
+1301845,fundraising,0,Farming,Cameroon,country,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,375
+1304365,fundraising,25,Fruits & Vegetables,Tajikistan,town,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,250
+1304400,fundraising,100,Farming,Cambodia,town,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,975
+1304403,funded,850,Mobile Transactions,Malawi,town,2017-05-29T20:00:04Z,2017-06-28T20:00:04Z,850
+1301770,funded,3400,Tailoring,Congo (Dem. Rep.),country,2017-05-29T20:00:03Z,2017-06-28T20:00:03Z,3400
+1304382,fundraising,0,Cereals,Kenya,town,2017-05-29T20:00:03Z,2017-06-28T20:00:03Z,700
+1304406,funded,725,Higher education costs,Jordan,town,2017-05-29T20:00:03Z,2017-06-28T20:00:03Z,725
+1304398,fundraising,25,Sewing,Tajikistan,town,2017-05-29T20:00:02Z,2017-06-28T20:00:02Z,600
+1304392,funded,400,Furniture Making,India,town,2017-05-29T19:50:07Z,2017-06-28T19:50:07Z,400
+1304389,funded,1300,Decorations Sales,Jordan,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,1300
+1304395,fundraising,0,Farming,Kenya,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,400
+1308093,funded,275,Home Energy,Honduras,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,275
+1308094,funded,2900,Higher education costs,Peru,town,2017-05-29T19:50:06Z,2017-06-28T19:50:06Z,2900
+1304054,funded,225,General Store,Philippines,town,2017-05-29T19:50:05Z,2017-06-28T19:50:05Z,225
+1304359,funded,225,General Store,Philippines,town,2017-05-29T19:50:05Z,2017-06-28T19:50:05Z,225
+1304384,fundraising,0,Food Stall,Kenya,town,2017-05-29T19:50:03Z,2017-06-28T19:50:03Z,500
+1304394,funded,200,Retail,Kenya,town,2017-05-29T19:50:03Z,2017-06-28T19:50:03Z,200
+1304397,fundraising,0,General Store,Kenya,town,2017-05-29T19:50:03Z,2017-06-28T19:50:03Z,600
+1308100,funded,775,Higher education costs,Peru,town,2017-05-29T19:50:02Z,2017-06-28T19:50:02Z,775
+1304376,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,225
+1304379,funded,125,Home Appliances,Cambodia,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,125
+1304381,fundraising,0,Farming,Kenya,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,350
+1304385,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,225
+1308092,funded,925,Agriculture,Peru,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,925
+1308099,fundraising,225,Clothing Sales,Peru,town,2017-05-29T19:40:05Z,2017-06-28T19:40:05Z,925
+1304377,funded,225,Construction,Philippines,town,2017-05-29T19:40:04Z,2017-06-28T19:40:04Z,225
+1303479,funded,750,Cosmetics Sales,Lebanon,country,2017-05-29T19:40:03Z,2017-06-28T19:40:03Z,750
+1304372,funded,1000,Farming,Cambodia,town,2017-05-29T19:40:03Z,2017-06-28T19:40:03Z,1000
+1304375,funded,600,Farming,Tajikistan,town,2017-05-29T19:40:03Z,2017-06-28T19:40:03Z,600
+1304369,funded,200,Grocery Store,Kenya,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,200
+1304373,funded,100,Home Appliances,Cambodia,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,100
+1304374,funded,200,Used Clothing,Kenya,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,200
+1308090,funded,875,Agriculture,Honduras,town,2017-05-29T19:30:04Z,2017-06-28T19:30:04Z,875
+1304367,funded,500,Beauty Salon,Lebanon,town,2017-05-29T19:30:03Z,2017-06-28T19:30:02Z,500
+1308098,fundraising,225,Personal Housing Expenses,Costa Rica,town,2017-05-29T19:30:03Z,2017-06-28T19:30:03Z,1700
+1304342,fundraising,675,Dental,Lebanon,town,2017-05-29T19:30:02Z,2017-06-28T19:30:02Z,2500
+1304370,funded,250,Higher education costs,Tajikistan,town,2017-05-29T19:30:02Z,2017-06-28T19:30:02Z,250
+1301764,funded,175,Cosmetics Sales,Madagascar,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,175
+1304268,funded,400,Weaving,India,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,400
+1304360,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,225
+1304363,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,225
+1308087,fundraising,1300,Higher education costs,Peru,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,4200
+1308096,funded,475,Poultry,Peru,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,475
+1308097,funded,625,Farming,Peru,town,2017-05-29T19:20:08Z,2017-06-28T19:20:08Z,625
+1304267,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,225
+1304274,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,225
+1304338,funded,175,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,175
+1304355,fundraising,75,Personal Housing Expenses,Kosovo,country,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,1150
+1304357,funded,175,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,175
+1304358,funded,175,Home Appliances,Cambodia,town,2017-05-29T19:20:07Z,2017-06-28T19:20:07Z,175
+1304349,fundraising,250,Farming,Cambodia,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,625
+1304354,fundraising,0,Farming,Kenya,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,400
+1304366,fundraising,300,Farming,Cambodia,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,875
+1308091,fundraising,50,Farming,El Salvador,town,2017-05-29T19:20:06Z,2017-06-28T19:20:06Z,500
+1304269,funded,250,Food,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,250
+1304347,funded,425,Food Production/Sales,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,425
+1304348,funded,250,Fishing,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,250
+1304356,funded,275,Pigs,Philippines,town,2017-05-29T19:20:05Z,2017-06-28T19:20:05Z,275
+1308086,fundraising,1375,Cattle,Costa Rica,town,2017-05-29T19:20:03Z,2017-06-28T19:20:03Z,2550
+1304362,fundraising,0,Cattle,Tajikistan,town,2017-05-29T19:20:02Z,2017-06-28T19:20:02Z,375
+1304335,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,225
+1304350,fundraising,100,Personal Housing Expenses,Kosovo,country,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,575
+1304352,funded,225,Home Appliances,Cambodia,town,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,225
+1308089,funded,425,Pigs,El Salvador,town,2017-05-29T19:10:08Z,2017-06-28T19:10:08Z,425
+1304340,funded,625,General Store,Philippines,town,2017-05-29T19:10:07Z,2017-06-28T19:10:07Z,625
+1304343,funded,325,Fishing,Philippines,town,2017-05-29T19:10:07Z,2017-06-28T19:10:07Z,325
+1304353,funded,325,Fishing,Philippines,town,2017-05-29T19:10:07Z,2017-06-28T19:10:07Z,325
+1304264,funded,200,Liquor Store / Off-License,Kenya,town,2017-05-29T19:10:05Z,2017-06-28T19:10:05Z,200
+1304333,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T19:10:04Z,2017-06-28T19:10:04Z,125
+1304346,funded,625,Pigs,Philippines,town,2017-05-29T19:10:04Z,2017-06-28T19:10:04Z,625
+1304341,funded,2000,Higher education costs,Lebanon,town,2017-05-29T19:10:02Z,2017-06-28T19:10:02Z,2000
+1304351,funded,475,Higher education costs,Tajikistan,town,2017-05-29T19:10:02Z,2017-06-28T19:10:02Z,475
+1301743,funded,400,Used Clothing,Madagascar,town,2017-05-29T19:00:06Z,2017-06-28T19:00:05Z,400
+1301753,funded,1700,Beauty Salon,Congo (Dem. Rep.),country,2017-05-29T19:00:05Z,2017-06-28T19:00:05Z,1700
+1308082,funded,250,Farming,El Salvador,town,2017-05-29T19:00:05Z,2017-06-28T19:00:05Z,250
+1308085,fundraising,150,Personal Housing Expenses,Peru,town,2017-05-29T19:00:05Z,2017-06-28T19:00:05Z,1550
+1304322,funded,325,Fish Selling,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,325
+1304327,funded,325,Fishing,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,325
+1304331,funded,225,Fishing,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,225
+1304339,funded,625,Pigs,Philippines,town,2017-05-29T19:00:04Z,2017-06-28T19:00:04Z,625
+1304332,fundraising,0,Fruits & Vegetables,Tajikistan,town,2017-05-29T19:00:02Z,2017-06-28T19:00:02Z,375
+1304288,fundraising,0,Farming,Cambodia,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,1000
+1304306,fundraising,100,Fish Selling,Kenya,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,500
+1304318,funded,125,Home Appliances,Cambodia,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,125
+1304329,funded,125,Home Appliances,Cambodia,town,2017-05-29T18:50:07Z,2017-06-28T18:50:07Z,125
+1308063,funded,700,Food,Colombia,town,2017-05-29T18:50:06Z,2017-06-28T18:50:06Z,700
+1308081,funded,600,Farming,El Salvador,town,2017-05-29T18:50:06Z,2017-06-28T18:50:06Z,600
+1308084,fundraising,25,Food Production/Sales,El Salvador,town,2017-05-29T18:50:06Z,2017-06-28T18:50:06Z,500
+1301733,funded,3925,Food Stall,Congo (Dem. Rep.),country,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,3925
+1304313,funded,425,Food,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,425
+1304317,funded,225,Fruits & Vegetables,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,225
+1304324,funded,425,Pigs,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,425
+1304328,funded,475,Farming,Philippines,town,2017-05-29T18:50:05Z,2017-06-28T18:50:05Z,475
+1304294,fundraising,275,Agriculture,Vietnam,town,2017-05-29T18:50:03Z,2017-06-28T18:50:03Z,1325
+1304330,funded,250,Personal Medical Expenses,Tajikistan,town,2017-05-29T18:50:02Z,2017-06-28T18:50:02Z,250
+1303914,funded,400,Weaving,India,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,400
+1304319,funded,425,Manufacturing,Philippines,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,425
+1304320,funded,125,Home Appliances,Cambodia,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,125
+1308079,funded,300,Food Production/Sales,El Salvador,town,2017-05-29T18:40:08Z,2017-06-28T18:40:08Z,300
+1304291,funded,2075,Agriculture,Armenia,town,2017-05-29T18:40:07Z,2017-06-28T18:40:07Z,2075
+1304307,funded,325,General Store,Philippines,town,2017-05-29T18:40:07Z,2017-06-28T18:40:07Z,325
+1304314,funded,775,Pharmacy,Kenya,town,2017-05-29T18:40:05Z,2017-06-28T18:40:04Z,775
+1304315,funded,125,Arts,Philippines,town,2017-05-29T18:40:04Z,2017-06-28T18:40:04Z,125
+1308080,funded,1800,Furniture Making,Costa Rica,town,2017-05-29T18:40:04Z,2017-06-28T18:40:04Z,1800
+1304304,fundraising,25,Clothing Sales,Tajikistan,town,2017-05-29T18:40:03Z,2017-06-28T18:40:02Z,1775
+1304311,funded,675,Agriculture,Vietnam,town,2017-05-29T18:40:03Z,2017-06-28T18:40:03Z,675
+1304290,funded,325,Poultry,India,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,325
+1304297,funded,225,Home Appliances,Cambodia,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,225
+1304305,funded,100,Home Appliances,Cambodia,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,100
+1308074,funded,3000,Home Energy,Honduras,town,2017-05-29T18:30:08Z,2017-06-28T18:30:08Z,3000
+1308071,funded,200,Agriculture,El Salvador,town,2017-05-29T18:30:07Z,2017-06-28T18:30:07Z,200
+1308075,funded,200,Farming,El Salvador,town,2017-05-29T18:30:07Z,2017-06-28T18:30:07Z,200
+1304299,funded,225,Pigs,Philippines,town,2017-05-29T18:30:06Z,2017-06-28T18:30:06Z,225
+1304312,funded,225,General Store,Philippines,town,2017-05-29T18:30:06Z,2017-06-28T18:30:06Z,225
+1308076,funded,400,Livestock,Nicaragua,town,2017-05-29T18:30:06Z,2017-06-28T18:30:06Z,400
+1304088,funded,425,General Store,Philippines,town,2017-05-29T18:30:04Z,2017-06-28T18:30:04Z,425
+1304298,funded,225,Personal Expenses,Philippines,town,2017-05-29T18:30:04Z,2017-06-28T18:30:04Z,225
+1304300,funded,250,Fruits & Vegetables,Tajikistan,town,2017-05-29T18:30:03Z,2017-06-28T18:30:03Z,250
+1304225,funded,575,Phone Accessories,Egypt,town,2017-05-29T18:20:09Z,2017-06-28T18:20:09Z,575
+1304293,funded,575,Cattle,Egypt,town,2017-05-29T18:20:09Z,2017-06-28T18:20:09Z,575
+1304222,fundraising,125,Personal Housing Expenses,Cambodia,town,2017-05-29T18:20:08Z,2017-06-28T18:20:08Z,500
+1304289,fundraising,0,Farming,Cambodia,town,2017-05-29T18:20:08Z,2017-06-28T18:20:08Z,500
+1304296,funded,225,Home Appliances,Cambodia,town,2017-05-29T18:20:08Z,2017-06-28T18:20:08Z,225
+1308068,fundraising,0,Food Stall,Colombia,town,2017-05-29T18:20:07Z,2017-06-28T18:20:07Z,525
+1308073,fundraising,0,General Store,El Salvador,town,2017-05-29T18:20:07Z,2017-06-28T18:20:07Z,900
+1304224,funded,225,Crafts,Philippines,town,2017-05-29T18:20:06Z,2017-06-28T18:20:06Z,225
+1304284,funded,100,Personal Expenses,Philippines,town,2017-05-29T18:20:04Z,2017-06-28T18:20:04Z,100
+1304223,funded,500,Beauty Salon,Lebanon,town,2017-05-29T18:20:03Z,2017-06-28T18:20:02Z,500
+1307958,funded,1050,Restaurant,Peru,town,2017-05-29T18:20:03Z,2017-06-28T18:20:03Z,1050
+1301726,funded,250,Beauty Salon,Madagascar,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,250
+1304266,fundraising,0,Motorcycle Transport,Kenya,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,600
+1304276,funded,325,Plastics Sales,Philippines,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,325
+1308065,funded,525,Retail,Colombia,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,525
+1308066,funded,275,Auto Repair,Ecuador,town,2017-05-29T18:10:06Z,2017-06-28T18:10:06Z,275
+1304221,funded,175,Retail,Philippines,town,2017-05-29T18:10:03Z,2017-06-28T18:10:03Z,175
+1304283,funded,625,General Store,Philippines,town,2017-05-29T18:10:03Z,2017-06-28T18:10:03Z,625
+1304270,fundraising,0,Vehicle,Cambodia,town,2017-05-29T18:10:02Z,2017-06-28T18:10:02Z,1500
+1305753,funded,525,General Store,Mozambique,town,2017-05-29T18:10:02Z,2017-06-28T18:10:02Z,525
+1303910,funded,400,Metal Shop,India,town,2017-05-29T18:00:05Z,2017-06-28T18:00:05Z,400
+1304280,funded,225,Home Appliances,Cambodia,town,2017-05-29T18:00:05Z,2017-06-28T18:00:05Z,225
+1304281,funded,100,Home Appliances,Cambodia,town,2017-05-29T18:00:05Z,2017-06-28T18:00:05Z,100
+1299849,funded,3000,Higher education costs,Tajikistan,town,2017-05-29T18:00:04Z,2017-06-28T18:00:04Z,3000
+1304275,fundraising,0,Vehicle,Cambodia,town,2017-05-29T18:00:03Z,2017-06-28T18:00:03Z,1250
+1304279,fundraising,0,Farming,Cambodia,town,2017-05-29T18:00:03Z,2017-06-28T18:00:03Z,750
+1299867,fundraising,25,Sewing,Tajikistan,town,2017-05-29T18:00:02Z,2017-06-28T18:00:02Z,375
+1304261,funded,175,Home Appliances,Cambodia,town,2017-05-29T17:50:05Z,2017-06-28T17:50:05Z,175
+1308062,fundraising,475,Agriculture,Colombia,town,2017-05-29T17:50:04Z,2017-06-28T17:50:04Z,700
+1299733,fundraising,0,Farming,Tajikistan,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,475
+1304263,funded,1500,Beauty Salon,Lebanon,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,1500
+1304272,funded,250,Retail,Tajikistan,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,250
+1304278,funded,100,Personal Medical Expenses,Tajikistan,town,2017-05-29T17:50:03Z,2017-06-28T17:50:03Z,100
+1299570,funded,575,Agriculture,Ukraine,town,2017-05-29T17:50:02Z,2017-06-28T17:50:02Z,575
+1304257,fundraising,0,Farming,Cambodia,town,2017-05-29T17:40:06Z,2017-06-28T17:40:06Z,1250
+1304260,funded,575,Manufacturing,Egypt,town,2017-05-29T17:40:06Z,2017-06-28T17:40:06Z,575
+1304256,funded,525,General Store,Philippines,town,2017-05-29T17:40:05Z,2017-06-28T17:40:05Z,525
+1304258,funded,225,General Store,Philippines,town,2017-05-29T17:40:05Z,2017-06-28T17:40:05Z,225
+1304220,funded,250,Poultry,Kenya,town,2017-05-29T17:40:03Z,2017-06-28T17:40:03Z,250
+1304255,fundraising,25,Clothing Sales,Kenya,town,2017-05-29T17:40:03Z,2017-06-28T17:40:03Z,875
+1304259,fundraising,0,Clothing Sales,Kenya,town,2017-05-29T17:40:03Z,2017-06-28T17:40:03Z,600
+1308064,fundraising,100,Construction,Colombia,town,2017-05-29T17:30:07Z,2017-06-28T17:30:07Z,700
+1304218,funded,425,Recycled Materials,Philippines,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,425
+1304243,funded,475,General Store,Philippines,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,475
+1304252,funded,350,General Store,Philippines,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,350
+1304254,funded,175,Primary/secondary school costs,Kenya,town,2017-05-29T17:30:06Z,2017-06-28T17:30:06Z,175
+1304251,funded,200,Farming,Kenya,town,2017-05-29T17:30:03Z,2017-06-28T17:30:03Z,200
+1304253,fundraising,75,Fruits & Vegetables,Kenya,town,2017-05-29T17:30:03Z,2017-06-28T17:30:03Z,300
+1304219,funded,1500,Personal Medical Expenses,Lebanon,town,2017-05-29T17:30:02Z,2017-06-28T17:30:02Z,1500
+1304248,fundraising,425,Cosmetics Sales,Cambodia,town,2017-05-29T17:30:02Z,2017-06-28T17:30:02Z,1500
+1304250,funded,1000,Agriculture,Cambodia,town,2017-05-29T17:30:02Z,2017-06-28T17:30:02Z,1000
+1304239,funded,300,Grocery Store,Egypt,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,300
+1304246,funded,225,Home Appliances,Cambodia,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,225
+1304247,funded,175,Home Appliances,Cambodia,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,175
+1308060,fundraising,75,Agriculture,El Salvador,town,2017-05-29T17:20:07Z,2017-06-28T17:20:07Z,400
+1308025,funded,300,General Store,El Salvador,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,300
+1308048,funded,700,Agriculture,Colombia,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,700
+1308057,funded,525,Beauty Salon,Colombia,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,525
+1308059,fundraising,225,Sewing,Colombia,town,2017-05-29T17:20:06Z,2017-06-28T17:20:06Z,875
+1304120,funded,250,Pigs,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,250
+1304213,funded,425,Transportation,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,425
+1304214,funded,250,General Store,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,250
+1304240,funded,600,General Store,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,600
+1304245,funded,250,General Store,Philippines,town,2017-05-29T17:20:05Z,2017-06-28T17:20:05Z,250
+1304242,fundraising,50,Food,Kenya,town,2017-05-29T17:20:02Z,2017-06-28T17:20:02Z,500
+1304244,fundraising,0,Charcoal Sales,Kenya,town,2017-05-29T17:20:02Z,2017-06-28T17:20:02Z,500
+1304249,fundraising,0,Retail,Kenya,town,2017-05-29T17:20:02Z,2017-06-28T17:20:02Z,350
+1301730,funded,200,Grocery Store,Madagascar,town,2017-05-29T17:10:09Z,2017-06-28T17:10:09Z,200
+1304232,funded,175,Home Appliances,Cambodia,town,2017-05-29T17:10:09Z,2017-06-28T17:10:09Z,175
+1304235,funded,400,Grocery Store,India,town,2017-05-29T17:10:09Z,2017-06-28T17:10:09Z,400
+1301698,funded,2275,Food Stall,Congo (Dem. Rep.),country,2017-05-29T17:10:08Z,2017-06-28T17:10:08Z,2275
+1301715,funded,2500,Pharmacy,Congo (Dem. Rep.),country,2017-05-29T17:10:08Z,2017-06-28T17:10:08Z,2500
+1304216,fundraising,500,Grocery Store,Cambodia,town,2017-05-29T17:10:08Z,2017-06-28T17:10:08Z,1050
+1304119,funded,325,Food Production/Sales,Philippines,town,2017-05-29T17:10:07Z,2017-06-28T17:10:07Z,325
+1304237,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T17:10:07Z,2017-06-28T17:10:07Z,225
+1304241,funded,250,Primary/secondary school costs,Kenya,town,2017-05-29T17:10:07Z,2017-06-28T17:10:07Z,250
+1304231,funded,100,Barber Shop,Philippines,town,2017-05-29T17:10:04Z,2017-06-28T17:10:04Z,100
+1304233,fundraising,0,Motorcycle Transport,Kenya,town,2017-05-29T17:10:04Z,2017-06-28T17:10:04Z,400
+1304236,funded,500,Primary/secondary school costs,Lebanon,town,2017-05-29T17:10:03Z,2017-06-28T17:10:03Z,500
+1304238,funded,600,Farming,Cambodia,town,2017-05-29T17:10:03Z,2017-06-28T17:10:03Z,600
+1304234,funded,500,Farming,Cambodia,town,2017-05-29T17:10:02Z,2017-06-28T17:10:02Z,500
+1304147,funded,100,Home Appliances,Cambodia,town,2017-05-29T17:00:08Z,2017-06-28T17:00:08Z,100
+1304230,funded,675,Embroidery,Pakistan,town,2017-05-29T17:00:08Z,2017-06-28T17:00:08Z,675
+1303857,fundraising,350,Farming,Cambodia,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,1000
+1304148,fundraising,225,Farming,Cambodia,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,1000
+1304226,funded,1000,Farming,Cambodia,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,1000
+1308019,funded,400,Cheese Making,El Salvador,town,2017-05-29T17:00:07Z,2017-06-28T17:00:07Z,400
+1301677,funded,4700,Food Stall,Congo (Dem. Rep.),country,2017-05-29T17:00:06Z,2017-06-28T17:00:05Z,4700
+1308053,fundraising,100,Cafe,Colombia,town,2017-05-29T17:00:06Z,2017-06-28T17:00:06Z,700
+1308056,fundraising,0,Pigs,Colombia,town,2017-05-29T17:00:06Z,2017-06-28T17:00:06Z,525
+1301644,funded,4650,Pharmacy,Congo (Dem. Rep.),country,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,4650
+1303855,funded,225,Fishing,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,225
+1303856,funded,350,Food,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,350
+1303859,funded,175,Fish Selling,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,175
+1304229,funded,250,Fish Selling,Philippines,town,2017-05-29T17:00:05Z,2017-06-28T17:00:05Z,250
+1301253,fundraising,125,Cloth & Dressmaking Supplies,Senegal,country,2017-05-29T17:00:02Z,2017-06-28T17:00:02Z,875
+1301639,fundraising,275,Food Stall,Madagascar,town,2017-05-29T16:50:07Z,2017-06-28T16:50:07Z,750
+1304117,fundraising,0,Farming,Cambodia,town,2017-05-29T16:50:07Z,2017-06-28T16:50:07Z,1000
+1304118,funded,225,Farming,Philippines,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,225
+1304228,funded,325,Food Production/Sales,Philippines,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,325
+1308013,funded,300,Farming,El Salvador,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,300
+1308051,fundraising,75,Agriculture,El Salvador,town,2017-05-29T16:50:06Z,2017-06-28T16:50:06Z,300
+1303854,funded,375,Pigs,Philippines,town,2017-05-29T16:50:05Z,2017-06-28T16:50:05Z,375
+1304215,fundraising,0,Cereals,Kenya,town,2017-05-29T16:50:03Z,2017-06-28T16:50:03Z,975
+1308045,fundraising,525,Agriculture,Costa Rica,town,2017-05-29T16:50:03Z,2017-06-28T16:50:03Z,1700
+1304211,funded,175,Home Appliances,Cambodia,town,2017-05-29T16:40:06Z,2017-06-28T16:40:06Z,175
+1308042,fundraising,125,Farming,El Salvador,town,2017-05-29T16:40:06Z,2017-06-28T16:40:06Z,300
+1308047,funded,275,Taxi,Ecuador,town,2017-05-29T16:40:06Z,2017-06-28T16:40:06Z,275
+1304217,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T16:40:05Z,2017-06-28T16:40:05Z,125
+1308038,fundraising,0,Cafe,Colombia,town,2017-05-29T16:40:05Z,2017-06-28T16:40:05Z,700
+1304212,funded,400,Tailoring,Kenya,town,2017-05-29T16:40:03Z,2017-06-28T16:40:03Z,400
+1308005,fundraising,3900,Farming,Bolivia,town,2017-05-29T16:40:02Z,2017-06-28T16:40:02Z,5775
+1304201,fundraising,175,General Store,Pakistan,town,2017-05-29T16:30:08Z,2017-06-28T16:30:07Z,975
+1304207,fundraising,0,Agriculture,Cambodia,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,1625
+1307999,fundraising,125,Farming,El Salvador,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,400
+1308032,fundraising,100,Farming,El Salvador,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,350
+1308037,funded,200,Farming,El Salvador,town,2017-05-29T16:30:07Z,2017-06-28T16:30:07Z,200
+1304210,funded,200,Primary/secondary school costs,Kenya,town,2017-05-29T16:30:06Z,2017-06-28T16:30:05Z,200
+1307979,fundraising,25,Barber Shop,El Salvador,town,2017-05-29T16:30:06Z,2017-06-28T16:30:06Z,1500
+1307994,fundraising,25,Agriculture,El Salvador,town,2017-05-29T16:30:06Z,2017-06-28T16:30:06Z,500
+1304204,funded,325,Manufacturing,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,325
+1304206,funded,325,General Store,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,325
+1304208,funded,225,General Store,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,225
+1304209,funded,350,General Store,Philippines,town,2017-05-29T16:30:05Z,2017-06-28T16:30:05Z,350
+1304108,funded,150,Personal Housing Expenses,Philippines,town,2017-05-29T16:30:04Z,2017-06-28T16:30:04Z,150
+1304205,funded,1500,Personal Medical Expenses,Lebanon,town,2017-05-29T16:30:02Z,2017-06-28T16:30:02Z,1500
+1301246,funded,700,Cereals,Togo,town,2017-05-29T16:20:06Z,2017-06-28T16:20:06Z,700
+1301249,funded,250,Restaurant,Togo,town,2017-05-29T16:20:06Z,2017-06-28T16:20:06Z,250
+1304106,fundraising,0,Farming,Cambodia,town,2017-05-29T16:20:06Z,2017-06-28T16:20:06Z,1000
+1304107,funded,425,General Store,Philippines,town,2017-05-29T16:20:05Z,2017-06-28T16:20:05Z,425
+1305743,fundraising,0,Personal Housing Expenses,Mozambique,town,2017-05-29T16:20:02Z,2017-06-28T16:20:02Z,525
+1301243,funded,350,Shoe Sales,Togo,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,350
+1307982,fundraising,0,Agriculture,El Salvador,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,1000
+1307985,fundraising,100,Clothing Sales,El Salvador,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,600
+1307989,fundraising,50,Farming,El Salvador,town,2017-05-29T16:10:07Z,2017-06-28T16:10:07Z,400
+1307977,funded,500,Farming,El Salvador,town,2017-05-29T16:10:06Z,2017-06-28T16:10:06Z,500
+1307978,funded,275,Farming,El Salvador,town,2017-05-29T16:10:06Z,2017-06-28T16:10:06Z,275
+1304105,funded,425,General Store,Philippines,town,2017-05-29T16:10:05Z,2017-06-28T16:10:05Z,425
+1301240,fundraising,25,Retail,Senegal,country,2017-05-29T16:10:03Z,2017-06-28T16:10:02Z,875
+1304203,funded,625,Farming,Cambodia,town,2017-05-29T16:00:06Z,2017-06-28T16:00:06Z,625
+1304202,funded,425,Farming,Philippines,town,2017-05-29T16:00:05Z,2017-06-28T16:00:05Z,425
+1307973,funded,450,Farming,Honduras,town,2017-05-29T16:00:05Z,2017-06-28T16:00:05Z,450
+1307976,fundraising,0,Clothing Sales,El Salvador,town,2017-05-29T16:00:05Z,2017-06-28T16:00:05Z,1000
+1301231,fundraising,50,Retail,Senegal,country,2017-05-29T16:00:02Z,2017-06-28T16:00:02Z,875
+1307972,fundraising,0,Agriculture,Honduras,town,2017-05-29T15:50:03Z,2017-06-28T15:50:03Z,1375
+1307981,fundraising,25,General Store,El Salvador,town,2017-05-29T15:50:03Z,2017-06-28T15:50:03Z,1500
+1307970,funded,1500,General Store,El Salvador,town,2017-05-29T15:50:02Z,2017-06-28T15:50:02Z,1500
+1304200,fundraising,175,Farming,Cambodia,town,2017-05-29T15:40:03Z,2017-06-28T15:40:03Z,1500
+1307968,funded,500,Food Production/Sales,El Salvador,town,2017-05-29T15:40:03Z,2017-06-28T15:40:03Z,500
+1307967,fundraising,75,Agriculture,El Salvador,town,2017-05-29T15:30:04Z,2017-06-28T15:30:04Z,425
+1307965,fundraising,150,Utilities,El Salvador,town,2017-05-29T15:30:03Z,2017-06-28T15:30:03Z,1000
+1305721,fundraising,0,Personal Housing Expenses,Mozambique,town,2017-05-29T15:30:02Z,2017-06-28T15:30:02Z,525
+1304086,funded,50,Home Energy,Kenya,town,2017-05-29T15:20:06Z,2017-06-28T15:20:06Z,50
+1307961,funded,600,Bricks,El Salvador,town,2017-05-29T15:20:06Z,2017-06-28T15:20:06Z,600
+1304085,funded,175,Personal Products Sales,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,175
+1304087,funded,250,Food,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,250
+1304197,funded,425,Personal Products Sales,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,425
+1304198,funded,725,General Store,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,725
+1304199,fundraising,350,General Store,Philippines,town,2017-05-29T15:20:05Z,2017-06-28T15:20:05Z,1025
+1305311,fundraising,25,Personal Expenses,Mozambique,town,2017-05-29T15:20:02Z,2017-06-28T15:20:02Z,525
+1304194,fundraising,25,Cereals,Kenya,town,2017-05-29T15:10:07Z,2017-06-28T15:10:07Z,500
+1304081,funded,175,Personal Housing Expenses,Philippines,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,175
+1304084,funded,200,Personal Housing Expenses,Philippines,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,200
+1304189,fundraising,150,Tailoring,Pakistan,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,675
+1307959,fundraising,0,Agriculture,El Salvador,town,2017-05-29T15:10:06Z,2017-06-28T15:10:06Z,1200
+1304083,funded,225,Computers,Philippines,town,2017-05-29T15:10:04Z,2017-06-28T15:10:04Z,225
+1304082,funded,175,Fishing,Philippines,town,2017-05-29T15:10:03Z,2017-06-28T15:10:03Z,175
+1304186,funded,125,General Store,Philippines,town,2017-05-29T15:10:03Z,2017-06-28T15:10:03Z,125
+1304182,funded,100,Home Appliances,Cambodia,town,2017-05-29T15:00:05Z,2017-06-28T15:00:05Z,100
+1304195,fundraising,0,Farming,Cambodia,town,2017-05-29T15:00:05Z,2017-06-28T15:00:05Z,500
+1304183,funded,275,Pigs,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,275
+1304184,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,125
+1304185,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,125
+1304193,funded,175,Personal Housing Expenses,Philippines,town,2017-05-29T15:00:04Z,2017-06-28T15:00:04Z,175
+1304192,funded,100,Home Appliances,Cambodia,town,2017-05-29T14:50:07Z,2017-06-28T14:50:07Z,100
+1304175,funded,975,Education provider,Pakistan,town,2017-05-29T14:50:06Z,2017-06-28T14:50:06Z,975
+1304190,funded,375,General Store,Philippines,town,2017-05-29T14:50:06Z,2017-06-28T14:50:05Z,375
+1304191,funded,325,General Store,Philippines,town,2017-05-29T14:50:06Z,2017-06-28T14:50:06Z,325
+1307956,fundraising,25,Retail,Colombia,town,2017-05-29T14:50:06Z,2017-06-28T14:50:06Z,700
+1304180,funded,425,Food Production/Sales,Philippines,town,2017-05-29T14:50:05Z,2017-06-28T14:50:05Z,425
+1304187,funded,225,General Store,Philippines,town,2017-05-29T14:50:05Z,2017-06-28T14:50:05Z,225
+1304181,funded,225,General Store,Philippines,town,2017-05-29T14:50:03Z,2017-06-28T14:50:03Z,225
+1304174,funded,1175,Farm Supplies,Cambodia,town,2017-05-29T14:50:02Z,2017-06-28T14:50:02Z,1175
+1304188,funded,2000,Personal Medical Expenses,Lebanon,town,2017-05-29T14:50:02Z,2017-06-28T14:50:02Z,2000
+1304171,funded,100,Home Appliances,Cambodia,town,2017-05-29T14:40:05Z,2017-06-28T14:40:04Z,100
+1304179,funded,975,Education provider,Pakistan,town,2017-05-29T14:40:04Z,2017-06-28T14:40:04Z,975
+1304170,fundraising,0,Farming,Kenya,town,2017-05-29T14:40:03Z,2017-06-28T14:40:02Z,500
+1307954,funded,250,Food Production/Sales,Colombia,town,2017-05-29T14:40:03Z,2017-06-28T14:40:03Z,250
+1307955,fundraising,25,Cattle,El Salvador,town,2017-05-29T14:40:03Z,2017-06-28T14:40:03Z,1350
+1304172,funded,1500,Personal Medical Expenses,Lebanon,town,2017-05-29T14:40:02Z,2017-06-28T14:40:02Z,1500
+1304165,funded,225,Home Appliances,Cambodia,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,225
+1304167,funded,975,Education provider,Pakistan,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,975
+1304169,funded,975,Education provider,Pakistan,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,975
+1304177,funded,775,Education provider,Pakistan,town,2017-05-29T14:30:06Z,2017-06-28T14:30:06Z,775
+1304166,funded,150,Food Production/Sales,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,150
+1304168,funded,325,General Store,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,325
+1304176,funded,425,Farming,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,425
+1304178,funded,125,Personal Expenses,Philippines,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,125
+1307918,funded,350,Pigs,El Salvador,town,2017-05-29T14:30:05Z,2017-06-28T14:30:05Z,350
+1304163,funded,125,Food Production/Sales,Philippines,town,2017-05-29T14:30:03Z,2017-06-28T14:30:03Z,125
+1304160,funded,175,Home Appliances,Cambodia,town,2017-05-29T14:20:06Z,2017-06-28T14:20:06Z,175
+1304161,funded,200,Primary/secondary school costs,Kenya,town,2017-05-29T14:20:06Z,2017-06-28T14:20:05Z,200
+1304150,funded,225,Transportation,Philippines,town,2017-05-29T14:20:05Z,2017-06-28T14:20:05Z,225
+1304162,funded,325,General Store,Philippines,town,2017-05-29T14:20:05Z,2017-06-28T14:20:05Z,325
+1304164,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T14:20:05Z,2017-06-28T14:20:05Z,125
+1304159,funded,325,Clothing Sales,Philippines,town,2017-05-29T14:10:05Z,2017-06-28T14:10:05Z,325
+1304158,funded,125,Home Appliances,Philippines,town,2017-05-29T14:10:04Z,2017-06-28T14:10:04Z,125
+1304157,funded,750,Fruits & Vegetables,Cambodia,town,2017-05-29T14:10:02Z,2017-06-28T14:10:02Z,750
+1304156,funded,1450,Education provider,Pakistan,town,2017-05-29T14:00:06Z,2017-06-28T14:00:06Z,1450
+1307953,fundraising,425,Phone Accessories,Colombia,town,2017-05-29T14:00:06Z,2017-06-28T14:00:06Z,700
+1304152,funded,125,Personal Expenses,Philippines,town,2017-05-29T14:00:05Z,2017-06-28T14:00:05Z,125
+1304153,funded,125,Personal Expenses,Philippines,town,2017-05-29T14:00:05Z,2017-06-28T14:00:05Z,125
+1304154,funded,225,Transportation,Philippines,town,2017-05-29T14:00:05Z,2017-06-28T14:00:05Z,225
+1304144,funded,175,Farming,Philippines,town,2017-05-29T14:00:03Z,2017-06-28T14:00:03Z,175
+1304151,fundraising,175,Motorcycle Transport,Cambodia,town,2017-05-29T14:00:02Z,2017-06-28T14:00:02Z,1975
+1304155,fundraising,75,Motorcycle Transport,Cambodia,town,2017-05-29T14:00:02Z,2017-06-28T14:00:02Z,1500
+1304143,fundraising,0,General Store,Kenya,town,2017-05-29T13:50:07Z,2017-06-28T13:50:07Z,500
+1304131,funded,975,Education provider,Pakistan,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,975
+1304136,funded,575,Education provider,Pakistan,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,575
+1304140,funded,975,Education provider,Pakistan,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,975
+1304141,funded,175,Home Appliances,Cambodia,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,175
+1307952,fundraising,25,Fishing,Colombia,town,2017-05-29T13:50:06Z,2017-06-28T13:50:06Z,700
+1304145,funded,250,Primary/secondary school costs,Kenya,town,2017-05-29T13:50:05Z,2017-06-28T13:50:05Z,250
+1304149,funded,125,Personal Expenses,Philippines,town,2017-05-29T13:50:05Z,2017-06-28T13:50:05Z,125
+1307951,fundraising,50,Farming,Colombia,town,2017-05-29T13:50:05Z,2017-06-28T13:50:05Z,1050
+1304127,funded,225,General Store,Philippines,town,2017-05-29T13:50:04Z,2017-06-28T13:50:04Z,225
+1304142,funded,125,Personal Expenses,Philippines,town,2017-05-29T13:50:04Z,2017-06-28T13:50:04Z,125
+1304146,funded,625,General Store,Philippines,town,2017-05-29T13:50:04Z,2017-06-28T13:50:04Z,625
+1304126,funded,1925,Education provider,Pakistan,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,1925
+1304128,funded,125,Home Appliances,Cambodia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,125
+1304129,funded,225,Home Appliances,Cambodia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,225
+1307946,fundraising,50,Agriculture,Colombia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,425
+1307950,funded,350,Agriculture,Colombia,town,2017-05-29T13:40:06Z,2017-06-28T13:40:06Z,350
+1304124,funded,125,Personal Housing Expenses,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,125
+1304130,funded,225,Pigs,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225
+1304132,funded,125,Personal Expenses,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,125
+1304133,funded,225,Transportation,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225
+1304135,funded,225,Pigs,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225
+1304138,funded,175,Pigs,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,175
+1304139,funded,225,General Store,Philippines,town,2017-05-29T13:40:05Z,2017-06-28T13:40:05Z,225
+1304134,fundraising,75,Farming,Philippines,town,2017-05-29T13:40:03Z,2017-06-28T13:40:02Z,375
+1304137,funded,1775,Computer,Palestine,town,2017-05-29T13:40:02Z,2017-06-28T13:40:02Z,1775
+1304114,funded,225,Home Appliances,Cambodia,town,2017-05-29T13:30:07Z,2017-06-28T13:30:07Z,225
+1304116,funded,100,Used Clothing,Kenya,town,2017-05-29T13:30:07Z,2017-06-28T13:30:07Z,100
+1304115,funded,200,Primary/secondary school costs,Kenya,town,2017-05-29T13:30:06Z,2017-06-28T13:30:06Z,200
+1304121,funded,975,Education provider,Pakistan,town,2017-05-29T13:30:06Z,2017-06-28T13:30:06Z,975
+1304123,fundraising,200,Farming,Cambodia,town,2017-05-29T13:30:06Z,2017-06-28T13:30:06Z,750
+1304122,funded,375,General Store,Philippines,town,2017-05-29T13:30:05Z,2017-06-28T13:30:05Z,375
+1304113,funded,225,Pigs,Philippines,town,2017-05-29T13:30:03Z,2017-06-28T13:30:03Z,225
+1307948,fundraising,25,Food Production/Sales,El Salvador,town,2017-05-29T13:20:03Z,2017-06-28T13:20:03Z,1200
+1307947,funded,725,Retail,Peru,town,2017-05-29T13:20:02Z,2017-06-28T13:20:02Z,725
+1303900,funded,400,Blacksmith,Pakistan,town,2017-05-29T13:10:05Z,2017-06-28T13:10:05Z,400
+1304111,funded,525,Tailoring,Philippines,town,2017-05-29T13:10:05Z,2017-06-28T13:10:05Z,525
+1304112,funded,825,Farming,Philippines,town,2017-05-29T13:10:03Z,2017-06-28T13:10:03Z,825
+1304110,funded,375,Wedding Expenses,Tajikistan,town,2017-05-29T13:10:02Z,2017-06-28T13:10:02Z,375
+1304109,funded,100,Home Appliances,Cambodia,town,2017-05-29T13:00:03Z,2017-06-28T13:00:03Z,100
+1303412,funded,500,Crafts,Pakistan,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,500
+1304078,funded,225,Fish Selling,Philippines,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,225
+1304079,funded,225,Pigs,Philippines,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,225
+1304080,fundraising,0,Farming,Cambodia,town,2017-05-29T12:50:05Z,2017-06-28T12:50:05Z,625
+1304076,funded,225,Home Appliances,Cambodia,town,2017-05-29T12:40:06Z,2017-06-28T12:40:06Z,225
+1307945,funded,350,Poultry,Colombia,town,2017-05-29T12:40:06Z,2017-06-28T12:40:06Z,350
+1304071,funded,50,Personal Expenses,Philippines,town,2017-05-29T12:40:05Z,2017-06-28T12:40:05Z,50
+1304072,funded,225,Pigs,Philippines,town,2017-05-29T12:40:05Z,2017-06-28T12:40:05Z,225
+1304073,funded,300,General Store,Philippines,town,2017-05-29T12:40:03Z,2017-06-28T12:40:03Z,300
+1304074,fundraising,225,Internet Cafe,Philippines,town,2017-05-29T12:40:02Z,2017-06-28T12:40:02Z,1025
+1307943,fundraising,25,Pigs,El Salvador,town,2017-05-29T12:30:06Z,2017-06-28T12:30:06Z,1000
+1307944,fundraising,600,Restaurant,Colombia,town,2017-05-29T12:30:06Z,2017-06-28T12:30:06Z,950
+1304058,funded,250,Cattle,Philippines,town,2017-05-29T12:30:05Z,2017-06-28T12:30:05Z,250
+1304056,funded,425,Motorcycle Transport,Philippines,town,2017-05-29T12:30:03Z,2017-06-28T12:30:03Z,425
+1304059,funded,575,Personal Housing Expenses,Philippines,town,2017-05-29T12:30:03Z,2017-06-28T12:30:03Z,575
+1304103,funded,100,Home Appliances,Cambodia,town,2017-05-29T12:20:07Z,2017-06-28T12:20:07Z,100
+1304093,funded,225,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:05Z,225
+1304097,funded,250,Food,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,250
+1304098,funded,325,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,325
+1304100,funded,225,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,225
+1304102,funded,225,Fish Selling,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,225
+1304104,funded,250,Pigs,Philippines,town,2017-05-29T12:20:06Z,2017-06-28T12:20:06Z,250
+1304091,funded,300,General Store,Philippines,town,2017-05-29T12:20:03Z,2017-06-28T12:20:03Z,300
+1304101,funded,325,Pigs,Philippines,town,2017-05-29T12:20:03Z,2017-06-28T12:20:03Z,325
+1304096,funded,1500,Electronics Repair,Palestine,town,2017-05-29T12:20:02Z,2017-06-28T12:20:02Z,1500
+1304068,fundraising,375,Farming,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,750
+1304090,fundraising,200,Farming,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,1000
+1304094,funded,100,Home Appliances,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,100
+1304095,funded,125,Home Appliances,Cambodia,town,2017-05-29T12:10:06Z,2017-06-28T12:10:06Z,125
+1304070,funded,225,Fish Selling,Philippines,town,2017-05-29T12:10:05Z,2017-06-28T12:10:05Z,225
+1304092,funded,225,Weaving,Philippines,town,2017-05-29T12:10:05Z,2017-06-28T12:10:05Z,225
+1304053,funded,375,Personal Medical Expenses,Tajikistan,town,2017-05-29T12:10:03Z,2017-06-28T12:10:03Z,375
+1307920,funded,4000,Furniture Making,Peru,town,2017-05-29T12:10:02Z,2017-06-28T12:10:02Z,4000
+1304060,funded,175,Home Appliances,Cambodia,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,175
+1304069,funded,125,Home Appliances,Cambodia,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,125
+1304089,funded,225,Home Appliances,Cambodia,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,225
+1307934,funded,300,Cereals,El Salvador,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,300
+1307935,funded,1025,Motorcycle Repair,Honduras,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,1025
+1307937,funded,200,Pigs,El Salvador,town,2017-05-29T12:00:05Z,2017-06-28T12:00:05Z,200
+1304066,funded,250,Farming,Philippines,town,2017-05-29T12:00:04Z,2017-06-28T12:00:04Z,250
+1304067,funded,525,Pigs,Philippines,town,2017-05-29T12:00:04Z,2017-06-28T12:00:04Z,525
+1307933,fundraising,0,Food,Honduras,town,2017-05-29T11:50:07Z,2017-06-28T11:50:07Z,650
+1307930,funded,225,General Store,El Salvador,town,2017-05-29T11:50:06Z,2017-06-28T11:50:06Z,225
+1304057,fundraising,0,Farming,Kenya,town,2017-05-29T11:50:05Z,2017-06-28T11:50:05Z,300
+1304062,fundraising,0,Farming,Kenya,town,2017-05-29T11:50:05Z,2017-06-28T11:50:05Z,400
+1304065,funded,225,Food Production/Sales,Philippines,town,2017-05-29T11:50:05Z,2017-06-28T11:50:05Z,225
+1304064,funded,325,Personal Housing Expenses,Philippines,town,2017-05-29T11:50:02Z,2017-06-28T11:50:02Z,325
+1303945,funded,1150,General Store,Malawi,town,2017-05-29T11:40:04Z,2017-06-28T11:40:04Z,1150
+1307928,fundraising,100,Grocery Store,Honduras,town,2017-05-29T11:40:04Z,2017-06-28T11:40:04Z,1500
+1307939,fundraising,50,Farm Supplies,Honduras,town,2017-05-29T11:40:04Z,2017-06-28T11:40:04Z,875
+1304061,funded,200,Farming,Kenya,town,2017-05-29T11:40:03Z,2017-06-28T11:40:03Z,200
+1307922,funded,800,Farm Supplies,El Salvador,town,2017-05-29T11:40:03Z,2017-06-28T11:40:03Z,800
+1307926,funded,800,Restaurant,El Salvador,town,2017-05-29T11:40:03Z,2017-06-28T11:40:03Z,800
+1307925,fundraising,0,Property,Colombia,town,2017-05-29T11:40:02Z,2017-06-28T11:40:02Z,1050
+1307938,funded,875,Farming,Honduras,town,2017-05-29T11:30:06Z,2017-06-28T11:30:06Z,875
+1304052,funded,1450,Grocery Store,Jordan,town,2017-05-29T11:30:05Z,2017-06-28T11:30:05Z,1450
+1307919,fundraising,75,Food Production/Sales,El Salvador,town,2017-05-29T11:30:05Z,2017-06-28T11:30:05Z,500
+1307924,funded,500,General Store,El Salvador,town,2017-05-29T11:30:05Z,2017-06-28T11:30:05Z,500
+1304051,funded,150,Personal Housing Expenses,Philippines,town,2017-05-29T11:30:04Z,2017-06-28T11:30:04Z,150
+1304041,funded,375,Fuel/Firewood,Philippines,town,2017-05-29T11:30:02Z,2017-06-28T11:30:02Z,375
+1304045,funded,100,Home Appliances,Cambodia,town,2017-05-29T11:20:06Z,2017-06-28T11:20:06Z,100
+1304049,funded,175,Home Appliances,Cambodia,town,2017-05-29T11:20:06Z,2017-06-28T11:20:06Z,175
+1307917,fundraising,125,Personal Medical Expenses,Mexico,town,2017-05-29T11:20:06Z,2017-06-28T11:20:06Z,375
+1304046,funded,75,Home Energy,Kenya,town,2017-05-29T11:20:05Z,2017-06-28T11:20:05Z,75
+1304050,funded,225,Pigs,Philippines,town,2017-05-29T11:20:04Z,2017-06-28T11:20:04Z,225
+1307910,funded,400,Food Production/Sales,El Salvador,town,2017-05-29T11:10:06Z,2017-06-28T11:10:06Z,400
+1304040,funded,325,Food Production/Sales,Philippines,town,2017-05-29T11:10:05Z,2017-06-28T11:10:05Z,325
+1303941,funded,325,Pigs,Philippines,town,2017-05-29T11:10:04Z,2017-06-28T11:10:04Z,325
+1303927,fundraising,50,Farming,Cambodia,town,2017-05-29T11:00:06Z,2017-06-28T11:00:06Z,500
+1304029,funded,225,General Store,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,225
+1304031,funded,225,Fishing,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,225
+1304032,funded,325,Personal Housing Expenses,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,325
+1304038,funded,375,General Store,Philippines,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,375
+1307915,fundraising,0,Cafe,Colombia,town,2017-05-29T11:00:05Z,2017-06-28T11:00:05Z,400
+1304044,funded,300,Sewing,Pakistan,town,2017-05-29T10:50:07Z,2017-06-28T10:50:07Z,300
+1307914,funded,1200,Cattle,El Salvador,town,2017-05-29T10:50:07Z,2017-06-28T10:50:06Z,1200
+1304028,funded,525,Charcoal Sales,Philippines,town,2017-05-29T10:50:05Z,2017-06-28T10:50:05Z,525
+1303106,funded,1025,General Store,Philippines,town,2017-05-29T10:50:03Z,2017-06-28T10:50:03Z,1025
+1304020,funded,800,Clothing Sales,Tanzania,town,2017-05-29T10:50:02Z,2017-06-28T10:50:02Z,800
+1304025,funded,225,General Store,Philippines,town,2017-05-29T10:40:05Z,2017-06-28T10:40:05Z,225
+1304026,funded,225,Personal Products Sales,Philippines,town,2017-05-29T10:40:05Z,2017-06-28T10:40:05Z,225
+1304042,funded,375,Personal Products Sales,Philippines,town,2017-05-29T10:30:04Z,2017-06-28T10:30:04Z,375
+1303200,funded,325,Weaving,India,town,2017-05-29T10:20:03Z,2017-06-28T10:20:03Z,325
+1304039,funded,950,Sewing,Tajikistan,town,2017-05-29T10:20:02Z,2017-06-28T10:20:02Z,950
+1303102,funded,125,Manufacturing,Philippines,town,2017-05-29T10:10:04Z,2017-06-28T10:10:04Z,125
+1304023,funded,325,Motorcycle Transport,Philippines,town,2017-05-29T10:10:04Z,2017-06-28T10:10:04Z,325
+1304033,fundraising,225,General Store,Philippines,town,2017-05-29T10:10:04Z,2017-06-28T10:10:03Z,550
+1304037,funded,175,Home Appliances,Cambodia,town,2017-05-29T10:10:04Z,2017-06-28T10:10:04Z,175
+1304035,funded,500,Higher education costs,Palestine,town,2017-05-29T10:10:03Z,2017-06-28T10:10:03Z,500
+1304024,funded,2000,Photography,Palestine,town,2017-05-29T10:00:02Z,2017-06-28T10:00:02Z,2000
+1304030,funded,3000,Home Energy,Palestine,town,2017-05-29T10:00:02Z,2017-06-28T10:00:02Z,3000
+1303185,fundraising,0,Farming,Kenya,town,2017-05-29T09:50:03Z,2017-06-28T09:50:03Z,650
+1304021,funded,250,General Store,Philippines,town,2017-05-29T09:50:03Z,2017-06-28T09:50:03Z,250
+1304022,funded,50,Home Energy,Kenya,town,2017-05-29T09:50:03Z,2017-06-28T09:50:03Z,50
+1304013,funded,425,Fish Selling,Philippines,town,2017-05-29T09:40:05Z,2017-06-28T09:40:05Z,425
+1304018,funded,225,Weaving,Philippines,town,2017-05-29T09:40:05Z,2017-06-28T09:40:05Z,225
+1304019,funded,225,General Store,Philippines,town,2017-05-29T09:40:05Z,2017-06-28T09:40:05Z,225
+1303980,fundraising,75,Cereals,Kenya,town,2017-05-29T09:30:05Z,2017-06-28T09:30:05Z,600
+1304015,funded,250,Pigs,Philippines,town,2017-05-29T09:30:05Z,2017-06-28T09:30:04Z,250
+1304016,funded,275,Pigs,Philippines,town,2017-05-29T09:30:05Z,2017-06-28T09:30:05Z,275
+1306975,funded,675,Personal Medical Expenses,Mexico,town,2017-05-29T09:30:05Z,2017-06-28T09:30:05Z,675
+1304017,funded,300,Pigs,Philippines,town,2017-05-29T09:30:03Z,2017-06-28T09:30:02Z,300
+1303979,fundraising,0,Cereals,Kenya,town,2017-05-29T09:20:05Z,2017-06-28T09:20:05Z,400
+1304012,funded,425,Flowers,Philippines,town,2017-05-29T09:20:04Z,2017-06-28T09:20:04Z,425
+1304014,funded,375,Services,Philippines,town,2017-05-29T09:20:04Z,2017-06-28T09:20:04Z,375
+1304011,funded,150,Home Appliances,Kenya,town,2017-05-29T09:00:03Z,2017-06-28T09:00:03Z,150
+1303898,fundraising,0,Farming,Cambodia,town,2017-05-29T08:50:03Z,2017-06-28T08:50:03Z,1000
+1299846,funded,250,Musical Performance,Tajikistan,town,2017-05-29T08:40:05Z,2017-06-28T08:40:05Z,250
+1304010,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T08:40:05Z,2017-06-28T08:40:05Z,225
+1303897,funded,2225,Pigs,Vietnam,town,2017-05-29T08:30:03Z,2017-06-28T08:30:03Z,2225
+1299839,funded,300,Agriculture,Tajikistan,town,2017-05-29T08:30:02Z,2017-06-28T08:30:02Z,300
+1304009,funded,250,Pigs,Philippines,town,2017-05-29T08:20:04Z,2017-06-28T08:20:04Z,250
+1299815,funded,825,Personal Medical Expenses,Tajikistan,town,2017-05-29T08:00:03Z,2017-06-28T08:00:03Z,825
+1299820,funded,600,Sewing,Tajikistan,town,2017-05-29T08:00:02Z,2017-06-28T08:00:02Z,600
+1304004,funded,575,Rickshaw,Pakistan,town,2017-05-29T07:50:08Z,2017-06-28T07:50:08Z,575
+1304007,fundraising,200,General Store,Pakistan,town,2017-05-29T07:50:08Z,2017-06-28T07:50:08Z,575
+1299814,fundraising,0,Auto Repair,Tajikistan,town,2017-05-29T07:50:07Z,2017-06-28T07:50:07Z,300
+1304003,fundraising,0,Farming,Cambodia,town,2017-05-29T07:50:07Z,2017-06-28T07:50:07Z,1000
+1307892,fundraising,25,Farming,El Salvador,town,2017-05-29T07:50:07Z,2017-06-28T07:50:07Z,1500
+1304000,funded,425,Food Production/Sales,Philippines,town,2017-05-29T07:50:06Z,2017-06-28T07:50:05Z,425
+1304005,funded,325,Cattle,Philippines,town,2017-05-29T07:50:06Z,2017-06-28T07:50:06Z,325
+1304008,funded,175,Transportation,Philippines,town,2017-05-29T07:50:03Z,2017-06-28T07:50:03Z,175
+1304001,fundraising,100,Motorcycle Transport,Cambodia,town,2017-05-29T07:50:02Z,2017-06-28T07:50:02Z,500
+1304006,funded,375,Personal Medical Expenses,Tajikistan,town,2017-05-29T07:50:02Z,2017-06-28T07:50:02Z,375
+1303993,funded,325,Pigs,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:19Z,325
+1303994,funded,425,General Store,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:20Z,425
+1303997,funded,250,Personal Expenses,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:20Z,250
+1303999,funded,400,Fruits & Vegetables,Philippines,town,2017-05-29T07:30:20Z,2017-06-28T07:30:20Z,400
+1303995,funded,250,Pigs,Philippines,town,2017-05-29T07:30:07Z,2017-06-28T07:30:07Z,250
+1307886,funded,525,Food Production/Sales,Nicaragua,town,2017-05-29T07:30:05Z,2017-06-28T07:30:05Z,525
+1301235,funded,175,Food Production/Sales,Togo,town,2017-05-29T07:20:27Z,2017-06-28T07:20:27Z,175
+1301239,funded,225,Beauty Salon,Togo,town,2017-05-29T07:20:27Z,2017-06-28T07:20:27Z,225
+1299798,fundraising,0,Animal Sales,Tajikistan,town,2017-05-29T07:20:26Z,2017-06-28T07:20:26Z,550
+1299806,fundraising,275,Livestock,Tajikistan,town,2017-05-29T07:20:26Z,2017-06-28T07:20:26Z,475
+1303988,funded,200,Retail,Pakistan,town,2017-05-29T07:20:26Z,2017-06-28T07:20:26Z,200
+1301232,funded,450,Food Production/Sales,Burkina Faso,town,2017-05-29T07:20:25Z,2017-06-28T07:20:25Z,450
+1303989,funded,225,Cattle,Philippines,town,2017-05-29T07:20:22Z,2017-06-28T07:20:21Z,225
+1303990,funded,425,Food Production/Sales,Philippines,town,2017-05-29T07:20:22Z,2017-06-28T07:20:22Z,425
+1303991,funded,225,Personal Expenses,Philippines,town,2017-05-29T07:20:22Z,2017-06-28T07:20:22Z,225
+1303956,funded,975,Grocery Store,Tanzania,town,2017-05-29T07:20:03Z,2017-06-28T07:20:03Z,975
+1303987,funded,425,Fruits & Vegetables,Philippines,town,2017-05-29T07:00:20Z,2017-06-28T07:00:20Z,425
+1303986,funded,325,Pigs,Philippines,town,2017-05-29T07:00:19Z,2017-06-28T07:00:19Z,325
+1303984,funded,325,Grocery Store,India,town,2017-05-29T06:50:08Z,2017-06-28T06:50:07Z,325
+1303983,funded,225,Pigs,Philippines,town,2017-05-29T06:50:07Z,2017-06-28T06:50:07Z,225
+1303985,funded,475,General Store,Philippines,town,2017-05-29T06:50:03Z,2017-06-28T06:50:03Z,475
+1303977,fundraising,125,Farming,Kenya,town,2017-05-29T06:40:06Z,2017-06-28T06:40:06Z,600
+1303975,funded,400,Farming,Kenya,town,2017-05-29T06:40:05Z,2017-06-28T06:40:05Z,400
+1303976,funded,600,Pigs,Philippines,town,2017-05-29T06:40:05Z,2017-06-28T06:40:05Z,600
+1303913,funded,125,Home Appliances,Cambodia,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,125
+1303915,funded,500,Home Appliances,Cambodia,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,500
+1303974,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,225
+1303981,funded,125,Personal Expenses,Philippines,town,2017-05-29T06:30:05Z,2017-06-28T06:30:05Z,125
+1303912,funded,2475,Pigs,Vietnam,town,2017-05-29T06:20:04Z,2017-06-28T06:20:04Z,2475
+1303906,funded,325,Pigs,Philippines,town,2017-05-29T06:20:03Z,2017-06-28T06:20:03Z,325
+1303909,fundraising,150,Farming,Cambodia,town,2017-05-29T06:10:02Z,2017-06-28T06:10:02Z,3475
+1303911,fundraising,175,Farming,Cambodia,town,2017-05-29T06:10:02Z,2017-06-28T06:10:02Z,1250
+1303904,fundraising,0,Farming,Cambodia,town,2017-05-29T06:00:03Z,2017-06-28T06:00:02Z,1000
+1303907,fundraising,0,Farming,Cambodia,town,2017-05-29T06:00:03Z,2017-06-28T06:00:03Z,1000
+1301195,funded,200,Agriculture,Cameroon,country,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,200
+1301223,funded,175,Food,Togo,town,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,175
+1303903,funded,1500,Pigs,Vietnam,town,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,1500
+1303905,fundraising,325,Personal Housing Expenses,Vietnam,town,2017-05-29T05:40:03Z,2017-06-28T05:40:03Z,2650
+1301222,fundraising,75,Retail,Senegal,country,2017-05-29T05:40:02Z,2017-06-28T05:40:02Z,875
+1301202,funded,350,Clothing Sales,Togo,town,2017-05-29T05:30:03Z,2017-06-28T05:30:03Z,350
+1303901,funded,2425,Farming,Vietnam,town,2017-05-29T05:30:03Z,2017-06-28T05:30:03Z,2425
+1301206,funded,200,Farming,Cameroon,country,2017-05-29T05:30:02Z,2017-06-28T05:30:02Z,200
+1303902,funded,1050,Farming,Cambodia,town,2017-05-29T05:30:02Z,2017-06-28T05:30:02Z,1050
+1301181,funded,250,Agriculture,Madagascar,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,250
+1301191,funded,175,Pigs,Madagascar,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,175
+1301203,funded,475,Retail,Togo,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,475
+1303899,funded,2175,Pigs,Vietnam,town,2017-05-29T05:20:03Z,2017-06-28T05:20:03Z,2175
+1303896,fundraising,200,Farming,Cambodia,town,2017-05-29T05:10:05Z,2017-06-28T05:10:05Z,500
+1303978,funded,325,Pigs,Philippines,town,2017-05-29T05:10:05Z,2017-06-28T05:10:05Z,325
+1303973,funded,200,Farming,Kenya,town,2017-05-29T04:50:05Z,2017-06-28T04:50:05Z,200
+1303971,funded,200,Food Production/Sales,Philippines,town,2017-05-29T04:50:04Z,2017-06-28T04:50:04Z,200
+1303972,funded,250,Flowers,Philippines,town,2017-05-29T04:50:04Z,2017-06-28T04:50:04Z,250
+1303970,funded,325,Pigs,Philippines,town,2017-05-29T04:40:05Z,2017-06-28T04:40:05Z,325
+1303969,funded,375,Pigs,Philippines,town,2017-05-29T04:40:03Z,2017-06-28T04:40:02Z,375
+1303961,funded,400,Food Production/Sales,Philippines,town,2017-05-29T04:30:05Z,2017-06-28T04:30:05Z,400
+1303963,funded,225,General Store,Philippines,town,2017-05-29T04:30:05Z,2017-06-28T04:30:05Z,225
+1303968,funded,325,General Store,Philippines,town,2017-05-29T04:30:05Z,2017-06-28T04:30:05Z,325
+1303966,funded,225,Grocery Store,Philippines,town,2017-05-29T04:30:03Z,2017-06-28T04:30:03Z,225
+1303967,funded,250,Bakery,Tajikistan,town,2017-05-29T04:30:02Z,2017-06-28T04:30:02Z,250
+1303958,funded,225,Food,Philippines,town,2017-05-29T04:20:06Z,2017-06-28T04:20:05Z,225
+1303959,fundraising,25,Farming,Kenya,town,2017-05-29T04:20:06Z,2017-06-28T04:20:06Z,400
+1303960,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T04:20:06Z,2017-06-28T04:20:06Z,225
+1303965,funded,200,Farming,Kenya,town,2017-05-29T04:20:06Z,2017-06-28T04:20:06Z,200
+1303964,funded,200,Barber Shop,Philippines,town,2017-05-29T04:20:03Z,2017-06-28T04:20:03Z,200
+1303953,funded,325,Fruits & Vegetables,Philippines,town,2017-05-29T04:10:04Z,2017-06-28T04:10:04Z,325
+1303951,funded,300,Embroidery,Pakistan,town,2017-05-29T04:00:02Z,2017-06-28T04:00:02Z,300
+1303952,funded,400,Embroidery,Pakistan,town,2017-05-29T04:00:02Z,2017-06-28T04:00:02Z,400
+1303949,funded,375,Pigs,Philippines,town,2017-05-29T03:50:05Z,2017-06-28T03:50:05Z,375
+1303955,funded,550,General Store,Philippines,town,2017-05-29T03:50:05Z,2017-06-28T03:50:05Z,550
+1303957,funded,225,Personal Housing Expenses,Philippines,town,2017-05-29T03:50:05Z,2017-06-28T03:50:05Z,225
+1303947,funded,225,General Store,Philippines,town,2017-05-29T03:40:04Z,2017-06-28T03:40:04Z,225
+1303946,fundraising,0,Farming,Kenya,town,2017-05-29T03:30:03Z,2017-06-28T03:30:03Z,350
+1307873,fundraising,400,Florist,El Salvador,town,2017-05-29T03:20:02Z,2017-06-28T03:20:02Z,1500
+1307883,fundraising,225,Bakery,El Salvador,town,2017-05-29T03:20:02Z,2017-06-28T03:20:02Z,1000
+1303932,funded,175,Home Appliances,Cambodia,town,2017-05-29T03:10:06Z,2017-06-28T03:10:06Z,175
+1299796,fundraising,100,Food Production/Sales,Tajikistan,town,2017-05-29T03:10:05Z,2017-06-28T03:10:05Z,600
+1303944,funded,275,Fish Selling,Philippines,town,2017-05-29T03:10:04Z,2017-06-28T03:10:04Z,275
+1303875,funded,225,Farming,Philippines,town,2017-05-29T03:00:05Z,2017-06-28T03:00:04Z,225
+1303934,fundraising,0,Farming,Cambodia,town,2017-05-29T03:00:05Z,2017-06-28T03:00:05Z,1000
+1303936,fundraising,100,General Store,Pakistan,town,2017-05-29T03:00:05Z,2017-06-28T03:00:05Z,575
+1302946,funded,775,Personal Housing Expenses,Indonesia,town,2017-05-29T02:50:03Z,2017-06-28T02:50:03Z,775
+1303925,funded,125,Home Appliances,Cambodia,town,2017-05-29T02:50:03Z,2017-06-28T02:50:03Z,125
+1303931,funded,250,Fruits & Vegetables,Philippines,town,2017-05-29T02:50:03Z,2017-06-28T02:50:03Z,250
+1303933,fundraising,25,Cattle,Tajikistan,town,2017-05-29T02:50:02Z,2017-06-28T02:50:02Z,1200
+1303919,funded,375,Personal Products Sales,Philippines,town,2017-05-29T02:40:06Z,2017-06-28T02:40:06Z,375
+1303928,funded,125,Home Appliances,Cambodia,town,2017-05-29T02:40:06Z,2017-06-28T02:40:06Z,125
+1303644,fundraising,775,Fuel/Firewood,Uganda,town,2017-05-29T02:40:05Z,2017-06-28T02:40:05Z,2025
+1303869,funded,175,Pigs,Philippines,town,2017-05-29T02:40:05Z,2017-06-28T02:40:05Z,175
+1303929,funded,425,Manufacturing,Philippines,town,2017-05-29T02:40:05Z,2017-06-28T02:40:05Z,425
+1303922,fundraising,25,Sewing,Tajikistan,town,2017-05-29T02:40:02Z,2017-06-28T02:40:02Z,725
+1303921,funded,125,Home Appliances,Cambodia,town,2017-05-29T02:30:04Z,2017-06-28T02:30:04Z,125
+1303655,fundraising,25,Personal Housing Expenses,Uganda,town,2017-05-29T02:30:03Z,2017-06-28T02:30:03Z,850
+1303917,fundraising,25,Tailoring,Pakistan,town,2017-05-29T02:30:03Z,2017-06-28T02:30:03Z,775
+1303920,fundraising,0,Cattle,Cambodia,town,2017-05-29T02:30:03Z,2017-06-28T02:30:03Z,625
+1303924,funded,100,Farming,Kenya,town,2017-05-29T02:30:02Z,2017-06-28T02:30:02Z,100
+1303918,funded,225,Home Appliances,Cambodia,town,2017-05-29T02:20:04Z,2017-06-28T02:20:04Z,225
+1302937,fundraising,75,Farming,Cambodia,town,2017-05-29T02:20:03Z,2017-06-28T02:20:03Z,1000
+1303916,fundraising,0,General Store,Cambodia,town,2017-05-29T02:20:02Z,2017-06-28T02:20:02Z,1500
+1301189,fundraising,450,Clothing Sales,Madagascar,town,2017-05-29T02:10:03Z,2017-06-28T02:10:03Z,950
+1303908,funded,2650,Personal Housing Expenses,Vietnam,town,2017-05-29T02:10:03Z,2017-06-28T02:10:03Z,2650
+1303895,funded,2225,Primary/secondary school costs,Vietnam,town,2017-05-29T02:00:02Z,2017-06-28T02:00:02Z,2225
+1306191,funded,2100,Bakery,Paraguay,town,2017-05-29T02:00:02Z,2017-06-28T02:00:02Z,2100
+1303893,funded,2000,Primary/secondary school costs,Vietnam,town,2017-05-29T01:50:02Z,2017-06-28T01:50:02Z,2000
+1307224,funded,6400,Cosmetics Sales,Paraguay,town,2017-05-29T01:50:02Z,2017-06-28T01:50:02Z,6400
+1301184,fundraising,250,Livestock,Mali,town,2017-05-29T01:40:03Z,2017-06-28T01:40:03Z,5550
+1303888,fundraising,600,Personal Housing Expenses,Vietnam,town,2017-05-29T01:40:03Z,2017-06-28T01:40:03Z,2975
+1303894,fundraising,225,Farming,Cambodia,town,2017-05-29T01:40:02Z,2017-06-28T01:40:02Z,500
+1303890,funded,2000,Personal Housing Expenses,Vietnam,town,2017-05-29T01:30:04Z,2017-06-28T01:30:04Z,2000
+1303891,fundraising,200,Personal Housing Expenses,Cambodia,town,2017-05-29T01:30:03Z,2017-06-28T01:30:03Z,1000
+1303885,funded,300,Restaurant,Pakistan,town,2017-05-29T01:20:04Z,2017-06-28T01:20:04Z,300
+1303887,funded,1200,Farming,Vietnam,town,2017-05-29T01:20:04Z,2017-06-28T01:20:04Z,1200
+1303889,funded,1775,Pigs,Vietnam,town,2017-05-29T01:20:04Z,2017-06-28T01:20:04Z,1775
+1303886,fundraising,150,Farming,Cambodia,town,2017-05-29T01:20:03Z,2017-06-28T01:20:03Z,1000
+1303881,funded,1775,Farming,Vietnam,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,1775
+1303883,funded,1050,Farming,Cambodia,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,1050
+1303884,funded,2000,Higher education costs,Vietnam,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,2000
+1307854,funded,775,Personal Expenses,Peru,town,2017-05-29T01:10:07Z,2017-06-28T01:10:07Z,775
+1307861,fundraising,375,Fruits & Vegetables,El Salvador,town,2017-05-29T01:10:06Z,2017-06-28T01:10:06Z,500
+1303882,funded,250,Fishing,Philippines,town,2017-05-29T01:10:05Z,2017-06-28T01:10:05Z,250
+1303878,funded,500,Pigs,Cambodia,town,2017-05-29T01:00:07Z,2017-06-28T01:00:07Z,500
+1303880,funded,600,Farming,Cambodia,town,2017-05-29T01:00:07Z,2017-06-28T01:00:07Z,600
+1303879,funded,400,Pigs,Philippines,town,2017-05-29T01:00:06Z,2017-06-28T01:00:06Z,400
+1307204,funded,300,Higher education costs,Paraguay,town,2017-05-29T01:00:03Z,2017-06-28T01:00:03Z,300
+1305686,fundraising,75,General Store,Mozambique,town,2017-05-29T01:00:02Z,2017-06-28T01:00:02Z,2025
+1307849,fundraising,175,Farming,El Salvador,town,2017-05-29T00:50:06Z,2017-06-28T00:50:06Z,300
+1303877,funded,175,Fuel/Firewood,Philippines,town,2017-05-29T00:50:05Z,2017-06-28T00:50:05Z,175
+1305618,funded,250,General Store,Mozambique,town,2017-05-29T00:50:02Z,2017-06-28T00:50:02Z,250
+1307218,funded,200,Higher education costs,Paraguay,town,2017-05-29T00:50:02Z,2017-06-28T00:50:02Z,200
+1307219,funded,200,Agriculture,El Salvador,town,2017-05-29T00:40:03Z,2017-06-28T00:40:03Z,200
+1307838,fundraising,50,Agriculture,El Salvador,town,2017-05-29T00:40:03Z,2017-06-28T00:40:03Z,700
+1307840,fundraising,325,General Store,El Salvador,town,2017-05-29T00:40:03Z,2017-06-28T00:40:03Z,1500
+1307216,funded,200,Higher education costs,Paraguay,town,2017-05-29T00:40:02Z,2017-06-28T00:40:02Z,200
+1301168,fundraising,150,Animal Sales,Mali,town,2017-05-29T00:30:04Z,2017-06-28T00:30:04Z,5450
+1301177,fundraising,0,Agriculture,Cameroon,country,2017-05-29T00:30:04Z,2017-06-28T00:30:04Z,300
+1307180,funded,300,Agriculture,El Salvador,town,2017-05-29T00:30:04Z,2017-06-28T00:30:04Z,300
+1307199,funded,300,Higher education costs,Paraguay,town,2017-05-29T00:30:03Z,2017-06-28T00:30:03Z,300
+1307793,funded,450,Food Stall,Bolivia,town,2017-05-29T00:30:02Z,2017-06-28T00:30:02Z,450
+1307236,funded,5850,Clothing,Paraguay,town,2017-05-29T00:20:02Z,2017-06-28T00:20:02Z,5850
+1303876,funded,875,Farming,Cambodia,town,2017-05-29T00:10:04Z,2017-06-28T00:10:04Z,875
+1306907,funded,450,General Store,Honduras,town,2017-05-29T00:10:04Z,2017-06-28T00:10:04Z,450
+1307220,funded,1850,Higher education costs,Paraguay,town,2017-05-29T00:10:03Z,2017-06-28T00:10:03Z,1850
+1307232,funded,5875,Perfumes,Paraguay,town,2017-05-29T00:10:03Z,2017-06-28T00:10:03Z,5875
+1302776,funded,1000,Farming,Cambodia,town,2017-05-29T00:10:02Z,2017-06-28T00:10:02Z,1000
+1303873,funded,500,Cattle,Cambodia,town,2017-05-29T00:00:06Z,2017-06-28T00:00:05Z,500
+1303872,funded,225,Cereals,Philippines,town,2017-05-29T00:00:05Z,2017-06-28T00:00:05Z,225
+1307213,funded,300,Higher education costs,Paraguay,town,2017-05-29T00:00:03Z,2017-06-28T00:00:03Z,300
+1307210,funded,200,Higher education costs,Paraguay,town,2017-05-29T00:00:02Z,2017-06-28T00:00:02Z,200
+1303870,fundraising,0,Farming,Cambodia,town,2017-05-28T23:50:06Z,2017-06-27T23:50:06Z,625
+1303871,funded,275,General Store,Philippines,town,2017-05-28T23:50:05Z,2017-06-27T23:50:05Z,275
+1302778,funded,125,General Store,Philippines,town,2017-05-28T23:50:03Z,2017-06-27T23:50:03Z,125
+1301172,fundraising,25,Fruits & Vegetables,Senegal,country,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,875
+1307192,funded,1000,Dairy,Paraguay,town,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,1000
+1307196,fundraising,50,General Store,Paraguay,town,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,825
+1307208,funded,200,Higher education costs,Paraguay,town,2017-05-28T23:50:02Z,2017-06-27T23:50:02Z,200
+1303654,funded,475,Higher education costs,Uganda,town,2017-05-28T23:40:03Z,2017-06-27T23:40:03Z,475
+1307181,fundraising,525,Services,Paraguay,town,2017-05-28T23:40:03Z,2017-06-27T23:40:02Z,1000
+1303867,funded,175,Pigs,Philippines,town,2017-05-28T23:30:06Z,2017-06-27T23:30:06Z,175
+1303868,funded,125,Home Appliances,Cambodia,town,2017-05-28T23:30:06Z,2017-06-27T23:30:06Z,125
+1306076,funded,500,Personal Medical Expenses,Mexico,town,2017-05-28T23:30:06Z,2017-06-27T23:30:06Z,500
+1307178,fundraising,175,Bakery,Paraguay,town,2017-05-28T23:30:03Z,2017-06-27T23:30:03Z,825
+1307172,funded,1000,Food Stall,Paraguay,town,2017-05-28T23:30:02Z,2017-06-27T23:30:02Z,1000
+1301173,funded,275,Fruits & Vegetables,Cameroon,country,2017-05-28T23:20:03Z,2017-06-27T23:20:03Z,275
+1307151,funded,600,Poultry,Ecuador,town,2017-05-28T23:20:03Z,2017-06-27T23:20:03Z,600
+1303864,funded,875,Livestock,Cambodia,town,2017-05-28T23:10:06Z,2017-06-27T23:10:06Z,875
+1303863,funded,150,General Store,Philippines,town,2017-05-28T23:10:05Z,2017-06-27T23:10:05Z,150
+1303865,funded,200,Fish Selling,Philippines,town,2017-05-28T23:10:05Z,2017-06-27T23:10:05Z,200
+1302765,funded,525,General Store,Philippines,town,2017-05-28T23:10:02Z,2017-06-27T23:10:02Z,525
+1303821,funded,225,Home Appliances,Cambodia,town,2017-05-28T23:00:09Z,2017-06-27T23:00:08Z,225
+1303784,funded,225,Home Appliances,Cambodia,town,2017-05-28T23:00:08Z,2017-06-27T23:00:08Z,225
+1303853,fundraising,175,Farming,Cambodia,town,2017-05-28T23:00:08Z,2017-06-27T23:00:08Z,1350
+1303846,funded,250,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:06Z,250
+1303848,funded,325,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,325
+1303850,funded,625,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,625
+1303852,funded,150,Farming,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,150
+1303860,funded,150,Farming,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,150
+1303862,funded,175,Pigs,Philippines,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,175
+1307149,fundraising,150,Pigs,Ecuador,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,800
+1307150,funded,800,Farming,Ecuador,town,2017-05-28T23:00:07Z,2017-06-27T23:00:07Z,800
+1303820,funded,175,Fishing,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,175
+1303823,funded,125,General Store,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,125
+1303824,funded,325,General Store,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,325
+1303826,funded,325,Fruits & Vegetables,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,325
+1303827,funded,275,Food Production/Sales,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,275
+1303829,funded,75,Personal Housing Expenses,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,75
+1303830,funded,225,General Store,Philippines,town,2017-05-28T23:00:06Z,2017-06-27T23:00:06Z,225
+1303851,fundraising,125,General Store,Philippines,town,2017-05-28T23:00:03Z,2017-06-27T23:00:03Z,325
+1303861,funded,525,General Store,Philippines,town,2017-05-28T23:00:03Z,2017-06-27T23:00:03Z,525
+1303808,funded,125,Home Appliances,Cambodia,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,125
+1303814,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,175
+1303815,funded,175,General Store,Philippines,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,175
+1303816,funded,225,Home Appliances,Cambodia,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,225
+1303840,funded,175,General Store,Philippines,town,2017-05-28T22:50:07Z,2017-06-27T22:50:07Z,175
+1303838,funded,200,Pigs,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:05Z,200
+1303839,funded,325,Personal Products Sales,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,325
+1303841,funded,225,Tailoring,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,225
+1303842,funded,275,Fishing,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,275
+1303843,funded,225,Food Production/Sales,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,225
+1303844,funded,225,Clothing Sales,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,225
+1303845,funded,250,Fish Selling,Philippines,town,2017-05-28T22:50:06Z,2017-06-27T22:50:06Z,250
+1303783,funded,225,Beauty Salon,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,225
+1303817,funded,225,Fishing,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,225
+1303835,funded,425,Fishing,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,425
+1303837,funded,250,Fishing,Philippines,town,2017-05-28T22:50:05Z,2017-06-27T22:50:05Z,250
+1303781,fundraising,50,General Store,Philippines,town,2017-05-28T22:50:03Z,2017-06-27T22:50:02Z,525
+1303818,funded,225,Recycling,Philippines,town,2017-05-28T22:50:03Z,2017-06-27T22:50:03Z,225
+1303759,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:40:06Z,2017-06-27T22:40:06Z,175
+1303833,funded,125,Poultry,Philippines,town,2017-05-28T22:40:06Z,2017-06-27T22:40:06Z,125
+1303834,funded,200,Fishing,Philippines,town,2017-05-28T22:40:06Z,2017-06-27T22:40:06Z,200
+1303757,funded,250,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:04Z,250
+1303758,funded,175,Pigs,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,175
+1303760,funded,250,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,250
+1303806,funded,225,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,225
+1303807,funded,250,Pigs,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,250
+1303809,funded,150,Beauty Salon,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,150
+1303813,funded,425,Fruits & Vegetables,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,425
+1303828,funded,225,Farming,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,225
+1303832,funded,150,General Store,Philippines,town,2017-05-28T22:40:05Z,2017-06-27T22:40:05Z,150
+1303756,funded,325,Food Production/Sales,Philippines,town,2017-05-28T22:40:04Z,2017-06-27T22:40:04Z,325
+1299792,fundraising,0,Livestock,Tajikistan,town,2017-05-28T22:30:05Z,2017-06-27T22:30:05Z,1200
+1303517,funded,200,Farming,Kenya,town,2017-05-28T22:30:05Z,2017-06-27T22:30:05Z,200
+1303805,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:30:05Z,2017-06-27T22:30:05Z,175
+1303810,funded,225,General Store,Philippines,town,2017-05-28T22:30:04Z,2017-06-27T22:30:04Z,225
+1303804,funded,825,Transportation,Philippines,town,2017-05-28T22:30:02Z,2017-06-27T22:30:02Z,825
+1303802,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:20:06Z,2017-06-27T22:20:06Z,175
+1307146,funded,1000,Pigs,Ecuador,town,2017-05-28T22:20:06Z,2017-06-27T22:20:05Z,1000
+1303803,funded,225,Fishing,Philippines,town,2017-05-28T22:20:05Z,2017-06-27T22:20:05Z,225
+1307094,funded,250,Home Products Sales,Colombia,town,2017-05-28T22:20:05Z,2017-06-27T22:20:05Z,250
+1303515,fundraising,0,Cattle,Armenia,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,2075
+1303800,funded,225,General Store,Philippines,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,225
+1307139,funded,350,Blacksmith,Colombia,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,350
+1307148,fundraising,500,General Store,Nicaragua,town,2017-05-28T22:10:06Z,2017-06-27T22:10:06Z,1025
+1303801,fundraising,25,Land Rental,Cambodia,town,2017-05-28T22:10:03Z,2017-06-27T22:10:03Z,1000
+1307145,funded,2550,Clothing Sales,Peru,town,2017-05-28T22:10:02Z,2017-06-27T22:10:02Z,2550
+1303512,fundraising,100,Electrical Goods,Egypt,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,575
+1303514,fundraising,475,Mobile Transactions,Zambia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,650
+1303793,funded,225,Home Appliances,Cambodia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,225
+1303794,funded,175,Home Appliances,Cambodia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,175
+1303797,funded,125,Home Appliances,Cambodia,town,2017-05-28T22:00:06Z,2017-06-27T22:00:06Z,125
+1303511,funded,100,Cereals,Kenya,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,100
+1303796,funded,325,General Store,Philippines,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,325
+1303799,funded,200,Fishing,Philippines,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,200
+1307144,funded,500,Farming,Ecuador,town,2017-05-28T22:00:05Z,2017-06-27T22:00:05Z,500
+1303795,funded,225,General Store,Philippines,town,2017-05-28T22:00:04Z,2017-06-27T22:00:04Z,225
+1303789,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:50:06Z,2017-06-27T21:50:05Z,175
+1307141,fundraising,175,Beauty Salon,Colombia,town,2017-05-28T21:50:06Z,2017-06-27T21:50:06Z,700
+1303510,funded,600,Food Market,Liberia,town,2017-05-28T21:50:05Z,2017-06-27T21:50:05Z,600
+1303791,funded,275,Pigs,Philippines,town,2017-05-28T21:50:05Z,2017-06-27T21:50:05Z,275
+1303792,funded,225,Pigs,Philippines,town,2017-05-28T21:50:05Z,2017-06-27T21:50:05Z,225
+1301171,funded,500,Used Clothing,Madagascar,town,2017-05-28T21:40:05Z,2017-06-27T21:40:05Z,500
+1303786,funded,125,Pigs,Philippines,town,2017-05-28T21:40:04Z,2017-06-27T21:40:04Z,125
+1303787,funded,250,General Store,Philippines,town,2017-05-28T21:40:04Z,2017-06-27T21:40:04Z,250
+1307142,funded,350,Farming,Honduras,town,2017-05-28T21:40:04Z,2017-06-27T21:40:04Z,350
+1301165,funded,200,Livestock,Madagascar,town,2017-05-28T21:30:06Z,2017-06-27T21:30:06Z,200
+1303774,funded,225,Pigs,Philippines,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,225
+1303777,funded,175,Tailoring,Philippines,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,175
+1303779,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,125
+1303782,funded,275,General Store,Philippines,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,275
+1303785,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:30:05Z,2017-06-27T21:30:05Z,125
+1303770,funded,225,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,225
+1303771,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,175
+1303772,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,175
+1303775,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:20:06Z,2017-06-27T21:20:06Z,125
+1303767,funded,125,Home Appliances,Cambodia,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,125
+1303769,funded,200,General Store,Philippines,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,200
+1303773,funded,125,Pigs,Philippines,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,125
+1303778,funded,300,Personal Expenses,Philippines,town,2017-05-28T21:20:05Z,2017-06-27T21:20:05Z,300
+1303765,funded,125,Retail,Philippines,town,2017-05-28T21:20:03Z,2017-06-27T21:20:03Z,125
+1303762,funded,175,Home Appliances,Cambodia,town,2017-05-28T21:10:06Z,2017-06-27T21:10:06Z,175
+1303763,funded,225,Home Appliances,Cambodia,town,2017-05-28T21:10:06Z,2017-06-27T21:10:06Z,225
+1303766,funded,225,Home Appliances,Cambodia,town,2017-05-28T21:10:06Z,2017-06-27T21:10:06Z,225
+1303754,funded,125,Pigs,Philippines,town,2017-05-28T21:10:05Z,2017-06-27T21:10:05Z,125
+1303764,funded,325,General Store,Philippines,town,2017-05-28T21:10:05Z,2017-06-27T21:10:05Z,325
+1307138,funded,1075,Retail,Peru,town,2017-05-28T21:10:02Z,2017-06-27T21:10:02Z,1075
+1303761,funded,425,Bakery,Philippines,town,2017-05-28T21:00:04Z,2017-06-27T21:00:04Z,425
+1303755,funded,200,Fishing,Philippines,town,2017-05-28T20:50:05Z,2017-06-27T20:50:05Z,200
+1303180,funded,525,General Store,Philippines,town,2017-05-28T20:50:03Z,2017-06-27T20:50:03Z,525
+1303751,fundraising,675,Retail,Vietnam,town,2017-05-28T20:50:03Z,2017-06-27T20:50:02Z,1325
+1303752,funded,125,Food Production/Sales,Philippines,town,2017-05-28T20:40:07Z,2017-06-27T20:40:06Z,125
+1303745,funded,275,Jewelry,Philippines,town,2017-05-28T20:40:06Z,2017-06-27T20:40:06Z,275
+1303747,funded,225,Pigs,Philippines,town,2017-05-28T20:40:06Z,2017-06-27T20:40:06Z,225
+1303174,funded,125,Fishing,Philippines,town,2017-05-28T20:40:04Z,2017-06-27T20:40:04Z,125
+1303176,funded,425,General Store,Philippines,town,2017-05-28T20:40:04Z,2017-06-27T20:40:04Z,425
+1303749,funded,275,Retail,Philippines,town,2017-05-28T20:40:04Z,2017-06-27T20:40:04Z,275
+1303743,funded,900,Personal Housing Expenses,Vietnam,town,2017-05-28T20:40:03Z,2017-06-27T20:40:03Z,900
+1303748,fundraising,300,General Store,Samoa,town,2017-05-28T20:40:03Z,2017-06-27T20:40:02Z,600
+1303750,fundraising,600,Beauty Salon,Vietnam,town,2017-05-28T20:40:03Z,2017-06-27T20:40:03Z,1325
+1303742,funded,1375,Textiles,Samoa,town,2017-05-28T20:40:02Z,2017-06-27T20:40:02Z,1375
+1303744,funded,225,Fruits & Vegetables,Philippines,town,2017-05-28T20:30:06Z,2017-06-27T20:30:05Z,225
+1303175,funded,225,General Store,Philippines,town,2017-05-28T20:30:05Z,2017-06-27T20:30:05Z,225
+1303739,funded,325,Pigs,Philippines,town,2017-05-28T20:30:05Z,2017-06-27T20:30:05Z,325
+1303740,funded,300,Pigs,Philippines,town,2017-05-28T20:30:05Z,2017-06-27T20:30:05Z,300
+1303738,funded,450,Personal Housing Expenses,Vietnam,town,2017-05-28T20:30:03Z,2017-06-27T20:30:03Z,450
+1303741,fundraising,425,Cattle,Cambodia,town,2017-05-28T20:30:02Z,2017-06-27T20:30:02Z,1000
+1303733,funded,225,Fish Selling,Philippines,town,2017-05-28T20:20:06Z,2017-06-27T20:20:06Z,225
+1303735,funded,325,Food Production/Sales,Philippines,town,2017-05-28T20:20:06Z,2017-06-27T20:20:06Z,325
+1303737,funded,225,Food,Philippines,town,2017-05-28T20:20:06Z,2017-06-27T20:20:06Z,225
+1303731,funded,225,Pigs,Philippines,town,2017-05-28T20:20:05Z,2017-06-27T20:20:05Z,225
+1303734,funded,175,Food,Philippines,town,2017-05-28T20:20:03Z,2017-06-27T20:20:03Z,175
+1303732,funded,400,Agriculture,Samoa,town,2017-05-28T20:20:02Z,2017-06-27T20:20:02Z,400
+1303736,funded,400,Agriculture,Samoa,town,2017-05-28T20:20:02Z,2017-06-27T20:20:02Z,400
+1303687,funded,800,Grocery Store,Yemen,town,2017-05-28T20:10:07Z,2017-06-27T20:10:07Z,800
+1303720,funded,325,General Store,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,325
+1303724,funded,225,General Store,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,225
+1303727,funded,225,Fishing,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,225
+1303728,funded,200,Farming,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,200
+1303729,funded,375,General Store,Philippines,town,2017-05-28T20:10:06Z,2017-06-27T20:10:06Z,375
+1303723,funded,600,Food Production/Sales,Samoa,town,2017-05-28T20:10:03Z,2017-06-27T20:10:02Z,600
+1303726,funded,400,Agriculture,Samoa,town,2017-05-28T20:10:03Z,2017-06-27T20:10:03Z,400
+1303730,funded,600,Sewing,Samoa,town,2017-05-28T20:10:03Z,2017-06-27T20:10:03Z,600
+1303667,funded,275,Home Energy,Mexico,town,2017-05-28T20:00:06Z,2017-06-27T20:00:05Z,275
+1303719,funded,325,General Store,Philippines,town,2017-05-28T20:00:05Z,2017-06-27T20:00:05Z,325
+1303721,funded,175,Personal Products Sales,Philippines,town,2017-05-28T20:00:05Z,2017-06-27T20:00:05Z,175
+1303722,funded,175,Pigs,Philippines,town,2017-05-28T20:00:05Z,2017-06-27T20:00:05Z,175
+1303716,funded,400,Farming,Samoa,town,2017-05-28T20:00:03Z,2017-06-27T20:00:03Z,400
+1303715,funded,600,Bakery,Samoa,town,2017-05-28T20:00:02Z,2017-06-27T20:00:02Z,600
+1303669,funded,550,Home Energy,Mexico,town,2017-05-28T19:50:04Z,2017-06-27T19:50:03Z,550
+1303684,funded,450,Home Energy,Mexico,town,2017-05-28T19:50:04Z,2017-06-27T19:50:04Z,450
+1303682,funded,1200,Grocery Store,Yemen,town,2017-05-28T19:50:03Z,2017-06-27T19:50:03Z,1200
+1303711,funded,800,Farming,Samoa,town,2017-05-28T19:50:03Z,2017-06-27T19:50:02Z,800
+1303714,fundraising,50,Food,Samoa,town,2017-05-28T19:50:03Z,2017-06-27T19:50:03Z,400
+1305482,funded,525,Retail,Mozambique,town,2017-05-28T19:50:03Z,2017-06-27T19:50:03Z,525
+1305344,funded,850,Personal Housing Expenses,Mozambique,town,2017-05-28T19:40:02Z,2017-06-27T19:40:02Z,850
+1303657,funded,225,Home Energy,Mexico,town,2017-05-28T19:30:03Z,2017-06-27T19:30:03Z,225
+1303660,funded,900,Home Energy,Mexico,town,2017-05-28T19:30:03Z,2017-06-27T19:30:03Z,900
+1303664,funded,225,Home Energy,Mexico,town,2017-05-28T19:30:03Z,2017-06-27T19:30:03Z,225
+1307124,funded,200,Agriculture,El Salvador,town,2017-05-28T19:30:02Z,2017-06-27T19:30:02Z,200
+1307137,funded,1100,Agriculture,Ecuador,town,2017-05-28T19:30:02Z,2017-06-27T19:30:02Z,1100
+1303117,funded,200,Farming,Kenya,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,200
+1303650,funded,1100,Education provider,Uganda,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,1100
+1303651,fundraising,50,Personal Housing Expenses,Uganda,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,575
+1303652,fundraising,25,Personal Expenses,Uganda,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,575
+1307136,fundraising,175,Farming,Ecuador,town,2017-05-28T19:10:04Z,2017-06-27T19:10:04Z,800
+1303173,funded,250,Clothing Sales,Philippines,town,2017-05-28T19:10:03Z,2017-06-27T19:10:03Z,250
+1299772,funded,375,Higher education costs,Tajikistan,town,2017-05-28T19:10:02Z,2017-06-27T19:10:02Z,375
+1299779,fundraising,0,Cattle,Tajikistan,town,2017-05-28T19:10:02Z,2017-06-27T19:10:02Z,475
+1307132,funded,5800,Agriculture,Bolivia,town,2017-05-28T19:10:02Z,2017-06-27T19:10:02Z,5800
+1303179,funded,175,Home Appliances,Cambodia,town,2017-05-28T19:00:06Z,2017-06-27T19:00:06Z,175
+1303649,funded,575,Farming,Uganda,town,2017-05-28T19:00:06Z,2017-06-27T19:00:05Z,575
+1303641,funded,700,Primary/secondary school costs,Uganda,town,2017-05-28T19:00:05Z,2017-06-27T19:00:05Z,700
+1303643,fundraising,275,Personal Housing Expenses,Uganda,town,2017-05-28T19:00:05Z,2017-06-27T19:00:05Z,725
+1307135,fundraising,50,Electronics Repair,Colombia,town,2017-05-28T19:00:05Z,2017-06-27T19:00:05Z,700
+1303182,funded,325,Food Production/Sales,Philippines,town,2017-05-28T19:00:04Z,2017-06-27T19:00:04Z,325
+1303171,funded,650,Personal Housing Expenses,Indonesia,town,2017-05-28T18:50:04Z,2017-06-27T18:50:04Z,650
+1303492,fundraising,25,General Store,Kenya,town,2017-05-28T18:50:04Z,2017-06-27T18:50:04Z,500
+1303172,funded,225,Home Appliances,Cambodia,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,225
+1303181,funded,225,Home Appliances,Cambodia,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,225
+1303579,fundraising,100,Farming,Nigeria,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,300
+1303647,fundraising,525,Personal Housing Expenses,Uganda,town,2017-05-28T18:50:03Z,2017-06-27T18:50:03Z,575
+1303486,funded,550,Manufacturing,Lebanon,country,2017-05-28T18:50:02Z,2017-06-27T18:50:02Z,550
+1307134,funded,925,Higher education costs,Peru,town,2017-05-28T18:50:02Z,2017-06-27T18:50:02Z,925
+1303482,funded,75,Farming,Nigeria,town,2017-05-28T18:40:05Z,2017-06-27T18:40:05Z,75
+1303488,fundraising,1000,Recycled Materials,Cambodia,town,2017-05-28T18:40:05Z,2017-06-27T18:40:05Z,2000
+1303489,fundraising,0,Farming,Nigeria,town,2017-05-28T18:40:05Z,2017-06-27T18:40:05Z,375
+1302764,funded,1025,Food Stall,Philippines,town,2017-05-28T18:40:04Z,2017-06-27T18:40:04Z,1025
+1303490,fundraising,0,Dairy,Armenia,town,2017-05-28T18:40:04Z,2017-06-27T18:40:04Z,3000
+1303576,funded,900,Cereals,Tanzania,town,2017-05-28T18:40:02Z,2017-06-27T18:40:02Z,900
+1307133,funded,1400,Higher education costs,Peru,town,2017-05-28T18:40:02Z,2017-06-27T18:40:02Z,1400
+1303508,fundraising,250,Food Market,Armenia,town,2017-05-28T18:30:03Z,2017-06-27T18:30:02Z,2075
+1303562,fundraising,0,Farming,Nigeria,town,2017-05-28T18:20:03Z,2017-06-27T18:20:03Z,225
+1307129,funded,200,Agriculture,El Salvador,country,2017-05-28T18:20:03Z,2017-06-27T18:20:03Z,200
+1307130,fundraising,0,Property,Colombia,town,2017-05-28T18:20:03Z,2017-06-27T18:20:02Z,1725
+1303531,funded,125,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,125
+1303557,fundraising,0,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,200
+1303571,funded,75,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,75
+1303575,funded,150,Farming,Nigeria,town,2017-05-28T18:10:03Z,2017-06-27T18:10:03Z,150
