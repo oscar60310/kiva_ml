@@ -24,7 +24,7 @@ data.forEach((l) => {
             s += ',M,NA,NA,NA';
     }
     s += ',' + getAgeGrounp(s.split(',')[s.split(',').length - 1]) + ',' + l.GDP ;
-    s += ',' + (l.sentiment == null)? 'NA': l.sentiment;
+    s += ',' + ((l.sentiment == null)? 'NA': l.sentiment);
     text += s + '\n';
 })
 fs.writeFileSync("./dataimg.csv", text);
